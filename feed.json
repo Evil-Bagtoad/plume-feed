@@ -1,0 +1,2267 @@
+{
+ "version": 1,
+ "articles": [
+  {
+   "id": "vikidia-chat",
+   "title": "Chat",
+   "title_en": "Cat",
+   "emoji": "🐈",
+   "color": "#e9bd72",
+   "topic": "Animaux",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Chat",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Chat&action=history",
+   "retrieved": "2026-09-30",
+   "note": "Shortened from the article's introduction. Whole sentences and parentheses were removed and marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Le chat domestique […] est un mammifère carnivore de la famille des félidés […].",
+       "en": "The house cat is a meat-eating mammal from the cat family."
+      },
+      {
+       "fr": "C'est le seul félin domestiqué […].",
+       "en": "It is the only tamed wild cat."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Les chats sont de grands dormeurs : les jeunes chats, appelés chatons, dorment jusqu'à 13 heures par jour.",
+       "en": "Cats are big sleepers: young cats, called kittens, sleep up to 13 hours a day."
+      },
+      {
+       "fr": "Les chats font leur toilette, c'est-à-dire qu'ils se lavent en se léchant grâce à une langue râpeuse.",
+       "en": "Cats groom themselves, that is, they wash themselves by licking, thanks to a rough tongue."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Les chats ont une très bonne vision dans le noir grâce à leur pupille qui se dilate bien plus que celle de l'humain.",
+       "en": "Cats see very well in the dark thanks to their pupil, which opens much wider than a human's."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Les jeunes chats s'appellent des ___.",
+     "options": [
+      "chiots",
+      "chatons",
+      "félins"
+     ],
+     "answer": 1,
+     "why": "« les jeunes chats, appelés chatons »"
+    },
+    {
+     "q": "Les jeunes chats dorment jusqu'à ___ heures par jour.",
+     "options": [
+      "8",
+      "13",
+      "20"
+     ],
+     "answer": 1,
+     "why": "« dorment jusqu'à 13 heures par jour »"
+    },
+    {
+     "q": "Comment les chats se lavent-ils ?",
+     "options": [
+      "Ils se lèchent.",
+      "Ils nagent.",
+      "Ils dorment."
+     ],
+     "answer": 0,
+     "why": "« ils se lavent en se léchant »"
+    }
+   ],
+   "keywords": [
+    "chat",
+    "chaton",
+    "dormir",
+    "se laver",
+    "langue",
+    "noir"
+   ],
+   "public": true,
+   "added": "2026-09-30"
+  },
+  {
+   "id": "vikidia-chien",
+   "title": "Chien",
+   "title_en": "Dog",
+   "emoji": "🐕",
+   "color": "#9fc6a8",
+   "topic": "Animaux",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Chien",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Chien&oldid=2567701",
+   "retrieved": "2026-09-30",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Le chien […] est un mammifère carnivore (c'est-à-dire qui ne mange que de la viande) […].",
+       "en": "The dog is a meat-eating mammal (that is, it only eats meat)."
+      },
+      {
+       "fr": "La femelle du chien s'appelle « chienne » et le petit « chiot ».",
+       "en": "The female dog is called a \"chienne\" and the baby a \"chiot\" (puppy)."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "C'est aussi le plus ancien animal domestique, de nos jours souvent utilisé comme simple animal de compagnie et considéré comme le meilleur ami de l'homme.",
+       "en": "It is also the oldest tame animal. Today it is often just a pet, and it is seen as man's best friend."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Il a un très bon flair et peut être dressé.",
+       "en": "It has a very good sense of smell and can be trained."
+      },
+      {
+       "fr": "Il existe plus de 350 races de chiens, comme le beauceron, le husky sibérien, le berger allemand, le border collie, le bichon havanais […].",
+       "en": "There are more than 350 dog breeds, like the Beauceron, the Siberian Husky, the German Shepherd, the Border Collie, the Havanese…"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Le petit du chien s'appelle un ___.",
+     "options": [
+      "chiot",
+      "chaton",
+      "loup"
+     ],
+     "answer": 0,
+     "why": "« le petit « chiot » »"
+    },
+    {
+     "q": "Le chien est considéré comme le meilleur ___ de l'homme.",
+     "options": [
+      "animal",
+      "ami",
+      "flair"
+     ],
+     "answer": 1,
+     "why": "« le meilleur ami de l'homme »"
+    },
+    {
+     "q": "Il existe plus de ___ races de chiens.",
+     "options": [
+      "35",
+      "100",
+      "350"
+     ],
+     "answer": 2,
+     "why": "« plus de 350 races de chiens »"
+    }
+   ],
+   "keywords": [
+    "chien",
+    "chienne",
+    "chiot",
+    "ami",
+    "animal de compagnie",
+    "manger"
+   ],
+   "public": true,
+   "added": "2026-09-30"
+  },
+  {
+   "id": "vikidia-tour-eiffel",
+   "title": "Tour Eiffel",
+   "title_en": "Eiffel Tower",
+   "emoji": "🗼",
+   "color": "#b8c7dd",
+   "topic": "Villes",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Tour_Eiffel",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Tour_Eiffel&oldid=2566903",
+   "retrieved": "2026-09-30",
+   "note": "The first and last paragraphs of the introduction. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "La tour Eiffel est une tour en fer située sur le Champ de Mars, à Paris, en France.",
+       "en": "The Eiffel Tower is an iron tower on the Champ de Mars, in Paris, in France."
+      },
+      {
+       "fr": "Elle doit son nom à l'ingénieur Gustave Eiffel, qui en est le créateur.",
+       "en": "It is named after the engineer Gustave Eiffel, who created it."
+      },
+      {
+       "fr": "Elle a été inaugurée le 31 mars 1889, lors de l'Exposition universelle qui se déroulait à Paris la même année.",
+       "en": "It opened on 31 March 1889, during the World's Fair that took place in Paris that same year."
+      },
+      {
+       "fr": "Sa hauteur est de 330 mètres, en comptant les antennes disposées à son sommet.",
+       "en": "It is 330 metres tall, counting the antennas at its top."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "La tour Eiffel est considérée comme le symbole de Paris et de la France.",
+       "en": "The Eiffel Tower is seen as the symbol of Paris and of France."
+      },
+      {
+       "fr": "Elle est le monument payant le plus visité au monde, avec près de 7 millions de visiteurs chaque année.",
+       "en": "It is the most visited paid monument in the world, with almost 7 million visitors every year."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "La tour Eiffel est une tour en ___.",
+     "options": [
+      "bois",
+      "fer",
+      "pierre"
+     ],
+     "answer": 1,
+     "why": "« une tour en fer »"
+    },
+    {
+     "q": "La tour Eiffel est à ___.",
+     "options": [
+      "Paris",
+      "Lyon",
+      "Marseille"
+     ],
+     "answer": 0,
+     "why": "« à Paris, en France »"
+    },
+    {
+     "q": "Combien de visiteurs chaque année ?",
+     "options": [
+      "7 000",
+      "700 000",
+      "près de 7 millions"
+     ],
+     "answer": 2,
+     "why": "« près de 7 millions de visiteurs chaque année »"
+    }
+   ],
+   "keywords": [
+    "tour",
+    "fer",
+    "nom",
+    "hauteur",
+    "symbole",
+    "visiteur",
+    "chaque année"
+   ],
+   "public": true,
+   "added": "2026-09-30"
+  }
+ ],
+ "glossary": {
+  "": {
+   "4e": {
+    "en": "4th",
+    "pos": "adj."
+   },
+   "a": {
+    "en": "has; also makes the past (a commencé = began)",
+    "l": "avoir",
+    "pos": "v."
+   },
+   "accueille": {
+    "en": "hosts, welcomes",
+    "l": "accueillir",
+    "pos": "v."
+   },
+   "acteurs": {
+    "en": "actors",
+    "l": "acteur",
+    "pos": "n.m."
+   },
+   "adapté": {
+    "en": "adapted, turned into",
+    "l": "adapter",
+    "pos": "v."
+   },
+   "agitation": {
+    "en": "commotion, buzz",
+    "l": "agitation",
+    "pos": "n.f."
+   },
+   "ailé": {
+    "en": "winged",
+    "l": "ailé",
+    "pos": "adj."
+   },
+   "aimaient": {
+    "en": "loved, liked (used to)",
+    "l": "aimer",
+    "pos": "v."
+   },
+   "alors": {
+    "en": "so, then",
+    "pos": "adv."
+   },
+   "allemand": {
+    "en": "German",
+    "l": "allemand",
+    "pos": "adj."
+   },
+   "ami": {
+    "en": "friend",
+    "l": "ami",
+    "pos": "n.m."
+   },
+   "américain": {
+    "en": "American",
+    "l": "américain",
+    "pos": "adj."
+   },
+   "ancien": {
+    "en": "old, ancient",
+    "l": "ancien",
+    "pos": "adj."
+   },
+   "animal": {
+    "en": "animal",
+    "l": "animal",
+    "pos": "n.m."
+   },
+   "animation": {
+    "en": "animation",
+    "l": "animation",
+    "pos": "n.f."
+   },
+   "année": {
+    "en": "year",
+    "l": "année",
+    "pos": "n.f."
+   },
+   "ans": {
+    "en": "years",
+    "l": "an",
+    "pos": "n.m."
+   },
+   "antennes": {
+    "en": "antennas",
+    "l": "antenne",
+    "pos": "n.f."
+   },
+   "aperçu": {
+    "en": "spotted, glimpsed",
+    "l": "apercevoir",
+    "pos": "v."
+   },
+   "appelle": {
+    "en": "is called (s'appeler)",
+    "l": "s'appeler",
+    "pos": "v."
+   },
+   "appelé": {
+    "en": "called (a appelé = called)",
+    "l": "appeler",
+    "pos": "v."
+   },
+   "appelés": {
+    "en": "called",
+    "l": "appeler",
+    "pos": "v."
+   },
+   "apprendre": {
+    "en": "to learn, to teach",
+    "l": "apprendre",
+    "pos": "v."
+   },
+   "approcher": {
+    "en": "to come near",
+    "l": "approcher",
+    "pos": "v."
+   },
+   "archéologues": {
+    "en": "archaeologists",
+    "l": "archéologue",
+    "pos": "n."
+   },
+   "as-tu": {
+    "en": "have you",
+    "l": "avoir",
+    "pos": "v."
+   },
+   "astérix": {
+    "en": "Asterix (comic book hero)",
+    "pos": "name"
+   },
+   "au": {
+    "en": "at the, to the, in the (à + le)",
+    "pos": "prep."
+   },
+   "aussi": {
+    "en": "also, too",
+    "pos": "adv."
+   },
+   "autour": {
+    "en": "around",
+    "pos": "adv."
+   },
+   "avant": {
+    "en": "before",
+    "pos": "prep."
+   },
+   "avec": {
+    "en": "with",
+    "pos": "prep."
+   },
+   "banquets": {
+    "en": "feasts",
+    "l": "banquet",
+    "pos": "n.m."
+   },
+   "barbares": {
+    "en": "barbarians",
+    "l": "barbare",
+    "pos": "n."
+   },
+   "beauceron": {
+    "en": "Beauceron (French dog breed)",
+    "pos": "n.m."
+   },
+   "beaucoup": {
+    "en": "a lot, much, many",
+    "pos": "adv."
+   },
+   "beaux": {
+    "en": "beautiful",
+    "l": "beau",
+    "pos": "adj."
+   },
+   "berger": {
+    "en": "shepherd",
+    "l": "berger",
+    "pos": "n.m."
+   },
+   "bichon": {
+    "en": "bichon (small dog)",
+    "l": "bichon",
+    "pos": "n.m."
+   },
+   "bien": {
+    "en": "well, really",
+    "pos": "adv."
+   },
+   "bijoux": {
+    "en": "jewellery",
+    "l": "bijou",
+    "pos": "n.m."
+   },
+   "bois": {
+    "en": "wood",
+    "l": "bois",
+    "pos": "n.m."
+   },
+   "bon": {
+    "en": "good",
+    "l": "bon",
+    "pos": "adj."
+   },
+   "bonne": {
+    "en": "good",
+    "l": "bon",
+    "pos": "adj."
+   },
+   "bordeaux": {
+    "en": "Bordeaux (city)",
+    "pos": "name"
+   },
+   "border": {
+    "en": "border",
+    "pos": "n."
+   },
+   "brède": {
+    "en": "Brède (La Brède, a village)",
+    "pos": "name"
+   },
+   "bêtes": {
+    "en": "animals, beasts",
+    "l": "bête",
+    "pos": "n.f."
+   },
+   "bœuf": {
+    "en": "beef",
+    "l": "bœuf",
+    "pos": "n.m."
+   },
+   "c'": {
+    "en": "it, this (ce)",
+    "l": "ce",
+    "pos": "pron."
+   },
+   "camions": {
+    "en": "trucks",
+    "l": "camion",
+    "pos": "n.m."
+   },
+   "caméras": {
+    "en": "cameras",
+    "l": "caméra",
+    "pos": "n.f."
+   },
+   "car": {
+    "en": "because",
+    "pos": "conj."
+   },
+   "carnivore": {
+    "en": "meat-eating",
+    "l": "carnivore",
+    "pos": "adj."
+   },
+   "casque": {
+    "en": "helmet",
+    "l": "casque",
+    "pos": "n.m."
+   },
+   "casques": {
+    "en": "helmets",
+    "l": "casque",
+    "pos": "n.m."
+   },
+   "ce": {
+    "en": "this, that; it",
+    "l": "ce",
+    "pos": "det."
+   },
+   "celle": {
+    "en": "the one",
+    "l": "celle",
+    "pos": "pron."
+   },
+   "celtes": {
+    "en": "Celts",
+    "l": "Celte",
+    "pos": "n."
+   },
+   "centre": {
+    "en": "centre, middle",
+    "l": "centre",
+    "pos": "n.m."
+   },
+   "ces": {
+    "en": "these, those",
+    "l": "ce",
+    "pos": "det."
+   },
+   "cet": {
+    "en": "this",
+    "l": "ce",
+    "pos": "det."
+   },
+   "cette": {
+    "en": "this",
+    "l": "ce",
+    "pos": "det."
+   },
+   "champ": {
+    "en": "field",
+    "l": "champ",
+    "pos": "n.m."
+   },
+   "chaque": {
+    "en": "each, every",
+    "l": "chaque",
+    "pos": "det."
+   },
+   "chat": {
+    "en": "cat",
+    "l": "chat",
+    "pos": "n.m."
+   },
+   "chatons": {
+    "en": "kittens",
+    "l": "chaton",
+    "pos": "n.m."
+   },
+   "chats": {
+    "en": "cats",
+    "l": "chat",
+    "pos": "n.m."
+   },
+   "cheveux": {
+    "en": "hair",
+    "l": "cheveu",
+    "pos": "n.m."
+   },
+   "chien": {
+    "en": "dog",
+    "l": "chien",
+    "pos": "n.m."
+   },
+   "chienne": {
+    "en": "female dog",
+    "l": "chienne",
+    "pos": "n.f."
+   },
+   "chiens": {
+    "en": "dogs",
+    "l": "chien",
+    "pos": "n.m."
+   },
+   "chiot": {
+    "en": "puppy",
+    "l": "chiot",
+    "pos": "n.m."
+   },
+   "choses": {
+    "en": "things",
+    "l": "chose",
+    "pos": "n.f."
+   },
+   "château": {
+    "en": "castle",
+    "l": "château",
+    "pos": "n.m."
+   },
+   "circule": {
+    "en": "goes around, spreads",
+    "l": "circuler",
+    "pos": "v."
+   },
+   "cité": {
+    "en": "city",
+    "l": "cité",
+    "pos": "n.f."
+   },
+   "collie": {
+    "en": "collie",
+    "l": "collie",
+    "pos": "n.m."
+   },
+   "combats": {
+    "en": "battles, fights",
+    "l": "combat",
+    "pos": "n.m."
+   },
+   "comme": {
+    "en": "like, as",
+    "pos": "conj."
+   },
+   "commencé": {
+    "en": "started (a commencé = has started)",
+    "l": "commencer",
+    "pos": "v."
+   },
+   "comment": {
+    "en": "how",
+    "pos": "adv."
+   },
+   "compagnie": {
+    "en": "company",
+    "l": "compagnie",
+    "pos": "n.f."
+   },
+   "comptant": {
+    "en": "counting",
+    "l": "compter",
+    "pos": "v."
+   },
+   "connaissances": {
+    "en": "knowledge",
+    "l": "connaissance",
+    "pos": "n.f."
+   },
+   "considéré": {
+    "en": "considered, seen as",
+    "l": "considérer",
+    "pos": "v."
+   },
+   "considérée": {
+    "en": "considered, seen as",
+    "l": "considérer",
+    "pos": "v."
+   },
+   "conte": {
+    "en": "tale, fairy tale",
+    "l": "conte",
+    "pos": "n.m."
+   },
+   "contre": {
+    "en": "against",
+    "pos": "prep."
+   },
+   "court": {
+    "en": "runs, goes around",
+    "l": "courir",
+    "pos": "v."
+   },
+   "couvre-joues": {
+    "en": "cheek guards",
+    "l": "couvre-joue",
+    "pos": "n.m."
+   },
+   "créateur": {
+    "en": "creator",
+    "l": "créateur",
+    "pos": "n.m."
+   },
+   "créée": {
+    "en": "created (s'est créée = was created)",
+    "l": "créer",
+    "pos": "v."
+   },
+   "cultivaient": {
+    "en": "grew, farmed",
+    "l": "cultiver",
+    "pos": "v."
+   },
+   "célébrer": {
+    "en": "to celebrate",
+    "l": "célébrer",
+    "pos": "v."
+   },
+   "céréales": {
+    "en": "grains, cereals",
+    "l": "céréale",
+    "pos": "n.f."
+   },
+   "césar": {
+    "en": "Caesar",
+    "pos": "name"
+   },
+   "côté": {
+    "en": "side",
+    "l": "côté",
+    "pos": "n.m."
+   },
+   "d'": {
+    "en": "of, from (de)",
+    "l": "de",
+    "pos": "prep."
+   },
+   "dans": {
+    "en": "in",
+    "pos": "prep."
+   },
+   "de": {
+    "en": "of, from",
+    "l": "de",
+    "pos": "prep."
+   },
+   "depuis": {
+    "en": "since, for",
+    "pos": "prep."
+   },
+   "des": {
+    "en": "some; of the",
+    "l": "des",
+    "pos": "det."
+   },
+   "dilate": {
+    "en": "widens, opens up",
+    "l": "se dilater",
+    "pos": "v."
+   },
+   "dirait": {
+    "en": "would say",
+    "l": "dire",
+    "pos": "v."
+   },
+   "disney": {
+    "en": "Disney",
+    "pos": "name"
+   },
+   "disposées": {
+    "en": "placed, set up",
+    "l": "disposer",
+    "pos": "v."
+   },
+   "doit": {
+    "en": "owes; must",
+    "l": "devoir",
+    "pos": "v."
+   },
+   "domestique": {
+    "en": "domestic, tame",
+    "l": "domestique",
+    "pos": "adj."
+   },
+   "domestiqué": {
+    "en": "tamed",
+    "l": "domestiquer",
+    "pos": "v."
+   },
+   "donjon": {
+    "en": "castle tower, keep",
+    "l": "donjon",
+    "pos": "n.m."
+   },
+   "dont": {
+    "en": "of which, whose",
+    "l": "dont",
+    "pos": "pron."
+   },
+   "dormaient": {
+    "en": "slept, used to sleep",
+    "l": "dormir",
+    "pos": "v."
+   },
+   "dorment": {
+    "en": "sleep",
+    "l": "dormir",
+    "pos": "v."
+   },
+   "dormeurs": {
+    "en": "sleepers",
+    "l": "dormeur",
+    "pos": "n.m."
+   },
+   "dressé": {
+    "en": "trained",
+    "l": "dresser",
+    "pos": "v."
+   },
+   "droit": {
+    "en": "right",
+    "l": "droit",
+    "pos": "n.m."
+   },
+   "druides": {
+    "en": "druids (Gaulish priests)",
+    "l": "druide",
+    "pos": "n.m."
+   },
+   "drôle": {
+    "en": "strange, funny",
+    "l": "drôle",
+    "pos": "adj."
+   },
+   "du": {
+    "en": "of the, some (de + le)",
+    "pos": "det."
+   },
+   "décors": {
+    "en": "film sets",
+    "l": "décor",
+    "pos": "n.m."
+   },
+   "découvert": {
+    "en": "discovered",
+    "l": "découvrir",
+    "pos": "v."
+   },
+   "découverte": {
+    "en": "discovery",
+    "l": "découverte",
+    "pos": "n.f."
+   },
+   "découvrir": {
+    "en": "to discover",
+    "l": "découvrir",
+    "pos": "v."
+   },
+   "déjà": {
+    "en": "already; for a start",
+    "pos": "adv."
+   },
+   "déroulait": {
+    "en": "took place, was happening",
+    "l": "se dérouler",
+    "pos": "v."
+   },
+   "eiffel": {
+    "en": "Eiffel",
+    "pos": "name"
+   },
+   "elle": {
+    "en": "she, it",
+    "l": "elle",
+    "pos": "pron."
+   },
+   "en": {
+    "en": "in; made of; of it",
+    "l": "en",
+    "pos": "prep."
+   },
+   "encore": {
+    "en": "still, again",
+    "pos": "adv."
+   },
+   "ennemi": {
+    "en": "enemy",
+    "l": "ennemi",
+    "pos": "n.m."
+   },
+   "ensuite": {
+    "en": "next, then",
+    "pos": "adv."
+   },
+   "environ": {
+    "en": "about, around",
+    "pos": "adv."
+   },
+   "espagne": {
+    "en": "Spain",
+    "pos": "name"
+   },
+   "est": {
+    "en": "is",
+    "l": "être",
+    "pos": "v."
+   },
+   "est-à-dire": {
+    "en": "(part of c'est-à-dire: that is)",
+    "pos": "expr."
+   },
+   "et": {
+    "en": "and",
+    "pos": "conj."
+   },
+   "eux": {
+    "en": "them",
+    "l": "eux",
+    "pos": "pron."
+   },
+   "existe": {
+    "en": "exists (il existe = there is/are)",
+    "l": "exister",
+    "pos": "v."
+   },
+   "existé": {
+    "en": "existed",
+    "l": "exister",
+    "pos": "v."
+   },
+   "exposition": {
+    "en": "exhibition, fair",
+    "l": "exposition",
+    "pos": "n.f."
+   },
+   "fabriquaient": {
+    "en": "made",
+    "l": "fabriquer",
+    "pos": "v."
+   },
+   "fait": {
+    "en": "fact; done",
+    "l": "faire",
+    "pos": "v."
+   },
+   "famille": {
+    "en": "family",
+    "l": "famille",
+    "pos": "n.f."
+   },
+   "façon": {
+    "en": "way",
+    "l": "façon",
+    "pos": "n.f."
+   },
+   "femelle": {
+    "en": "female",
+    "l": "femelle",
+    "pos": "n.f."
+   },
+   "fer": {
+    "en": "iron",
+    "l": "fer",
+    "pos": "n.m."
+   },
+   "feu": {
+    "en": "fire",
+    "l": "feu",
+    "pos": "n.m."
+   },
+   "film": {
+    "en": "film, movie",
+    "l": "film",
+    "pos": "n.m."
+   },
+   "flair": {
+    "en": "sense of smell",
+    "l": "flair",
+    "pos": "n.m."
+   },
+   "font": {
+    "en": "do, make",
+    "l": "faire",
+    "pos": "v."
+   },
+   "forteresse": {
+    "en": "fortress",
+    "l": "forteresse",
+    "pos": "n.f."
+   },
+   "france": {
+    "en": "France",
+    "pos": "name"
+   },
+   "français": {
+    "en": "French",
+    "l": "français",
+    "pos": "adj."
+   },
+   "futur": {
+    "en": "future, upcoming",
+    "l": "futur",
+    "pos": "adj."
+   },
+   "félidés": {
+    "en": "cat family (felids)",
+    "l": "félidé",
+    "pos": "n.m."
+   },
+   "félin": {
+    "en": "wild cat, feline",
+    "l": "félin",
+    "pos": "n.m."
+   },
+   "gaule": {
+    "en": "Gaul (old name for France)",
+    "pos": "name"
+   },
+   "gaulois": {
+    "en": "Gauls, Gaulish",
+    "l": "Gaulois",
+    "pos": "n."
+   },
+   "grands": {
+    "en": "big",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "gros": {
+    "en": "big",
+    "l": "gros",
+    "pos": "adj."
+   },
+   "grâce": {
+    "en": "thanks (grâce à = thanks to)",
+    "l": "grâce",
+    "pos": "n.f."
+   },
+   "guerriers": {
+    "en": "warriors",
+    "l": "guerrier",
+    "pos": "n.m."
+   },
+   "gustave": {
+    "en": "Gustave",
+    "pos": "name"
+   },
+   "habitants": {
+    "en": "inhabitants, locals",
+    "l": "habitant",
+    "pos": "n.m."
+   },
+   "habituellement": {
+    "en": "usually",
+    "pos": "adv."
+   },
+   "hauteur": {
+    "en": "height",
+    "l": "hauteur",
+    "pos": "n.f."
+   },
+   "havanais": {
+    "en": "Havanese",
+    "l": "havanais",
+    "pos": "adj."
+   },
+   "heures": {
+    "en": "hours",
+    "l": "heure",
+    "pos": "n.f."
+   },
+   "histoire": {
+    "en": "story, history",
+    "l": "histoire",
+    "pos": "n.f."
+   },
+   "historiens": {
+    "en": "historians",
+    "l": "historien",
+    "pos": "n.m."
+   },
+   "homme": {
+    "en": "man, mankind",
+    "l": "homme",
+    "pos": "n.m."
+   },
+   "humain": {
+    "en": "human",
+    "l": "humain",
+    "pos": "n.m."
+   },
+   "husky": {
+    "en": "husky",
+    "l": "husky",
+    "pos": "n.m."
+   },
+   "héroïne": {
+    "en": "heroine",
+    "l": "héroïne",
+    "pos": "n.f."
+   },
+   "il": {
+    "en": "he, it",
+    "l": "il",
+    "pos": "pron."
+   },
+   "ils": {
+    "en": "they",
+    "l": "ils",
+    "pos": "pron."
+   },
+   "importante": {
+    "en": "important",
+    "l": "important",
+    "pos": "adj."
+   },
+   "inaugurée": {
+    "en": "opened (officially)",
+    "l": "inaugurer",
+    "pos": "v."
+   },
+   "infos": {
+    "en": "information, news",
+    "l": "info",
+    "pos": "n.f."
+   },
+   "ingénieur": {
+    "en": "engineer",
+    "l": "ingénieur",
+    "pos": "n.m."
+   },
+   "installées": {
+    "en": "set up",
+    "l": "installer",
+    "pos": "v."
+   },
+   "installés": {
+    "en": "settled (se sont installés)",
+    "l": "s'installer",
+    "pos": "v."
+   },
+   "internet": {
+    "en": "the Internet",
+    "pos": "n.m."
+   },
+   "inventé": {
+    "en": "invented",
+    "l": "inventer",
+    "pos": "v."
+   },
+   "ive": {
+    "en": "4th (Roman numeral: IVe = 4e)",
+    "pos": "adj."
+   },
+   "jamais": {
+    "en": "never (ne … jamais)",
+    "pos": "adv."
+   },
+   "jeunes": {
+    "en": "young",
+    "l": "jeune",
+    "pos": "adj."
+   },
+   "jour": {
+    "en": "day",
+    "l": "jour",
+    "pos": "n.m."
+   },
+   "journaux": {
+    "en": "newspapers",
+    "l": "journal",
+    "pos": "n.m."
+   },
+   "jours": {
+    "en": "days",
+    "l": "jour",
+    "pos": "n.m."
+   },
+   "jules": {
+    "en": "Julius",
+    "pos": "name"
+   },
+   "jusqu'": {
+    "en": "up to (jusqu'à)",
+    "pos": "prep."
+   },
+   "jésus-christ": {
+    "en": "Jesus Christ",
+    "pos": "name"
+   },
+   "l'": {
+    "en": "the; him/her/it",
+    "l": "le",
+    "pos": "det."
+   },
+   "la": {
+    "en": "the; her/it",
+    "l": "la",
+    "pos": "det."
+   },
+   "laine": {
+    "en": "wool",
+    "l": "laine",
+    "pos": "n.f."
+   },
+   "laissé": {
+    "en": "left",
+    "l": "laisser",
+    "pos": "v."
+   },
+   "langue": {
+    "en": "tongue; language",
+    "l": "langue",
+    "pos": "n.f."
+   },
+   "lavent": {
+    "en": "wash (se laver)",
+    "l": "se laver",
+    "pos": "v."
+   },
+   "le": {
+    "en": "the; him/it",
+    "l": "le",
+    "pos": "det."
+   },
+   "les": {
+    "en": "the; them",
+    "l": "les",
+    "pos": "det."
+   },
+   "lequel": {
+    "en": "which one",
+    "l": "lequel",
+    "pos": "pron."
+   },
+   "leur": {
+    "en": "their",
+    "l": "leur",
+    "pos": "det."
+   },
+   "leurs": {
+    "en": "their",
+    "l": "leur",
+    "pos": "det."
+   },
+   "loges": {
+    "en": "dressing rooms",
+    "l": "loge",
+    "pos": "n.f."
+   },
+   "longs": {
+    "en": "long",
+    "l": "long",
+    "pos": "adj."
+   },
+   "lors": {
+    "en": "during (lors de)",
+    "pos": "adv."
+   },
+   "lutèce": {
+    "en": "Lutetia (the old name of Paris)",
+    "pos": "name"
+   },
+   "léchant": {
+    "en": "licking",
+    "l": "lécher",
+    "pos": "v."
+   },
+   "magique": {
+    "en": "magic",
+    "l": "magique",
+    "pos": "adj."
+   },
+   "maire": {
+    "en": "mayor",
+    "l": "maire",
+    "pos": "n.m."
+   },
+   "mais": {
+    "en": "but",
+    "pos": "conj."
+   },
+   "maisons": {
+    "en": "houses",
+    "l": "maison",
+    "pos": "n.f."
+   },
+   "mammifère": {
+    "en": "mammal",
+    "l": "mammifère",
+    "pos": "n.m."
+   },
+   "mange": {
+    "en": "eats",
+    "l": "manger",
+    "pos": "v."
+   },
+   "mangeaient": {
+    "en": "ate, used to eat",
+    "l": "manger",
+    "pos": "v."
+   },
+   "mars": {
+    "en": "March; Mars",
+    "l": "mars",
+    "pos": "n.m."
+   },
+   "matelas": {
+    "en": "mattresses",
+    "l": "matelas",
+    "pos": "n.m."
+   },
+   "meilleur": {
+    "en": "best",
+    "l": "meilleur",
+    "pos": "adj."
+   },
+   "militaires": {
+    "en": "military",
+    "l": "militaire",
+    "pos": "adj."
+   },
+   "millions": {
+    "en": "millions",
+    "l": "million",
+    "pos": "n.m."
+   },
+   "miroirs": {
+    "en": "mirrors",
+    "l": "miroir",
+    "pos": "n.m."
+   },
+   "moment": {
+    "en": "moment",
+    "l": "moment",
+    "pos": "n.m."
+   },
+   "monde": {
+    "en": "world",
+    "l": "monde",
+    "pos": "n.m."
+   },
+   "montesquieu": {
+    "en": "Montesquieu (French philosopher)",
+    "pos": "name"
+   },
+   "monument": {
+    "en": "monument",
+    "l": "monument",
+    "pos": "n.m."
+   },
+   "moyen": {
+    "en": "middle",
+    "l": "moyen",
+    "pos": "adj."
+   },
+   "mur": {
+    "en": "wall",
+    "l": "mur",
+    "pos": "n.m."
+   },
+   "mètres": {
+    "en": "metres",
+    "l": "mètre",
+    "pos": "n.m."
+   },
+   "médicinales": {
+    "en": "medicinal, healing",
+    "l": "médicinal",
+    "pos": "adj."
+   },
+   "même": {
+    "en": "same; even",
+    "l": "même",
+    "pos": "adj."
+   },
+   "n'": {
+    "en": "not (ne)",
+    "l": "ne",
+    "pos": "adv."
+   },
+   "ne": {
+    "en": "not (ne … que = only)",
+    "l": "ne",
+    "pos": "adv."
+   },
+   "noir": {
+    "en": "dark; black",
+    "l": "noir",
+    "pos": "n.m."
+   },
+   "nom": {
+    "en": "name",
+    "l": "nom",
+    "pos": "n.m."
+   },
+   "nos": {
+    "en": "our",
+    "l": "notre",
+    "pos": "det."
+   },
+   "notamment": {
+    "en": "in particular",
+    "pos": "adv."
+   },
+   "nous": {
+    "en": "us, we",
+    "l": "nous",
+    "pos": "pron."
+   },
+   "on": {
+    "en": "we, people, one",
+    "l": "on",
+    "pos": "pron."
+   },
+   "ont": {
+    "en": "have (also makes the past: ont voyagé = travelled)",
+    "l": "avoir",
+    "pos": "v."
+   },
+   "oral": {
+    "en": "oral, spoken",
+    "l": "oral",
+    "pos": "n.m."
+   },
+   "organiser": {
+    "en": "to organise, to hold",
+    "l": "organiser",
+    "pos": "v."
+   },
+   "origine": {
+    "en": "origin",
+    "l": "origine",
+    "pos": "n.f."
+   },
+   "où": {
+    "en": "where",
+    "pos": "adv."
+   },
+   "paille": {
+    "en": "straw",
+    "l": "paille",
+    "pos": "n.f."
+   },
+   "par": {
+    "en": "by, per",
+    "pos": "prep."
+   },
+   "parc": {
+    "en": "park",
+    "l": "parc",
+    "pos": "n.m."
+   },
+   "parce": {
+    "en": "because (parce que)",
+    "pos": "conj."
+   },
+   "paris": {
+    "en": "Paris",
+    "pos": "name"
+   },
+   "parle-t-on": {
+    "en": "do people talk",
+    "l": "parler",
+    "pos": "v."
+   },
+   "partie": {
+    "en": "part",
+    "l": "partie",
+    "pos": "n.f."
+   },
+   "pas": {
+    "en": "not (ne … pas)",
+    "pos": "adv."
+   },
+   "payant": {
+    "en": "paid (you pay to enter)",
+    "l": "payant",
+    "pos": "adj."
+   },
+   "peaux": {
+    "en": "skins",
+    "l": "peau",
+    "pos": "n.f."
+   },
+   "peignes": {
+    "en": "combs",
+    "l": "peigne",
+    "pos": "n.m."
+   },
+   "pendant": {
+    "en": "during",
+    "pos": "prep."
+   },
+   "personne": {
+    "en": "nobody (personne ne …)",
+    "l": "personne",
+    "pos": "pron."
+   },
+   "petit": {
+    "en": "small; the baby (animal)",
+    "l": "petit",
+    "pos": "adj."
+   },
+   "peu": {
+    "en": "little, few",
+    "pos": "adv."
+   },
+   "peuples": {
+    "en": "peoples",
+    "l": "peuple",
+    "pos": "n.m."
+   },
+   "peut": {
+    "en": "can",
+    "l": "pouvoir",
+    "pos": "v."
+   },
+   "peut-être": {
+    "en": "maybe",
+    "pos": "adv."
+   },
+   "philosophe": {
+    "en": "philosopher",
+    "l": "philosophe",
+    "pos": "n.m."
+   },
+   "pièce": {
+    "en": "room",
+    "l": "pièce",
+    "pos": "n.f."
+   },
+   "plantes": {
+    "en": "plants",
+    "l": "plante",
+    "pos": "n.f."
+   },
+   "plus": {
+    "en": "more",
+    "pos": "adv."
+   },
+   "plutôt": {
+    "en": "rather",
+    "pos": "adv."
+   },
+   "portaient": {
+    "en": "wore",
+    "l": "porter",
+    "pos": "v."
+   },
+   "potion": {
+    "en": "potion",
+    "l": "potion",
+    "pos": "n.f."
+   },
+   "potions": {
+    "en": "potions",
+    "l": "potion",
+    "pos": "n.f."
+   },
+   "pour": {
+    "en": "for; in order to",
+    "pos": "prep."
+   },
+   "pourquoi": {
+    "en": "why",
+    "pos": "adv."
+   },
+   "pourrait": {
+    "en": "could",
+    "l": "pouvoir",
+    "pos": "v."
+   },
+   "prenaient": {
+    "en": "took",
+    "l": "prendre",
+    "pos": "v."
+   },
+   "prisonnière": {
+    "en": "prisoner",
+    "l": "prisonnier",
+    "pos": "n.f."
+   },
+   "protéger": {
+    "en": "to protect",
+    "l": "protéger",
+    "pos": "v."
+   },
+   "près": {
+    "en": "near; nearly (près de)",
+    "pos": "adv."
+   },
+   "préparer": {
+    "en": "to prepare, to make",
+    "l": "préparer",
+    "pos": "v."
+   },
+   "prévue": {
+    "en": "planned, expected",
+    "l": "prévoir",
+    "pos": "v."
+   },
+   "pupille": {
+    "en": "pupil (of the eye)",
+    "l": "pupille",
+    "pos": "n.f."
+   },
+   "qu'": {
+    "en": "that; than (que)",
+    "l": "que",
+    "pos": "conj."
+   },
+   "que": {
+    "en": "that; than; only (ne … que)",
+    "l": "que",
+    "pos": "conj."
+   },
+   "quelques": {
+    "en": "a few",
+    "l": "quelque",
+    "pos": "det."
+   },
+   "qui": {
+    "en": "who, which, that",
+    "l": "qui",
+    "pos": "pron."
+   },
+   "races": {
+    "en": "breeds",
+    "l": "race",
+    "pos": "n.f."
+   },
+   "raiponce": {
+    "en": "Rapunzel",
+    "pos": "name"
+   },
+   "rasoirs": {
+    "en": "razors",
+    "l": "rasoir",
+    "pos": "n.m."
+   },
+   "recettes": {
+    "en": "recipes",
+    "l": "recette",
+    "pos": "n.f."
+   },
+   "recouverts": {
+    "en": "covered",
+    "l": "recouvrir",
+    "pos": "v."
+   },
+   "redoutables": {
+    "en": "fearsome",
+    "l": "redoutable",
+    "pos": "adj."
+   },
+   "restées": {
+    "en": "stayed, remained",
+    "l": "rester",
+    "pos": "v."
+   },
+   "retenue": {
+    "en": "held",
+    "l": "retenir",
+    "pos": "v."
+   },
+   "rumeur": {
+    "en": "rumour",
+    "l": "rumeur",
+    "pos": "n.f."
+   },
+   "râpeuse": {
+    "en": "rough",
+    "l": "râpeux",
+    "pos": "adj."
+   },
+   "règne": {
+    "en": "reigns, there is",
+    "l": "régner",
+    "pos": "v."
+   },
+   "réponse": {
+    "en": "answer",
+    "l": "réponse",
+    "pos": "n.f."
+   },
+   "s'": {
+    "en": "himself, itself, themselves (se)",
+    "l": "se",
+    "pos": "pron."
+   },
+   "sa": {
+    "en": "his, her, its",
+    "l": "son",
+    "pos": "det."
+   },
+   "sait": {
+    "en": "knows",
+    "l": "savoir",
+    "pos": "v."
+   },
+   "sanglier": {
+    "en": "wild boar",
+    "l": "sanglier",
+    "pos": "n.m."
+   },
+   "savaient": {
+    "en": "knew (how to)",
+    "l": "savoir",
+    "pos": "v."
+   },
+   "savon": {
+    "en": "soap",
+    "l": "savon",
+    "pos": "n.m."
+   },
+   "se": {
+    "en": "themselves, itself",
+    "l": "se",
+    "pos": "pron."
+   },
+   "secrètes": {
+    "en": "secret",
+    "l": "secret",
+    "pos": "adj."
+   },
+   "selon": {
+    "en": "according to",
+    "pos": "prep."
+   },
+   "semaines": {
+    "en": "weeks",
+    "l": "semaine",
+    "pos": "n.f."
+   },
+   "septembre": {
+    "en": "September",
+    "l": "septembre",
+    "pos": "n.m."
+   },
+   "serait": {
+    "en": "would be",
+    "l": "être",
+    "pos": "v."
+   },
+   "ses": {
+    "en": "his, her, its",
+    "l": "son",
+    "pos": "det."
+   },
+   "seul": {
+    "en": "only, single",
+    "l": "seul",
+    "pos": "adj."
+   },
+   "seule": {
+    "en": "single, only",
+    "l": "seul",
+    "pos": "adj."
+   },
+   "sibérien": {
+    "en": "Siberian",
+    "l": "sibérien",
+    "pos": "adj."
+   },
+   "simple": {
+    "en": "simple, just",
+    "l": "simple",
+    "pos": "adj."
+   },
+   "située": {
+    "en": "located",
+    "l": "situé",
+    "pos": "adj."
+   },
+   "siècle": {
+    "en": "century",
+    "l": "siècle",
+    "pos": "n.m."
+   },
+   "soin": {
+    "en": "care",
+    "l": "soin",
+    "pos": "n.m."
+   },
+   "sommet": {
+    "en": "top",
+    "l": "sommet",
+    "pos": "n.m."
+   },
+   "son": {
+    "en": "his, her, its",
+    "l": "son",
+    "pos": "det."
+   },
+   "sont": {
+    "en": "are",
+    "l": "être",
+    "pos": "v."
+   },
+   "sortie": {
+    "en": "release",
+    "l": "sortie",
+    "pos": "n.f."
+   },
+   "souvent": {
+    "en": "often",
+    "pos": "adv."
+   },
+   "sud-ouest": {
+    "en": "south-west",
+    "l": "sud-ouest",
+    "pos": "n.m."
+   },
+   "sur": {
+    "en": "on, about",
+    "pos": "prep."
+   },
+   "surtout": {
+    "en": "above all",
+    "pos": "adv."
+   },
+   "symbole": {
+    "en": "symbol",
+    "l": "symbole",
+    "pos": "n.m."
+   },
+   "techniciens": {
+    "en": "technicians",
+    "l": "technicien",
+    "pos": "n.m."
+   },
+   "temps": {
+    "en": "time",
+    "l": "temps",
+    "pos": "n.m."
+   },
+   "terre": {
+    "en": "earth, soil",
+    "l": "terre",
+    "pos": "n.f."
+   },
+   "territoire": {
+    "en": "territory, land",
+    "l": "territoire",
+    "pos": "n.m."
+   },
+   "toilette": {
+    "en": "washing, grooming",
+    "l": "toilette",
+    "pos": "n.f."
+   },
+   "tour": {
+    "en": "tower",
+    "l": "tour",
+    "pos": "n.f."
+   },
+   "tournage": {
+    "en": "filming, film shoot",
+    "l": "tournage",
+    "pos": "n.m."
+   },
+   "tournée": {
+    "en": "filmed, shot",
+    "l": "tourner",
+    "pos": "v."
+   },
+   "tout": {
+    "en": "all, completely",
+    "l": "tout",
+    "pos": "adv."
+   },
+   "toutatis": {
+    "en": "Toutatis (a Gaulish god)",
+    "pos": "name"
+   },
+   "traditionnel": {
+    "en": "traditional",
+    "l": "traditionnel",
+    "pos": "adj."
+   },
+   "tranquille": {
+    "en": "quiet, calm",
+    "l": "tranquille",
+    "pos": "adj."
+   },
+   "transmettaient": {
+    "en": "passed on",
+    "l": "transmettre",
+    "pos": "v."
+   },
+   "transportant": {
+    "en": "carrying",
+    "l": "transporter",
+    "pos": "v."
+   },
+   "très": {
+    "en": "very",
+    "pos": "adv."
+   },
+   "ultrasecret": {
+    "en": "top secret",
+    "l": "ultrasecret",
+    "pos": "adj."
+   },
+   "un": {
+    "en": "a, one",
+    "l": "un",
+    "pos": "det."
+   },
+   "une": {
+    "en": "a, one",
+    "l": "un",
+    "pos": "det."
+   },
+   "universelle": {
+    "en": "universal",
+    "l": "universel",
+    "pos": "adj."
+   },
+   "utilisé": {
+    "en": "used",
+    "l": "utiliser",
+    "pos": "v."
+   },
+   "vers": {
+    "en": "towards",
+    "pos": "prep."
+   },
+   "verra-t-on": {
+    "en": "will we see",
+    "l": "voir",
+    "pos": "v."
+   },
+   "viande": {
+    "en": "meat",
+    "l": "viande",
+    "pos": "n.f."
+   },
+   "victoires": {
+    "en": "victories",
+    "l": "victoire",
+    "pos": "n.f."
+   },
+   "village": {
+    "en": "village",
+    "l": "village",
+    "pos": "n.m."
+   },
+   "ville": {
+    "en": "city, town",
+    "l": "ville",
+    "pos": "n.f."
+   },
+   "vision": {
+    "en": "eyesight, vision",
+    "l": "vision",
+    "pos": "n.f."
+   },
+   "visiteurs": {
+    "en": "visitors",
+    "l": "visiteur",
+    "pos": "n.m."
+   },
+   "visité": {
+    "en": "visited",
+    "l": "visiter",
+    "pos": "v."
+   },
+   "vivaient": {
+    "en": "lived",
+    "l": "vivre",
+    "pos": "v."
+   },
+   "voici": {
+    "en": "here is",
+    "pos": "adv."
+   },
+   "voyagé": {
+    "en": "travelled",
+    "l": "voyager",
+    "pos": "v."
+   },
+   "vraiment": {
+    "en": "really",
+    "pos": "adv."
+   },
+   "vu": {
+    "en": "seen",
+    "l": "voir",
+    "pos": "v."
+   },
+   "vécu": {
+    "en": "lived",
+    "l": "vivre",
+    "pos": "v."
+   },
+   "y": {
+    "en": "there",
+    "pos": "adv."
+   },
+   "à": {
+    "en": "at, to, in",
+    "pos": "prep."
+   },
+   "âge": {
+    "en": "age",
+    "l": "âge",
+    "pos": "n.m."
+   },
+   "écrits": {
+    "en": "writings",
+    "l": "écrit",
+    "pos": "n.m."
+   },
+   "écrivait": {
+    "en": "wrote",
+    "l": "écrire",
+    "pos": "v."
+   },
+   "équipe": {
+    "en": "team, crew",
+    "l": "équipe",
+    "pos": "n.f."
+   },
+   "étaient": {
+    "en": "were",
+    "l": "être",
+    "pos": "v."
+   },
+   "était": {
+    "en": "was",
+    "l": "être",
+    "pos": "v."
+   },
+   "été": {
+    "en": "been (a été = was); summer",
+    "l": "être",
+    "pos": "v."
+   },
+   "être": {
+    "en": "to be",
+    "l": "être",
+    "pos": "v."
+   },
+   "île": {
+    "en": "island",
+    "l": "île",
+    "pos": "n.f."
+   }
+  }
+ },
+ "phrases": {
+  "": {
+   "c' est-à-dire": {
+    "en": "that is / in other words",
+    "pos": "expr."
+   },
+   "il y a": {
+    "en": "ago (il y a + time = … ago)",
+    "pos": "expr."
+   },
+   "tout à fait": {
+    "en": "quite, completely",
+    "pos": "expr."
+   },
+   "jusqu' à": {
+    "en": "up to, until",
+    "pos": "prep."
+   },
+   "grâce à": {
+    "en": "thanks to",
+    "pos": "prep."
+   },
+   "de nos jours": {
+    "en": "nowadays",
+    "pos": "expr."
+   },
+   "animal de compagnie": {
+    "en": "pet",
+    "l": "animal de compagnie",
+    "pos": "n.m."
+   },
+   "par jour": {
+    "en": "per day, a day",
+    "pos": "expr."
+   },
+   "chaque année": {
+    "en": "every year",
+    "pos": "expr."
+   },
+   "moyen âge": {
+    "en": "Middle Ages",
+    "l": "le Moyen Âge",
+    "pos": "n.m."
+   },
+   "en ce moment": {
+    "en": "right now",
+    "pos": "expr."
+   },
+   "à côté": {
+    "en": "next door, nearby",
+    "pos": "expr."
+   },
+   "prenaient soin": {
+    "en": "took care (prendre soin de = to take care of)",
+    "l": "prendre soin",
+    "pos": "v."
+   },
+   "par contre": {
+    "en": "on the other hand",
+    "pos": "expr."
+   },
+   "à l' oral": {
+    "en": "orally, by word of mouth",
+    "pos": "expr."
+   },
+   "on dirait": {
+    "en": "it looks like, it seems",
+    "pos": "expr."
+   },
+   "s' agit": {
+    "en": "it is, it's about (il s'agit de)",
+    "l": "s'agir",
+    "pos": "v."
+   },
+   "s' agirait": {
+    "en": "it would be, it's supposedly",
+    "l": "s'agir",
+    "pos": "v."
+   },
+   "champ de mars": {
+    "en": "Champ de Mars (a big park in Paris)",
+    "pos": "name"
+   },
+   "exposition universelle": {
+    "en": "World's Fair",
+    "pos": "n.f."
+   },
+   "île de la cité": {
+    "en": "Île de la Cité (island in the middle of Paris)",
+    "pos": "name"
+   },
+   "avant jésus-christ": {
+    "en": "BC (before Christ)",
+    "pos": "expr."
+   },
+   "à l' origine": {
+    "en": "originally, at first",
+    "pos": "expr."
+   },
+   "film d' animation": {
+    "en": "animated film, cartoon",
+    "l": "film d'animation",
+    "pos": "n.m."
+   },
+   "la rumeur court": {
+    "en": "a rumour is going around",
+    "pos": "expr."
+   },
+   "a le droit": {
+    "en": "is allowed (avoir le droit de)",
+    "l": "avoir le droit",
+    "pos": "v."
+   },
+   "bien plus": {
+    "en": "much more",
+    "pos": "adv."
+   },
+   "plus de": {
+    "en": "more than",
+    "pos": "expr."
+   },
+   "le plus": {
+    "en": "the most",
+    "pos": "expr."
+   },
+   "très peu": {
+    "en": "very little, very few",
+    "pos": "adv."
+   },
+   "tour eiffel": {
+    "en": "Eiffel Tower",
+    "l": "la tour Eiffel",
+    "pos": "name"
+   },
+   "jules césar": {
+    "en": "Julius Caesar",
+    "pos": "name"
+   },
+   "gustave eiffel": {
+    "en": "Gustave Eiffel (engineer)",
+    "pos": "name"
+   },
+   "la brède": {
+    "en": "La Brède (a village near Bordeaux)",
+    "pos": "name"
+   },
+   "husky sibérien": {
+    "en": "Siberian Husky (dog breed)",
+    "pos": "n.m."
+   },
+   "berger allemand": {
+    "en": "German Shepherd (dog breed)",
+    "pos": "n.m."
+   },
+   "border collie": {
+    "en": "Border Collie (dog breed)",
+    "pos": "n.m."
+   },
+   "bichon havanais": {
+    "en": "Havanese (dog breed)",
+    "pos": "n.m."
+   },
+   "meilleur ami": {
+    "en": "best friend",
+    "l": "meilleur ami",
+    "pos": "n.m."
+   },
+   "faire leur toilette": {
+    "en": "to groom themselves",
+    "pos": "expr."
+   },
+   "font leur toilette": {
+    "en": "groom themselves (faire sa toilette)",
+    "l": "faire sa toilette",
+    "pos": "v."
+   },
+   "peu d'": {
+    "en": "few, little",
+    "pos": "det."
+   },
+   "même s'": {
+    "en": "even if, even though",
+    "pos": "conj."
+   }
+  }
+ }
+}
