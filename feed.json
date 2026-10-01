@@ -283,6 +283,105 @@
    ],
    "public": true,
    "added": "2026-09-30"
+  },
+  {
+   "id": "vikidia-volcan",
+   "title": "Volcan",
+   "title_en": "Volcano",
+   "emoji": "🌋",
+   "color": "#d96c4b",
+   "topic": "Sciences",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Volcan",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Volcan&oldid=2578279",
+   "retrieved": "2026-10-01",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Un volcan (du nom du dieu mythologique romain Vulcain) est une structure géologique à travers laquelle émerge du magma qui se transforme en lave et en gaz provenant de l'intérieur de la Terre.",
+       "en": "A volcano (named after the Roman mythological god Vulcan) is a geological structure through which magma emerges and turns into lava and gases from inside the Earth."
+      },
+      {
+       "fr": "La montée du magma se produit lors d'épisodes d'activité violente appelés éruptions, qui peuvent varier en intensité, en durée et en fréquence, pouvant aller de simples coulées de lave jusqu'à des explosions extrêmement destructrices.",
+       "en": "The rise of magma happens during periods of violent activity called eruptions. They can vary in intensity, length, and frequency, from simple lava flows to extremely destructive explosions."
+      },
+      {
+       "fr": "Parfois, les volcans acquièrent une forme conique en raison de l'accumulation des matériaux provenant des éruptions précédentes.",
+       "en": "Sometimes, volcanoes get a cone shape because materials from earlier eruptions build up."
+      },
+      {
+       "fr": "Au sommet se trouve un cratère ou une caldeira.",
+       "en": "At the top, there is a crater or a caldera."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "La plupart des volcans sont intermittents : actifs puis faussement endormis pendant parfois des dizaines, voire des milliers d'années (comme les volcans d'Auvergne ou le mont Mont Fuji au Japon).",
+       "en": "Most volcanoes are intermittent: active, then wrongly thought to be asleep for sometimes tens or even thousands of years (like the volcanoes of Auvergne or Mount Fuji in Japan)."
+      },
+      {
+       "fr": "Les volcans se forment généralement aux limites des plaques tectoniques, bien qu'il en existe dans des points chauds où il n'y pas de contact entre les plaques, comme c'est le cas des îles Hawaï.",
+       "en": "Volcanoes usually form at the edges of tectonic plates, although some exist at hot spots where there is no contact between plates, as in the Hawaiian Islands."
+      },
+      {
+       "fr": "Le volcanisme associé à la tectonique des plaques a été essentiel pour la vie et son évolution sur Terre, à la fois destructeur et créatif sur des milliards d'années.",
+       "en": "Volcanism linked to plate tectonics has been essential for life and its evolution on Earth, both destructive and creative over billions of years."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Le magma qui sort d'un volcan se transforme en ___ et en gaz.",
+     "options": [
+      "pierre",
+      "lave",
+      "eau"
+     ],
+     "answer": 1,
+     "why": "« se transforme en lave et en gaz »"
+    },
+    {
+     "q": "Au sommet d'un volcan se trouve un ___ ou une caldeira.",
+     "options": [
+      "glacier",
+      "océan",
+      "cratère"
+     ],
+     "answer": 2,
+     "why": "« Au sommet se trouve un cratère ou une caldeira »"
+    },
+    {
+     "q": "Les volcans se forment généralement aux limites des plaques ___.",
+     "options": [
+      "solaires",
+      "tectoniques",
+      "marines"
+     ],
+     "answer": 1,
+     "why": "« aux limites des plaques tectoniques »"
+    }
+   ],
+   "keywords": [
+    "volcan",
+    "magma",
+    "lave",
+    "gaz",
+    "éruption",
+    "cratère",
+    "plaques tectoniques"
+   ],
+   "public": true,
+   "added": "2026-10-01"
   }
  ],
  "glossary": {
@@ -2073,6 +2172,415 @@
    },
    "île": {
     "en": "island",
+    "l": "île",
+    "pos": "n.f."
+   },
+   "accumulation": {
+    "en": "build-up, accumulation",
+    "l": "accumulation",
+    "pos": "n.f."
+   },
+   "acquièrent": {
+    "en": "acquire, get",
+    "l": "acquérir",
+    "pos": "v."
+   },
+   "actifs": {
+    "en": "active",
+    "l": "actif",
+    "pos": "adj."
+   },
+   "activité": {
+    "en": "activity",
+    "l": "activité",
+    "pos": "n.f."
+   },
+   "aller": {
+    "en": "to go; to range",
+    "l": "aller",
+    "pos": "v."
+   },
+   "années": {
+    "en": "years",
+    "l": "année",
+    "pos": "n.f."
+   },
+   "associé": {
+    "en": "linked, associated",
+    "l": "associer",
+    "pos": "v."
+   },
+   "auvergne": {
+    "en": "Auvergne (region of France)",
+    "pos": "name"
+   },
+   "aux": {
+    "en": "to the, at the (à + les)",
+    "pos": "prep."
+   },
+   "caldeira": {
+    "en": "caldera",
+    "l": "caldeira",
+    "pos": "n.f."
+   },
+   "cas": {
+    "en": "case",
+    "l": "cas",
+    "pos": "n.m."
+   },
+   "chauds": {
+    "en": "hot",
+    "l": "chaud",
+    "pos": "adj."
+   },
+   "conique": {
+    "en": "cone-shaped",
+    "l": "conique",
+    "pos": "adj."
+   },
+   "contact": {
+    "en": "contact",
+    "l": "contact",
+    "pos": "n.m."
+   },
+   "coulées": {
+    "en": "flows",
+    "l": "coulée",
+    "pos": "n.f."
+   },
+   "cratère": {
+    "en": "crater",
+    "l": "cratère",
+    "pos": "n.m."
+   },
+   "créatif": {
+    "en": "creative",
+    "l": "créatif",
+    "pos": "adj."
+   },
+   "destructeur": {
+    "en": "destructive",
+    "l": "destructeur",
+    "pos": "adj."
+   },
+   "destructrices": {
+    "en": "destructive",
+    "l": "destructeur",
+    "pos": "adj."
+   },
+   "dieu": {
+    "en": "god",
+    "l": "dieu",
+    "pos": "n.m."
+   },
+   "dizaines": {
+    "en": "tens",
+    "l": "dizaine",
+    "pos": "n.f."
+   },
+   "durée": {
+    "en": "duration, length",
+    "l": "durée",
+    "pos": "n.f."
+   },
+   "endormis": {
+    "en": "asleep, dormant",
+    "l": "endormir",
+    "pos": "adj."
+   },
+   "entre": {
+    "en": "between",
+    "pos": "prep."
+   },
+   "essentiel": {
+    "en": "essential",
+    "l": "essentiel",
+    "pos": "adj."
+   },
+   "explosions": {
+    "en": "explosions",
+    "l": "explosion",
+    "pos": "n.f."
+   },
+   "extrêmement": {
+    "en": "extremely",
+    "l": "extrêmement",
+    "pos": "adv."
+   },
+   "faussement": {
+    "en": "wrongly, falsely",
+    "l": "faussement",
+    "pos": "adv."
+   },
+   "fois": {
+    "en": "time (occasion)",
+    "l": "fois",
+    "pos": "n.f."
+   },
+   "forme": {
+    "en": "shape, form",
+    "l": "forme",
+    "pos": "n.f."
+   },
+   "forment": {
+    "en": "form",
+    "l": "former",
+    "pos": "v."
+   },
+   "fréquence": {
+    "en": "frequency",
+    "l": "fréquence",
+    "pos": "n.f."
+   },
+   "fuji": {
+    "en": "Fuji (Mount Fuji)",
+    "pos": "name"
+   },
+   "gaz": {
+    "en": "gas",
+    "l": "gaz",
+    "pos": "n.m."
+   },
+   "généralement": {
+    "en": "usually, generally",
+    "l": "généralement",
+    "pos": "adv."
+   },
+   "géologique": {
+    "en": "geological",
+    "l": "géologique",
+    "pos": "adj."
+   },
+   "hawaï": {
+    "en": "Hawaii",
+    "pos": "name"
+   },
+   "intensité": {
+    "en": "intensity",
+    "l": "intensité",
+    "pos": "n.f."
+   },
+   "intermittents": {
+    "en": "intermittent",
+    "l": "intermittent",
+    "pos": "adj."
+   },
+   "intérieur": {
+    "en": "inside, interior",
+    "l": "intérieur",
+    "pos": "n.m."
+   },
+   "japon": {
+    "en": "Japan",
+    "pos": "name"
+   },
+   "laquelle": {
+    "en": "which",
+    "l": "lequel",
+    "pos": "pron."
+   },
+   "lave": {
+    "en": "lava",
+    "l": "lave",
+    "pos": "n.f."
+   },
+   "limites": {
+    "en": "limits, boundaries",
+    "l": "limite",
+    "pos": "n.f."
+   },
+   "magma": {
+    "en": "magma",
+    "l": "magma",
+    "pos": "n.m."
+   },
+   "matériaux": {
+    "en": "materials",
+    "l": "matériau",
+    "pos": "n.m."
+   },
+   "milliards": {
+    "en": "billions",
+    "l": "milliard",
+    "pos": "n.m."
+   },
+   "milliers": {
+    "en": "thousands",
+    "l": "millier",
+    "pos": "n.m."
+   },
+   "mont": {
+    "en": "mount, mountain",
+    "l": "mont",
+    "pos": "n.m."
+   },
+   "montée": {
+    "en": "rise, ascent",
+    "l": "montée",
+    "pos": "n.f."
+   },
+   "mythologique": {
+    "en": "mythological",
+    "l": "mythologique",
+    "pos": "adj."
+   },
+   "ou": {
+    "en": "or",
+    "pos": "conj."
+   },
+   "parfois": {
+    "en": "sometimes",
+    "pos": "adv."
+   },
+   "peuvent": {
+    "en": "can",
+    "l": "pouvoir",
+    "pos": "v."
+   },
+   "plaques": {
+    "en": "plates",
+    "l": "plaque",
+    "pos": "n.f."
+   },
+   "plupart": {
+    "en": "most",
+    "l": "plupart",
+    "pos": "pron."
+   },
+   "points": {
+    "en": "points",
+    "l": "point",
+    "pos": "n.m."
+   },
+   "pouvant": {
+    "en": "being able to",
+    "l": "pouvoir",
+    "pos": "v."
+   },
+   "produit": {
+    "en": "happens, occurs",
+    "l": "se produire",
+    "pos": "v."
+   },
+   "provenant": {
+    "en": "coming from",
+    "l": "provenir",
+    "pos": "v."
+   },
+   "précédentes": {
+    "en": "previous, earlier",
+    "l": "précédent",
+    "pos": "adj."
+   },
+   "puis": {
+    "en": "then, next",
+    "pos": "adv."
+   },
+   "raison": {
+    "en": "reason, reason",
+    "l": "raison",
+    "pos": "n.f."
+   },
+   "romain": {
+    "en": "Roman",
+    "l": "romain",
+    "pos": "adj."
+   },
+   "simples": {
+    "en": "simple",
+    "l": "simple",
+    "pos": "adj."
+   },
+   "structure": {
+    "en": "structure",
+    "l": "structure",
+    "pos": "n.f."
+   },
+   "tectonique": {
+    "en": "tectonic",
+    "l": "tectonique",
+    "pos": "adj."
+   },
+   "tectoniques": {
+    "en": "tectonic",
+    "l": "tectonique",
+    "pos": "adj."
+   },
+   "transforme": {
+    "en": "turns into, transforms",
+    "l": "transformer",
+    "pos": "v."
+   },
+   "travers": {
+    "en": "through",
+    "l": "à travers",
+    "pos": "prep."
+   },
+   "trouve": {
+    "en": "is found, there is",
+    "l": "trouver",
+    "pos": "v."
+   },
+   "varier": {
+    "en": "to vary",
+    "l": "varier",
+    "pos": "v."
+   },
+   "vie": {
+    "en": "life",
+    "l": "vie",
+    "pos": "n.f."
+   },
+   "violente": {
+    "en": "violent",
+    "l": "violent",
+    "pos": "adj."
+   },
+   "voire": {
+    "en": "even",
+    "pos": "adv."
+   },
+   "volcan": {
+    "en": "volcano",
+    "l": "volcan",
+    "pos": "n.m."
+   },
+   "volcanisme": {
+    "en": "volcanism",
+    "l": "volcanisme",
+    "pos": "n.m."
+   },
+   "volcans": {
+    "en": "volcanoes",
+    "l": "volcan",
+    "pos": "n.m."
+   },
+   "vulcain": {
+    "en": "Vulcan (Roman god)",
+    "pos": "name"
+   },
+   "émerge": {
+    "en": "emerges",
+    "l": "émerger",
+    "pos": "v."
+   },
+   "épisodes": {
+    "en": "episodes, periods",
+    "l": "épisode",
+    "pos": "n.m."
+   },
+   "éruptions": {
+    "en": "eruptions",
+    "l": "éruption",
+    "pos": "n.f."
+   },
+   "évolution": {
+    "en": "evolution",
+    "l": "évolution",
+    "pos": "n.f."
+   },
+   "îles": {
+    "en": "islands",
     "l": "île",
     "pos": "n.f."
    }
