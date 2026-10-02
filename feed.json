@@ -190,6 +190,109 @@
    "added": "2026-09-30"
   },
   {
+   "id": "vikidia-loutre",
+   "title": "Loutre",
+   "title_en": "Otter",
+   "emoji": "🦦",
+   "color": "#5b8a72",
+   "topic": "Animaux",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Loutre",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Loutre&oldid=2236277",
+   "retrieved": "2026-10-02",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Les loutres (nom scientifique : Lutrinae), ou lutrinés, sont des mammifères carnivores aquatiques qui font partie de la sous-famille des mustélidés.",
+       "en": "Otters (scientific name: Lutrinae), or lutrines, are aquatic carnivorous mammals that belong to the mustelid subfamily."
+      },
+      {
+       "fr": "Ils sont d'excellents nageurs.",
+       "en": "They are excellent swimmers."
+      },
+      {
+       "fr": "De nos jours, 13 espèces de loutres sont répertoriées.",
+       "en": "Nowadays, 13 species of otters are listed."
+      },
+      {
+       "fr": "Elles ont des ancêtres terrestres, mais se sont parfaitement adaptées à la vie dans l'eau (eau douce ou de mer).",
+       "en": "They have land ancestors, but have adapted perfectly to life in water (freshwater or seawater)."
+      },
+      {
+       "fr": "Leur corps longiligne, leurs pattes courtes et généralement palmées — plus ou moins selon les espèces —  et leur queue musclée, qui leur sert à se diriger et se propulser, leur permettent de se déplacer facilement dans l'eau, où elles passent beaucoup de temps à nager et à trouver leur nourriture (poissons, mollusques, etc.).",
+       "en": "Their long, slim body, their short and generally webbed feet - more or less depending on the species - and their muscular tail, which helps them steer and propel themselves, let them move easily in water, where they spend much time swimming and finding food (fish, molluscs, etc.)."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Le plus souvent, elles évoluent dans des milieux d'eau douce (cours d'eau, lacs, étangs, etc.) et sont semi-aquatiques, chassant aussi à terre ou venant y trouver un abri.",
+       "en": "Most often, they live in freshwater environments (watercourses, lakes, ponds, etc.) and are semi-aquatic, also hunting on land or coming there to find shelter."
+      },
+      {
+       "fr": "Seules la loutre de mer (Enhydra lutris) et la loutre marine (Lontra felina), comme leurs noms l'indiquent, sont des espèces vraiment marines.",
+       "en": "Only the sea otter (Enhydra lutris) and the marine otter (Lontra felina), as their names show, are truly marine species."
+      },
+      {
+       "fr": "Et seule la loutre de mer ne sort quasiment jamais de l'eau —  même pour dormir ; c'est donc la plus aquatique —  et utilise une pierre comme outil pour ouvrir les mollusques qu'elle déguste...",
+       "en": "And only the sea otter almost never leaves the water - even to sleep; it is therefore the most aquatic - and uses a stone as a tool to open the molluscs it eats..."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Les loutres sont d'excellents ___.",
+     "options": [
+      "oiseaux",
+      "nageurs",
+      "grimpeurs"
+     ],
+     "answer": 1,
+     "why": "« Ils sont d'excellents nageurs »"
+    },
+    {
+     "q": "Les loutres se sont adaptées à la vie dans l'___.",
+     "options": [
+      "air",
+      "eau",
+      "désert"
+     ],
+     "answer": 1,
+     "why": "« se sont parfaitement adaptées à la vie dans l'eau »"
+    },
+    {
+     "q": "La loutre de mer utilise une pierre comme ___.",
+     "options": [
+      "maison",
+      "nourriture",
+      "outil"
+     ],
+     "answer": 2,
+     "why": "« utilise une pierre comme outil »"
+    }
+   ],
+   "keywords": [
+    "loutre",
+    "mammifère",
+    "aquatique",
+    "nageur",
+    "eau douce",
+    "pattes palmées",
+    "mollusque"
+   ],
+   "public": true,
+   "added": "2026-10-02"
+  },
+  {
    "id": "vikidia-tour-eiffel",
    "title": "Tour Eiffel",
    "title_en": "Eiffel Tower",
@@ -2583,6 +2686,350 @@
     "en": "islands",
     "l": "île",
     "pos": "n.f."
+   },
+   "abri": {
+    "en": "shelter",
+    "l": "abri",
+    "pos": "n.m."
+   },
+   "adaptées": {
+    "en": "adapted",
+    "l": "adapter",
+    "pos": "v."
+   },
+   "ancêtres": {
+    "en": "ancestors",
+    "l": "ancêtre",
+    "pos": "n.m."
+   },
+   "aquatique": {
+    "en": "aquatic",
+    "l": "aquatique",
+    "pos": "adj."
+   },
+   "aquatiques": {
+    "en": "aquatic",
+    "l": "aquatique",
+    "pos": "adj."
+   },
+   "carnivores": {
+    "en": "carnivorous",
+    "l": "carnivore",
+    "pos": "adj."
+   },
+   "chassant": {
+    "en": "hunting",
+    "l": "chasser",
+    "pos": "v."
+   },
+   "corps": {
+    "en": "body",
+    "l": "corps",
+    "pos": "n.m."
+   },
+   "cours": {
+    "en": "course; watercourse",
+    "l": "cours",
+    "pos": "n.m."
+   },
+   "courtes": {
+    "en": "short",
+    "l": "court",
+    "pos": "adj."
+   },
+   "diriger": {
+    "en": "to steer",
+    "l": "diriger",
+    "pos": "v."
+   },
+   "donc": {
+    "en": "therefore, so",
+    "pos": "adv."
+   },
+   "dormir": {
+    "en": "to sleep",
+    "l": "dormir",
+    "pos": "v."
+   },
+   "douce": {
+    "en": "fresh, soft",
+    "l": "doux",
+    "pos": "adj."
+   },
+   "déguste": {
+    "en": "eats, enjoys",
+    "l": "déguster",
+    "pos": "v."
+   },
+   "déplacer": {
+    "en": "to move",
+    "l": "se déplacer",
+    "pos": "v."
+   },
+   "eau": {
+    "en": "water",
+    "l": "eau",
+    "pos": "n.f."
+   },
+   "elles": {
+    "en": "they (feminine)",
+    "l": "elle",
+    "pos": "pron."
+   },
+   "enhydra": {
+    "en": "Enhydra (sea otter genus)",
+    "pos": "name"
+   },
+   "espèces": {
+    "en": "species",
+    "l": "espèce",
+    "pos": "n.f."
+   },
+   "etc": {
+    "en": "etcetera",
+    "pos": "expr."
+   },
+   "excellents": {
+    "en": "excellent",
+    "l": "excellent",
+    "pos": "adj."
+   },
+   "facilement": {
+    "en": "easily",
+    "pos": "adv."
+   },
+   "felina": {
+    "en": "felina (marine otter species name)",
+    "pos": "name"
+   },
+   "indiquent": {
+    "en": "show, indicate",
+    "l": "indiquer",
+    "pos": "v."
+   },
+   "lacs": {
+    "en": "lakes",
+    "l": "lac",
+    "pos": "n.m."
+   },
+   "longiligne": {
+    "en": "long and slim",
+    "l": "longiligne",
+    "pos": "adj."
+   },
+   "lontra": {
+    "en": "Lontra (otter genus)",
+    "pos": "name"
+   },
+   "loutre": {
+    "en": "otter",
+    "l": "loutre",
+    "pos": "n.f."
+   },
+   "loutres": {
+    "en": "otters",
+    "l": "loutre",
+    "pos": "n.f."
+   },
+   "lutrinae": {
+    "en": "Lutrinae (otter subfamily)",
+    "pos": "name"
+   },
+   "lutrinés": {
+    "en": "lutrines",
+    "l": "lutriné",
+    "pos": "n.m."
+   },
+   "lutris": {
+    "en": "lutris (sea otter species name)",
+    "pos": "name"
+   },
+   "mammifères": {
+    "en": "mammals",
+    "l": "mammifère",
+    "pos": "n.m."
+   },
+   "marine": {
+    "en": "marine",
+    "l": "marin",
+    "pos": "adj."
+   },
+   "marines": {
+    "en": "marine",
+    "l": "marin",
+    "pos": "adj."
+   },
+   "mer": {
+    "en": "sea",
+    "l": "mer",
+    "pos": "n.f."
+   },
+   "milieux": {
+    "en": "environments",
+    "l": "milieu",
+    "pos": "n.m."
+   },
+   "moins": {
+    "en": "less",
+    "pos": "adv."
+   },
+   "mollusques": {
+    "en": "molluscs",
+    "l": "mollusque",
+    "pos": "n.m."
+   },
+   "musclée": {
+    "en": "muscular",
+    "l": "musclé",
+    "pos": "adj."
+   },
+   "mustélidés": {
+    "en": "mustelids",
+    "l": "mustélidé",
+    "pos": "n.m."
+   },
+   "nager": {
+    "en": "to swim",
+    "l": "nager",
+    "pos": "v."
+   },
+   "nageurs": {
+    "en": "swimmers",
+    "l": "nageur",
+    "pos": "n.m."
+   },
+   "noms": {
+    "en": "names",
+    "l": "nom",
+    "pos": "n.m."
+   },
+   "nourriture": {
+    "en": "food",
+    "l": "nourriture",
+    "pos": "n.f."
+   },
+   "outil": {
+    "en": "tool",
+    "l": "outil",
+    "pos": "n.m."
+   },
+   "ouvrir": {
+    "en": "to open",
+    "l": "ouvrir",
+    "pos": "v."
+   },
+   "palmées": {
+    "en": "webbed",
+    "l": "palmer",
+    "pos": "adj."
+   },
+   "parfaitement": {
+    "en": "perfectly",
+    "pos": "adv."
+   },
+   "passent": {
+    "en": "spend, pass",
+    "l": "passer",
+    "pos": "v."
+   },
+   "pattes": {
+    "en": "legs, paws",
+    "l": "patte",
+    "pos": "n.f."
+   },
+   "permettent": {
+    "en": "allow",
+    "l": "permettre",
+    "pos": "v."
+   },
+   "pierre": {
+    "en": "stone",
+    "l": "pierre",
+    "pos": "n.f."
+   },
+   "poissons": {
+    "en": "fish",
+    "l": "poisson",
+    "pos": "n.m."
+   },
+   "propulser": {
+    "en": "to propel",
+    "l": "propulser",
+    "pos": "v."
+   },
+   "quasiment": {
+    "en": "almost",
+    "pos": "adv."
+   },
+   "queue": {
+    "en": "tail",
+    "l": "queue",
+    "pos": "n.f."
+   },
+   "répertoriées": {
+    "en": "listed",
+    "l": "répertorier",
+    "pos": "v."
+   },
+   "scientifique": {
+    "en": "scientific",
+    "l": "scientifique",
+    "pos": "adj."
+   },
+   "semi-aquatiques": {
+    "en": "semi-aquatic",
+    "l": "semi-aquatique",
+    "pos": "adj."
+   },
+   "sert": {
+    "en": "serves, is used",
+    "l": "servir",
+    "pos": "v."
+   },
+   "seules": {
+    "en": "only",
+    "l": "seul",
+    "pos": "adj."
+   },
+   "sort": {
+    "en": "leaves, goes out",
+    "l": "sortir",
+    "pos": "v."
+   },
+   "sous-famille": {
+    "en": "subfamily",
+    "l": "sous-famille",
+    "pos": "n.f."
+   },
+   "terrestres": {
+    "en": "land-based",
+    "l": "terrestre",
+    "pos": "adj."
+   },
+   "trouver": {
+    "en": "to find",
+    "l": "trouver",
+    "pos": "v."
+   },
+   "utilise": {
+    "en": "uses",
+    "l": "utiliser",
+    "pos": "v."
+   },
+   "venant": {
+    "en": "coming",
+    "l": "venir",
+    "pos": "v."
+   },
+   "étangs": {
+    "en": "ponds",
+    "l": "étang",
+    "pos": "n.m."
+   },
+   "évoluent": {
+    "en": "live, develop",
+    "l": "évoluer",
+    "pos": "v."
    }
   }
  },
