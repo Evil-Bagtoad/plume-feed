@@ -190,6 +190,114 @@
    "added": "2026-09-30"
   },
   {
+   "id": "vikidia-girafe",
+   "title": "Girafe",
+   "title_en": "Giraffe",
+   "emoji": "🦒",
+   "color": "#c99232",
+   "topic": "Animaux",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Girafe",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Girafe&oldid=2556829",
+   "retrieved": "2026-10-04",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "La girafe (nom scientifique : Giraffa camelopardalis) est un mammifère.",
+       "en": "The giraffe (scientific name: Giraffa camelopardalis) is a mammal."
+      },
+      {
+       "fr": "C'est un animal ongulé (elle possède des talons à ses pieds) et ruminant (elle digère les aliments comme la vache).",
+       "en": "It is a hoofed animal (it has heels on its feet) and a ruminant (it digests food like a cow)."
+      },
+      {
+       "fr": "Elle est originaire des savanes africaines : on la trouve du Tchad jusqu'en Afrique du Sud.",
+       "en": "It comes from the African savannas: it is found from Chad to South Africa."
+      },
+      {
+       "fr": "Le mot girafe vient de l'arabe zarâfa زرافة.",
+       "en": "The word giraffe comes from the Arabic zarâfa زرافة."
+      },
+      {
+       "fr": "La girafe est un animal de la même famille que l'Okapi.",
+       "en": "The giraffe is an animal from the same family as the okapi."
+      },
+      {
+       "fr": "Il en existe neuf espèces correspondant aux neuf types de robes.",
+       "en": "There are nine species matching the nine types of coats."
+      },
+      {
+       "fr": "Il peut exister des girafes albinos et girafes entièrement noires.",
+       "en": "There can be albino giraffes and entirely black giraffes."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Les Grecs de l'Antiquité croyaient que la girafe était la fille du chameau et du léopard.",
+       "en": "The Ancient Greeks believed that the giraffe was the daughter of the camel and the leopard."
+      },
+      {
+       "fr": "La girafe est vivipare.",
+       "en": "The giraffe is viviparous."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "La girafe est un ___ .",
+     "options": [
+      "reptile",
+      "mammifère",
+      "poisson"
+     ],
+     "answer": 1,
+     "why": "« La girafe [...] est un mammifère »"
+    },
+    {
+     "q": "La girafe vit dans les savanes ___ .",
+     "options": [
+      "européennes",
+      "africaines",
+      "asiatiques"
+     ],
+     "answer": 1,
+     "why": "« Elle est originaire des savanes africaines »"
+    },
+    {
+     "q": "Il existe neuf types de ___ .",
+     "options": [
+      "chapeaux",
+      "maisons",
+      "robes"
+     ],
+     "answer": 2,
+     "why": "« neuf types de robes »"
+    }
+   ],
+   "keywords": [
+    "girafe",
+    "mammifère",
+    "ongulé",
+    "ruminant",
+    "savane",
+    "Afrique",
+    "espèce",
+    "robe"
+   ],
+   "public": true,
+   "added": "2026-10-04"
+  },
+  {
    "id": "vikidia-loutre",
    "title": "Loutre",
    "title_en": "Otter",
@@ -489,6 +597,195 @@
  ],
  "glossary": {
   "": {
+   "africaines": {
+    "en": "African (feminine plural)",
+    "l": "africain",
+    "pos": "adj."
+   },
+   "afrique": {
+    "en": "Africa",
+    "l": "Afrique",
+    "pos": "name"
+   },
+   "albinos": {
+    "en": "albino",
+    "l": "albinos",
+    "pos": "adj."
+   },
+   "aliments": {
+    "en": "food",
+    "l": "aliment",
+    "pos": "n.m."
+   },
+   "antiquité": {
+    "en": "Antiquity",
+    "l": "Antiquité",
+    "pos": "n.f."
+   },
+   "arabe": {
+    "en": "Arabic; Arab",
+    "l": "arabe",
+    "pos": "adj."
+   },
+   "camelopardalis": {
+    "en": "camelopardalis (giraffe species name)",
+    "pos": "name"
+   },
+   "chameau": {
+    "en": "camel",
+    "l": "chameau",
+    "pos": "n.m."
+   },
+   "correspondant": {
+    "en": "matching, corresponding",
+    "l": "correspondre",
+    "pos": "v."
+   },
+   "croyaient": {
+    "en": "believed",
+    "l": "croire",
+    "pos": "v."
+   },
+   "digère": {
+    "en": "digests",
+    "l": "digérer",
+    "pos": "v."
+   },
+   "entièrement": {
+    "en": "entirely, completely",
+    "pos": "adv."
+   },
+   "exister": {
+    "en": "to exist",
+    "l": "exister",
+    "pos": "v."
+   },
+   "fille": {
+    "en": "daughter; girl",
+    "l": "fille",
+    "pos": "n.f."
+   },
+   "girafe": {
+    "en": "giraffe",
+    "l": "girafe",
+    "pos": "n.f."
+   },
+   "girafes": {
+    "en": "giraffes",
+    "l": "girafe",
+    "pos": "n.f."
+   },
+   "giraffa": {
+    "en": "Giraffa (giraffe genus)",
+    "pos": "name"
+   },
+   "grecs": {
+    "en": "Greeks; Greek",
+    "l": "Grec",
+    "pos": "n."
+   },
+   "léopard": {
+    "en": "leopard",
+    "l": "léopard",
+    "pos": "n.m."
+   },
+   "mot": {
+    "en": "word",
+    "l": "mot",
+    "pos": "n.m."
+   },
+   "neuf": {
+    "en": "nine",
+    "pos": "adj."
+   },
+   "noires": {
+    "en": "black (feminine plural)",
+    "l": "noir",
+    "pos": "adj."
+   },
+   "okapi": {
+    "en": "okapi",
+    "l": "okapi",
+    "pos": "n.m."
+   },
+   "ongulé": {
+    "en": "hoofed",
+    "l": "ongulé",
+    "pos": "adj."
+   },
+   "originaire": {
+    "en": "originally from",
+    "l": "originaire",
+    "pos": "adj."
+   },
+   "pieds": {
+    "en": "feet",
+    "l": "pied",
+    "pos": "n.m."
+   },
+   "possède": {
+    "en": "has, possesses",
+    "l": "posséder",
+    "pos": "v."
+   },
+   "robes": {
+    "en": "coats, patterns (of animal fur)",
+    "l": "robe",
+    "pos": "n.f."
+   },
+   "ruminant": {
+    "en": "ruminant",
+    "l": "ruminant",
+    "pos": "adj."
+   },
+   "savanes": {
+    "en": "savannas",
+    "l": "savane",
+    "pos": "n.f."
+   },
+   "sud": {
+    "en": "South",
+    "l": "sud",
+    "pos": "n.m."
+   },
+   "talons": {
+    "en": "heels",
+    "l": "talon",
+    "pos": "n.m."
+   },
+   "tchad": {
+    "en": "Chad",
+    "l": "Tchad",
+    "pos": "name"
+   },
+   "types": {
+    "en": "types, kinds",
+    "l": "type",
+    "pos": "n.m."
+   },
+   "vache": {
+    "en": "cow",
+    "l": "vache",
+    "pos": "n.f."
+   },
+   "vient": {
+    "en": "comes",
+    "l": "venir",
+    "pos": "v."
+   },
+   "vivipare": {
+    "en": "viviparous",
+    "l": "vivipare",
+    "pos": "adj."
+   },
+   "zarâfa": {
+    "en": "zarâfa (Arabic word for giraffe)",
+    "pos": "name"
+   },
+   "زرافة": {
+    "en": "zarâfa (Arabic word for giraffe)",
+    "pos": "name"
+   },
    "4e": {
     "en": "4th",
     "pos": "adj."
