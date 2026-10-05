@@ -401,6 +401,101 @@
    "added": "2026-10-02"
   },
   {
+   "id": "vikidia-ocean",
+   "title": "Océan",
+   "title_en": "Ocean",
+   "emoji": "🌊",
+   "color": "#2878a8",
+   "topic": "Sciences",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Oc%C3%A9an",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Oc%C3%A9an&oldid=2349754",
+   "retrieved": "2026-10-05",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Un océan est une grande étendue d'eau salée couvrant une grande partie du globe : il ne faut pas les confondre avec les mers, qui sont plus petites.",
+       "en": "An ocean is a large expanse of salt water covering a large part of the globe: it must not be confused with seas, which are smaller."
+      },
+      {
+       "fr": "Les océans (et les mers) occupent 71% de la surface de la Terre et représentent 97 % de l'eau sur notre planète sous toutes ses formes (liquide, solide ou gazeuse).",
+       "en": "Oceans (and seas) cover 71% of the Earth's surface and make up 97% of the water on our planet in all its forms (liquid, solid, or gas)."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Vue de l'espace, la Terre apparait comme une « planète bleue ».",
+       "en": "Seen from space, Earth appears as a \"blue planet.\""
+      },
+      {
+       "fr": "Ce phénomène est dû au fait que l'eau absorbe la lumière rouge et réfléchit la lumière bleu-vert.",
+       "en": "This phenomenon is due to the fact that water absorbs red light and reflects blue-green light."
+      },
+      {
+       "fr": "C'est une propriété optique de l'eau elle-même et non le reflet du ciel sur l'eau qui lui donne sa couleur (si c'était le cas, on ne devrait pas la voir bleue depuis l'espace).",
+       "en": "It is an optical property of water itself, not the reflection of the sky on the water, that gives it its colour (if that were the case, it should not look blue from space)."
+      },
+      {
+       "fr": "Les océans sont importants pour le climat et le cycle de l'eau (évaporation, pluie...) mais aussi pour la vie humaine : au moins 50% de l'oxygène que l'on respire provient des océans, notamment grâce au plancton.",
+       "en": "Oceans are important for the climate and the water cycle (evaporation, rain...), but also for human life: at least 50% of the oxygen we breathe comes from oceans, notably thanks to plankton."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Un océan est une grande étendue d'eau ___ .",
+     "options": [
+      "douce",
+      "salée",
+      "chaude"
+     ],
+     "answer": 1,
+     "why": "« une grande étendue d'eau salée »"
+    },
+    {
+     "q": "Les océans occupent ___ de la surface de la Terre.",
+     "options": [
+      "17%",
+      "71%",
+      "97%"
+     ],
+     "answer": 1,
+     "why": "« occupent 71% de la surface de la Terre »"
+    },
+    {
+     "q": "L'eau réfléchit la lumière ___ .",
+     "options": [
+      "rouge",
+      "bleu-vert",
+      "noire"
+     ],
+     "answer": 1,
+     "why": "« réfléchit la lumière bleu-vert »"
+    }
+   ],
+   "keywords": [
+    "océan",
+    "eau salée",
+    "planète bleue",
+    "lumière",
+    "climat",
+    "oxygène",
+    "plancton"
+   ],
+   "public": true,
+   "added": "2026-10-05"
+  },
+  {
    "id": "vikidia-tour-eiffel",
    "title": "Tour Eiffel",
    "title_en": "Eiffel Tower",
@@ -3327,6 +3422,283 @@
     "en": "live, develop",
     "l": "évoluer",
     "pos": "v."
+   }
+  },
+  "vikidia-ocean": {
+   "absorbe": {
+    "en": "absorbs",
+    "l": "absorber",
+    "pos": "v."
+   },
+   "apparait": {
+    "en": "appears",
+    "l": "apparaître",
+    "pos": "v."
+   },
+   "bleu-vert": {
+    "en": "blue-green",
+    "l": "bleu-vert",
+    "pos": "adj."
+   },
+   "bleue": {
+    "en": "blue (feminine)",
+    "l": "bleu",
+    "pos": "adj."
+   },
+   "ciel": {
+    "en": "sky",
+    "l": "ciel",
+    "pos": "n.m."
+   },
+   "climat": {
+    "en": "climate",
+    "l": "climat",
+    "pos": "n.m."
+   },
+   "confondre": {
+    "en": "to confuse",
+    "l": "confondre",
+    "pos": "v."
+   },
+   "couleur": {
+    "en": "colour",
+    "l": "couleur",
+    "pos": "n.f."
+   },
+   "couvrant": {
+    "en": "covering",
+    "l": "couvrir",
+    "pos": "v."
+   },
+   "cycle": {
+    "en": "cycle",
+    "l": "cycle",
+    "pos": "n.m."
+   },
+   "devrait": {
+    "en": "should",
+    "l": "devoir",
+    "pos": "v."
+   },
+   "donne": {
+    "en": "gives",
+    "l": "donner",
+    "pos": "v."
+   },
+   "dû": {
+    "en": "due to",
+    "l": "devoir",
+    "pos": "adj."
+   },
+   "elle-même": {
+    "en": "itself",
+    "l": "elle-même",
+    "pos": "pron."
+   },
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "faut": {
+    "en": "must, is necessary",
+    "l": "falloir",
+    "pos": "v."
+   },
+   "formes": {
+    "en": "forms",
+    "l": "forme",
+    "pos": "n.f."
+   },
+   "gazeuse": {
+    "en": "gaseous",
+    "l": "gazeux",
+    "pos": "adj."
+   },
+   "globe": {
+    "en": "globe, world",
+    "l": "globe",
+    "pos": "n.m."
+   },
+   "grande": {
+    "en": "large, big",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "humaine": {
+    "en": "human (feminine)",
+    "l": "humain",
+    "pos": "adj."
+   },
+   "importants": {
+    "en": "important",
+    "l": "important",
+    "pos": "adj."
+   },
+   "liquide": {
+    "en": "liquid",
+    "l": "liquide",
+    "pos": "adj."
+   },
+   "lui": {
+    "en": "to it, to him/her",
+    "l": "lui",
+    "pos": "pron."
+   },
+   "lumière": {
+    "en": "light",
+    "l": "lumière",
+    "pos": "n.f."
+   },
+   "mers": {
+    "en": "seas",
+    "l": "mer",
+    "pos": "n.f."
+   },
+   "non": {
+    "en": "not",
+    "l": "non",
+    "pos": "adv."
+   },
+   "notre": {
+    "en": "our",
+    "l": "notre",
+    "pos": "det."
+   },
+   "occupent": {
+    "en": "occupy, cover",
+    "l": "occuper",
+    "pos": "v."
+   },
+   "océan": {
+    "en": "ocean",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "océans": {
+    "en": "oceans",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "optique": {
+    "en": "optical",
+    "l": "optique",
+    "pos": "adj."
+   },
+   "oxygène": {
+    "en": "oxygen",
+    "l": "oxygène",
+    "pos": "n.m."
+   },
+   "petites": {
+    "en": "small (feminine plural)",
+    "l": "petit",
+    "pos": "adj."
+   },
+   "phénomène": {
+    "en": "phenomenon",
+    "l": "phénomène",
+    "pos": "n.m."
+   },
+   "plancton": {
+    "en": "plankton",
+    "l": "plancton",
+    "pos": "n.m."
+   },
+   "planète": {
+    "en": "planet",
+    "l": "planète",
+    "pos": "n.f."
+   },
+   "pluie": {
+    "en": "rain",
+    "l": "pluie",
+    "pos": "n.f."
+   },
+   "propriété": {
+    "en": "property",
+    "l": "propriété",
+    "pos": "n.f."
+   },
+   "provient": {
+    "en": "comes from",
+    "l": "provenir",
+    "pos": "v."
+   },
+   "reflet": {
+    "en": "reflection",
+    "l": "reflet",
+    "pos": "n.m."
+   },
+   "représentent": {
+    "en": "make up, represent",
+    "l": "représenter",
+    "pos": "v."
+   },
+   "respire": {
+    "en": "breathes",
+    "l": "respirer",
+    "pos": "v."
+   },
+   "rouge": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj."
+   },
+   "réfléchit": {
+    "en": "reflects",
+    "l": "réfléchir",
+    "pos": "v."
+   },
+   "salée": {
+    "en": "salty",
+    "l": "salé",
+    "pos": "adj."
+   },
+   "si": {
+    "en": "if",
+    "l": "si",
+    "pos": "conj."
+   },
+   "solide": {
+    "en": "solid",
+    "l": "solide",
+    "pos": "adj."
+   },
+   "sous": {
+    "en": "under",
+    "l": "sous",
+    "pos": "prep."
+   },
+   "surface": {
+    "en": "surface",
+    "l": "surface",
+    "pos": "n.f."
+   },
+   "toutes": {
+    "en": "all (feminine plural)",
+    "l": "tout",
+    "pos": "det."
+   },
+   "voir": {
+    "en": "to see",
+    "l": "voir",
+    "pos": "v."
+   },
+   "vue": {
+    "en": "seen (feminine)",
+    "l": "voir",
+    "pos": "v."
+   },
+   "étendue": {
+    "en": "expanse, extent",
+    "l": "étendue",
+    "pos": "n.f."
+   },
+   "évaporation": {
+    "en": "evaporation",
+    "l": "évaporation",
+    "pos": "n.f."
    }
   }
  },
