@@ -190,6 +190,109 @@
    "added": "2026-09-30"
   },
   {
+   "id": "vikidia-fromage",
+   "title": "Fromage",
+   "title_en": "Cheese",
+   "emoji": "🧀",
+   "color": "#e7c85a",
+   "topic": "Alimentation",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Fromage",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Fromage&oldid=2509272",
+   "retrieved": "2026-10-06",
+   "note": "Shortened from the article's introduction. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Un fromage est un aliment fait à base de lait.",
+       "en": "Cheese is a food made from milk."
+      },
+      {
+       "fr": "Tous les laits peuvent servir, et selon la manière de le préparer, le fromage peut avoir des goûts très différents, même en partant du même lait.",
+       "en": "All kinds of milk can be used. Depending on how it is prepared, cheese can have very different tastes, even when it starts from the same milk."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Selon la définition légale un fromage est  un produit fermenté ou non, obtenu par la coagulation (caillage) du lait, de la crème, du lait écrémé ou de leur mélange.",
+       "en": "According to the legal definition, cheese is a fermented product or not, made by curdling milk, cream, skimmed milk, or a mixture of them."
+      },
+      {
+       "fr": "Cette coagulation est suivie d'égouttage.",
+       "en": "This curdling is followed by draining."
+      },
+      {
+       "fr": "Le fromage doit contenir au moins 23 % de matière sèche pour 100 grammes de fromage.",
+       "en": "Cheese must contain at least 23% dry matter for every 100 grams of cheese."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Le fromage contient surtout de la caséine du lait (les protéines), sous une forme de gel plus ou moins déshydraté qui retient la matière grasse (les lipides).",
+       "en": "Cheese mainly contains milk casein (proteins), in a more or less dehydrated gel form that holds the fat (lipids)."
+      },
+      {
+       "fr": "S'y ajoutent un peu de lactose (glucide) sous forme d'acide lactique et des matières minérales en quantité variable (par exemple le calcium).",
+       "en": "A little lactose (a carbohydrate), in the form of lactic acid, and minerals in varying amounts (for example calcium) are added to it."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Le fromage est fait à base de ___ .",
+     "options": [
+      "farine",
+      "lait",
+      "eau"
+     ],
+     "answer": 1,
+     "why": "« Un fromage est un aliment fait à base de lait. »"
+    },
+    {
+     "q": "Le fromage doit contenir au moins ___ % de matière sèche.",
+     "options": [
+      "13",
+      "23",
+      "53"
+     ],
+     "answer": 1,
+     "why": "« au moins 23 % de matière sèche »"
+    },
+    {
+     "q": "Le fromage contient surtout de la ___ du lait.",
+     "options": [
+      "farine",
+      "caséine",
+      "viande"
+     ],
+     "answer": 1,
+     "why": "« Le fromage contient surtout de la caséine du lait »"
+    }
+   ],
+   "keywords": [
+    "fromage",
+    "lait",
+    "crème",
+    "caillage",
+    "égouttage",
+    "protéines",
+    "calcium"
+   ],
+   "public": true,
+   "added": "2026-10-06"
+  },
+  {
    "id": "vikidia-girafe",
    "title": "Girafe",
    "title_en": "Giraffe",
@@ -692,6 +795,246 @@
  ],
  "glossary": {
   "": {
+   "acide": {
+    "en": "acid",
+    "l": "acide",
+    "pos": "n.m."
+   },
+   "ajoutent": {
+    "en": "add (are added)",
+    "l": "ajouter",
+    "pos": "v."
+   },
+   "aliment": {
+    "en": "food",
+    "l": "aliment",
+    "pos": "n.m."
+   },
+   "avoir": {
+    "en": "to have",
+    "l": "avoir",
+    "pos": "v."
+   },
+   "base": {
+    "en": "base",
+    "l": "base",
+    "pos": "n.f."
+   },
+   "caillage": {
+    "en": "curdling",
+    "l": "caillage",
+    "pos": "n.m."
+   },
+   "calcium": {
+    "en": "calcium",
+    "l": "calcium",
+    "pos": "n.m."
+   },
+   "caséine": {
+    "en": "casein",
+    "l": "caséine",
+    "pos": "n.f."
+   },
+   "coagulation": {
+    "en": "curdling, coagulation",
+    "l": "coagulation",
+    "pos": "n.f."
+   },
+   "contenir": {
+    "en": "to contain",
+    "l": "contenir",
+    "pos": "v."
+   },
+   "contient": {
+    "en": "contains",
+    "l": "contenir",
+    "pos": "v."
+   },
+   "crème": {
+    "en": "cream",
+    "l": "crème",
+    "pos": "n.f."
+   },
+   "différents": {
+    "en": "different",
+    "l": "différent",
+    "pos": "adj."
+   },
+   "définition": {
+    "en": "definition",
+    "l": "définition",
+    "pos": "n.f."
+   },
+   "déshydraté": {
+    "en": "dehydrated",
+    "l": "déshydraté",
+    "pos": "adj."
+   },
+   "exemple": {
+    "en": "example",
+    "l": "exemple",
+    "pos": "n.m."
+   },
+   "fermenté": {
+    "en": "fermented",
+    "l": "fermenté",
+    "pos": "adj."
+   },
+   "fromage": {
+    "en": "cheese",
+    "l": "fromage",
+    "pos": "n.m."
+   },
+   "gel": {
+    "en": "gel",
+    "l": "gel",
+    "pos": "n.m."
+   },
+   "glucide": {
+    "en": "carbohydrate",
+    "l": "glucide",
+    "pos": "n.m."
+   },
+   "goûts": {
+    "en": "tastes",
+    "l": "goût",
+    "pos": "n.m."
+   },
+   "grammes": {
+    "en": "grams",
+    "l": "gramme",
+    "pos": "n.m."
+   },
+   "grasse": {
+    "en": "fat",
+    "l": "gras",
+    "pos": "adj."
+   },
+   "lactique": {
+    "en": "lactic",
+    "l": "lactique",
+    "pos": "adj."
+   },
+   "lactose": {
+    "en": "lactose",
+    "l": "lactose",
+    "pos": "n.m."
+   },
+   "lait": {
+    "en": "milk",
+    "l": "lait",
+    "pos": "n.m."
+   },
+   "laits": {
+    "en": "milks",
+    "l": "lait",
+    "pos": "n.m."
+   },
+   "lipides": {
+    "en": "lipids",
+    "l": "lipide",
+    "pos": "n.m."
+   },
+   "légale": {
+    "en": "legal",
+    "l": "légal",
+    "pos": "adj."
+   },
+   "manière": {
+    "en": "way, manner",
+    "l": "manière",
+    "pos": "n.f."
+   },
+   "matière": {
+    "en": "matter",
+    "l": "matière",
+    "pos": "n.f."
+   },
+   "matières": {
+    "en": "materials",
+    "l": "matière",
+    "pos": "n.f."
+   },
+   "minérales": {
+    "en": "mineral",
+    "l": "minéral",
+    "pos": "adj."
+   },
+   "mélange": {
+    "en": "mixture",
+    "l": "mélange",
+    "pos": "n.m."
+   },
+   "non": {
+    "en": "not, no",
+    "l": "non",
+    "pos": "adv."
+   },
+   "obtenu": {
+    "en": "obtained",
+    "l": "obtenir",
+    "pos": "v."
+   },
+   "partant": {
+    "en": "starting",
+    "l": "partir",
+    "pos": "v."
+   },
+   "protéines": {
+    "en": "proteins",
+    "l": "protéine",
+    "pos": "n.f."
+   },
+   "quantité": {
+    "en": "quantity",
+    "l": "quantité",
+    "pos": "n.f."
+   },
+   "retient": {
+    "en": "holds, keeps",
+    "l": "retenir",
+    "pos": "v."
+   },
+   "servir": {
+    "en": "to be used",
+    "l": "servir",
+    "pos": "v."
+   },
+   "sous": {
+    "en": "under",
+    "l": "préposition",
+    "pos": "prep."
+   },
+   "suivie": {
+    "en": "followed",
+    "l": "suivre",
+    "pos": "v."
+   },
+   "sèche": {
+    "en": "dry",
+    "l": "sèche",
+    "pos": "adj."
+   },
+   "tous": {
+    "en": "all",
+    "l": "tout",
+    "pos": "det."
+   },
+   "variable": {
+    "en": "variable",
+    "l": "variable",
+    "pos": "adj."
+   },
+   "écrémé": {
+    "en": "skimmed",
+    "l": "écrémé",
+    "pos": "adj."
+   },
+   "égouttage": {
+    "en": "draining",
+    "l": "égouttage",
+    "pos": "n.m."
+   },
    "africaines": {
     "en": "African (feminine plural)",
     "l": "africain",
