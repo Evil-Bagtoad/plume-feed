@@ -190,6 +190,118 @@
    "added": "2026-09-30"
   },
   {
+   "id": "vikidia-football",
+   "title": "Football",
+   "title_en": "Football (soccer)",
+   "emoji": "⚽",
+   "color": "#4d9d73",
+   "topic": "Sport",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Football",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Football&oldid=2570629",
+   "retrieved": "2026-10-07",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Le football (littéralement « balle au pied » en anglais), couramment appelé le foot, est un sport qui se pratique à 22 joueurs ou 16 joueurs pour les gens en dessous de 14 ans (un arbitre sur le terrain et deux arbitres de touche, ainsi que deux autres arbitres de surface dans certaines compétitions) avec un ballon rond en cuir.",
+       "en": "Football (literally “ball at the foot” in English), commonly called foot, is a sport played by 22 players, or 16 players for people under 14, with a round leather ball. There is one referee on the field, two touch judges, and in some competitions two other referees near the goal."
+      },
+      {
+       "fr": "Deux équipes de 11 (ou 8) joueurs s'affrontent et doivent mettre le ballon dans le but du camp adverse sans utiliser les mains (sauf le gardien de but).",
+       "en": "Two teams of 11 (or 8) players face each other and must put the ball into the other team's goal without using their hands (except the goalkeeper)."
+      },
+      {
+       "fr": "Il y a 10 (ou 7) joueurs de champ et un joueur dans les cages, le gardien de but, qui empêche l'équipe adverse de marquer (il ne doit pas dépasser la surface).",
+       "en": "There are 10 (or 7) outfield players and one player in the goal, the goalkeeper, who stops the other team from scoring. The goalkeeper must not go beyond the penalty area."
+      },
+      {
+       "fr": "À partir de 1893, le règlement indique que les joueurs d'une même équipe doivent porter une tenue identique.",
+       "en": "From 1893, the rules say that players on the same team must wear the same uniform."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Le match est divisé en deux mi-temps de 45 minutes ou moins pour les plus petits.",
+       "en": "The match is divided into two 45-minute halves, or shorter halves for younger children."
+      },
+      {
+       "fr": "Du temps de jeu peut, être, ajouté par l'arbitre (on parle de temps « additionnel ») à la fin de chaque mi-temps.",
+       "en": "The referee can add playing time, called “added time,” at the end of each half."
+      },
+      {
+       "fr": "Ce temps peut être ajouté s'il y a eu des phases de \"non-jeu\": une intervention médicale, des supporters envahissants le terrain, des conditions climatiques extrêmes, etc.",
+       "en": "This time can be added if there were periods when play stopped: medical help, supporters invading the field, extreme weather conditions, and so on."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Il s'agit de l'un des jeux par équipe les plus anciens du monde et il en existe beaucoup de formes, y compris le football à dos d'éléphant.",
+       "en": "It is one of the oldest team games in the world, and it has many forms, including elephant-back football."
+      },
+      {
+       "fr": "C'est l'un des sports d'équipe les plus anciens des Jeux olympiques  et le sport le plus populaire sur la planète à ce jour.",
+       "en": "It is one of the oldest team sports at the Olympic Games and the most popular sport on the planet today."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Deux équipes doivent mettre le ballon dans le ___ du camp adverse.",
+     "options": [
+      "terrain",
+      "but",
+      "cuir"
+     ],
+     "answer": 1,
+     "why": "« mettre le ballon dans le but du camp adverse »"
+    },
+    {
+     "q": "Le gardien de but peut utiliser les ___.",
+     "options": [
+      "pieds seulement",
+      "mains",
+      "oreilles"
+     ],
+     "answer": 1,
+     "why": "« sans utiliser les mains (sauf le gardien de but) »"
+    },
+    {
+     "q": "Un match est divisé en deux mi-temps de ___ minutes.",
+     "options": [
+      "30",
+      "45",
+      "90"
+     ],
+     "answer": 1,
+     "why": "« deux mi-temps de 45 minutes »"
+    }
+   ],
+   "keywords": [
+    "football",
+    "ballon",
+    "joueurs",
+    "équipes",
+    "gardien de but",
+    "match",
+    "arbitre",
+    "terrain"
+   ],
+   "public": true,
+   "added": "2026-10-07"
+  },
+  {
    "id": "vikidia-fromage",
    "title": "Fromage",
    "title_en": "Cheese",
@@ -3765,6 +3877,389 @@
     "en": "live, develop",
     "l": "évoluer",
     "pos": "v."
+   },
+   "additionnel": {
+    "en": "added, extra",
+    "l": "additionnel",
+    "pos": "adj."
+   },
+   "adverse": {
+    "en": "opposing, other",
+    "l": "adverse",
+    "pos": "adj."
+   },
+   "affrontent": {
+    "en": "face each other",
+    "l": "s'affronter",
+    "pos": "v."
+   },
+   "ainsi": {
+    "en": "and so, as well",
+    "pos": "adv."
+   },
+   "ajouté": {
+    "en": "added",
+    "l": "ajouter",
+    "pos": "v."
+   },
+   "anciens": {
+    "en": "oldest, ancient",
+    "l": "ancien",
+    "pos": "adj."
+   },
+   "anglais": {
+    "en": "English",
+    "l": "anglais",
+    "pos": "adj."
+   },
+   "arbitre": {
+    "en": "referee",
+    "l": "arbitre",
+    "pos": "n.m."
+   },
+   "arbitres": {
+    "en": "referees",
+    "l": "arbitre",
+    "pos": "n.m."
+   },
+   "autres": {
+    "en": "other",
+    "l": "autre",
+    "pos": "adj."
+   },
+   "balle": {
+    "en": "ball",
+    "l": "balle",
+    "pos": "n.f."
+   },
+   "ballon": {
+    "en": "ball",
+    "l": "ballon",
+    "pos": "n.m."
+   },
+   "but": {
+    "en": "goal",
+    "l": "but",
+    "pos": "n.m."
+   },
+   "cages": {
+    "en": "goals",
+    "l": "cage",
+    "pos": "n.f."
+   },
+   "camp": {
+    "en": "side, team",
+    "l": "camp",
+    "pos": "n.m."
+   },
+   "certaines": {
+    "en": "certain (feminine plural)",
+    "l": "certain",
+    "pos": "adj."
+   },
+   "climatiques": {
+    "en": "weather, climatic",
+    "l": "climatique",
+    "pos": "adj."
+   },
+   "compris": {
+    "en": "including",
+    "l": "comprendre",
+    "pos": "v."
+   },
+   "compétitions": {
+    "en": "competitions",
+    "l": "compétition",
+    "pos": "n.f."
+   },
+   "conditions": {
+    "en": "conditions",
+    "l": "condition",
+    "pos": "n.f."
+   },
+   "couramment": {
+    "en": "commonly",
+    "pos": "adv."
+   },
+   "cuir": {
+    "en": "leather",
+    "l": "cuir",
+    "pos": "n.m."
+   },
+   "dessous": {
+    "en": "under, below",
+    "pos": "prep."
+   },
+   "deux": {
+    "en": "two",
+    "pos": "adj."
+   },
+   "divisé": {
+    "en": "divided",
+    "l": "diviser",
+    "pos": "v."
+   },
+   "doivent": {
+    "en": "must",
+    "l": "devoir",
+    "pos": "v."
+   },
+   "dos": {
+    "en": "back",
+    "l": "dos",
+    "pos": "n.m."
+   },
+   "dépasser": {
+    "en": "to go beyond",
+    "l": "dépasser",
+    "pos": "v."
+   },
+   "empêche": {
+    "en": "stops, prevents",
+    "l": "empêcher",
+    "pos": "v."
+   },
+   "envahissants": {
+    "en": "invading",
+    "l": "envahissant",
+    "pos": "adj."
+   },
+   "eu": {
+    "en": "had, there were",
+    "l": "avoir",
+    "pos": "v."
+   },
+   "extrêmes": {
+    "en": "extreme",
+    "l": "extrême",
+    "pos": "adj."
+   },
+   "fin": {
+    "en": "end",
+    "l": "fin",
+    "pos": "n.f."
+   },
+   "foot": {
+    "en": "football, soccer",
+    "l": "foot",
+    "pos": "n.m."
+   },
+   "football": {
+    "en": "football, soccer",
+    "l": "football",
+    "pos": "n.m."
+   },
+   "formes": {
+    "en": "forms, types",
+    "l": "forme",
+    "pos": "n.f."
+   },
+   "gardien": {
+    "en": "goalkeeper",
+    "l": "gardien",
+    "pos": "n.m."
+   },
+   "gens": {
+    "en": "people",
+    "l": "gens",
+    "pos": "n.m.pl."
+   },
+   "identique": {
+    "en": "identical, same",
+    "l": "identique",
+    "pos": "adj."
+   },
+   "indique": {
+    "en": "indicates, says",
+    "l": "indiquer",
+    "pos": "v."
+   },
+   "intervention": {
+    "en": "intervention, help",
+    "l": "intervention",
+    "pos": "n.f."
+   },
+   "jeu": {
+    "en": "game, play",
+    "l": "jeu",
+    "pos": "n.m."
+   },
+   "jeux": {
+    "en": "games",
+    "l": "jeu",
+    "pos": "n.m."
+   },
+   "joueur": {
+    "en": "player",
+    "l": "joueur",
+    "pos": "n.m."
+   },
+   "joueurs": {
+    "en": "players",
+    "l": "joueur",
+    "pos": "n.m."
+   },
+   "littéralement": {
+    "en": "literally",
+    "pos": "adv."
+   },
+   "mains": {
+    "en": "hands",
+    "l": "main",
+    "pos": "n.f."
+   },
+   "marquer": {
+    "en": "to score",
+    "l": "marquer",
+    "pos": "v."
+   },
+   "match": {
+    "en": "match, game",
+    "l": "match",
+    "pos": "n.m."
+   },
+   "mettre": {
+    "en": "to put",
+    "l": "mettre",
+    "pos": "v."
+   },
+   "mi-temps": {
+    "en": "half (of a match)",
+    "l": "mi-temps",
+    "pos": "n.f."
+   },
+   "minutes": {
+    "en": "minutes",
+    "l": "minute",
+    "pos": "n.f."
+   },
+   "médicale": {
+    "en": "medical",
+    "l": "médical",
+    "pos": "adj."
+   },
+   "non-jeu": {
+    "en": "stoppage of play",
+    "l": "non-jeu",
+    "pos": "n.m."
+   },
+   "olympiques": {
+    "en": "Olympic",
+    "l": "olympique",
+    "pos": "adj."
+   },
+   "parle": {
+    "en": "speaks, calls",
+    "l": "parler",
+    "pos": "v."
+   },
+   "partir": {
+    "en": "from, starting from",
+    "l": "partir",
+    "pos": "v."
+   },
+   "petits": {
+    "en": "young children, small",
+    "l": "petit",
+    "pos": "adj."
+   },
+   "phases": {
+    "en": "phases, periods",
+    "l": "phase",
+    "pos": "n.f."
+   },
+   "pied": {
+    "en": "foot",
+    "l": "pied",
+    "pos": "n.m."
+   },
+   "planète": {
+    "en": "planet",
+    "l": "planète",
+    "pos": "n.f."
+   },
+   "populaire": {
+    "en": "popular",
+    "l": "populaire",
+    "pos": "adj."
+   },
+   "porter": {
+    "en": "to wear",
+    "l": "porter",
+    "pos": "v."
+   },
+   "pratique": {
+    "en": "is played, practises",
+    "l": "pratiquer",
+    "pos": "v."
+   },
+   "rond": {
+    "en": "round",
+    "l": "rond",
+    "pos": "adj."
+   },
+   "règlement": {
+    "en": "rules, regulations",
+    "l": "règlement",
+    "pos": "n.m."
+   },
+   "sans": {
+    "en": "without",
+    "pos": "prep."
+   },
+   "sauf": {
+    "en": "except",
+    "pos": "prep."
+   },
+   "sport": {
+    "en": "sport",
+    "l": "sport",
+    "pos": "n.m."
+   },
+   "sports": {
+    "en": "sports",
+    "l": "sport",
+    "pos": "n.m."
+   },
+   "supporters": {
+    "en": "supporters, fans",
+    "l": "supporter",
+    "pos": "n.m."
+   },
+   "surface": {
+    "en": "area, surface",
+    "l": "surface",
+    "pos": "n.f."
+   },
+   "tenue": {
+    "en": "uniform, outfit",
+    "l": "tenue",
+    "pos": "n.f."
+   },
+   "terrain": {
+    "en": "field",
+    "l": "terrain",
+    "pos": "n.m."
+   },
+   "touche": {
+    "en": "touch; sideline",
+    "l": "touche",
+    "pos": "n.f."
+   },
+   "utiliser": {
+    "en": "to use",
+    "l": "utiliser",
+    "pos": "v."
+   },
+   "éléphant": {
+    "en": "elephant",
+    "l": "éléphant",
+    "pos": "n.m."
+   },
+   "équipes": {
+    "en": "teams",
+    "l": "équipe",
+    "pos": "n.f."
    }
   },
   "vikidia-ocean": {
