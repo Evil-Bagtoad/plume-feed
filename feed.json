@@ -190,6 +190,101 @@
    "added": "2026-09-30"
   },
   {
+   "id": "vikidia-elephant",
+   "title": "Éléphant",
+   "title_en": "Elephant",
+   "emoji": "🐘",
+   "color": "#6e7882",
+   "topic": "Animaux",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/%C3%89l%C3%A9phant",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=%C3%89l%C3%A9phant&oldid=2308707",
+   "retrieved": "2026-10-08",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Les éléphants sont les plus grands animaux terrestres vivant actuellement : l'éléphant d'Afrique mesure en moyenne 4 mètres de haut (à l'épaule) et pèse environ 6 tonnes, pour le mâle (contre 4 chez la femelle).",
+       "en": "Elephants are the largest land animals living today: the African elephant measures about 4 metres high (at the shoulder) and weighs about 6 tonnes for the male (compared with 4 for the female)."
+      },
+      {
+       "fr": "Ce sont des mammifères herbivores à la peau très épaisse.",
+       "en": "They are herbivorous mammals with very thick skin."
+      },
+      {
+       "fr": "C'est pour cela qu'ils sont aussi appelés pachydermes, (pachy- signifiant épais en grec et -derme la peau).",
+       "en": "This is why they are also called pachyderms (pachy- means thick in Greek and -derme means skin)."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "La femelle ne donne naissance qu'à un seul petit à la fois, après l'avoir gardé dans son ventre pendant 22 mois.",
+       "en": "The female gives birth to only one young at a time, after keeping it in her belly for 22 months."
+      },
+      {
+       "fr": "Il entend très bien grâce à ses grandes oreilles, a un bon odorat avec sa trompe, mais la vue est assez faible avec ses petits yeux.",
+       "en": "It hears very well thanks to its large ears, has a good sense of smell with its trunk, but its sight is rather weak with its small eyes."
+      },
+      {
+       "fr": "Son cri s'appelle le barrissement.",
+       "en": "Its cry is called trumpeting."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Les éléphants sont les plus grands animaux ___ .",
+     "options": [
+      "marins",
+      "terrestres",
+      "nocturnes"
+     ],
+     "answer": 1,
+     "why": "« les plus grands animaux terrestres »"
+    },
+    {
+     "q": "L'éléphant est un mammifère ___ .",
+     "options": [
+      "carnivore",
+      "herbivore",
+      "insectivore"
+     ],
+     "answer": 1,
+     "why": "« des mammifères herbivores »"
+    },
+    {
+     "q": "La femelle garde son petit dans son ventre pendant ___ mois.",
+     "options": [
+      "12",
+      "22",
+      "36"
+     ],
+     "answer": 1,
+     "why": "« pendant 22 mois »"
+    }
+   ],
+   "keywords": [
+    "éléphant",
+    "mammifère",
+    "herbivore",
+    "pachyderme",
+    "trompe",
+    "oreilles",
+    "barrissement"
+   ],
+   "public": true,
+   "added": "2026-10-08"
+  },
+  {
    "id": "vikidia-football",
    "title": "Football",
    "title_en": "Football (soccer)",
@@ -906,6 +1001,203 @@
   }
  ],
  "glossary": {
+  "vikidia-elephant": {
+   "actuellement": {
+    "en": "currently",
+    "l": "actuellement",
+    "pos": "adv."
+   },
+   "animaux": {
+    "en": "animals",
+    "l": "animal",
+    "pos": "n.m."
+   },
+   "après": {
+    "en": "after",
+    "l": "après",
+    "pos": "prep."
+   },
+   "assez": {
+    "en": "rather, quite",
+    "l": "assez",
+    "pos": "adv."
+   },
+   "barrissement": {
+    "en": "trumpeting (an elephant's cry)",
+    "l": "barrissement",
+    "pos": "n.m."
+   },
+   "cela": {
+    "en": "that, this",
+    "l": "cela",
+    "pos": "pron."
+   },
+   "chez": {
+    "en": "among, in",
+    "l": "chez",
+    "pos": "prep."
+   },
+   "cri": {
+    "en": "cry, call",
+    "l": "cri",
+    "pos": "n.m."
+   },
+   "derme": {
+    "en": "skin (root)",
+    "l": "derme",
+    "pos": "n.m."
+   },
+   "donne": {
+    "en": "gives (birth)",
+    "l": "donner",
+    "pos": "v."
+   },
+   "entend": {
+    "en": "hears",
+    "l": "entendre",
+    "pos": "v."
+   },
+   "faible": {
+    "en": "weak",
+    "l": "faible",
+    "pos": "adj."
+   },
+   "gardé": {
+    "en": "kept",
+    "l": "garder",
+    "pos": "v."
+   },
+   "grandes": {
+    "en": "large",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "grec": {
+    "en": "Greek",
+    "l": "grec",
+    "pos": "adj."
+   },
+   "haut": {
+    "en": "high",
+    "l": "haut",
+    "pos": "adj."
+   },
+   "herbivores": {
+    "en": "herbivorous",
+    "l": "herbivore",
+    "pos": "adj."
+   },
+   "mesure": {
+    "en": "measures",
+    "l": "mesurer",
+    "pos": "v."
+   },
+   "mois": {
+    "en": "months",
+    "l": "mois",
+    "pos": "n.m."
+   },
+   "moyenne": {
+    "en": "average",
+    "l": "moyenne",
+    "pos": "n.f."
+   },
+   "mâle": {
+    "en": "male",
+    "l": "mâle",
+    "pos": "n.m."
+   },
+   "naissance": {
+    "en": "birth",
+    "l": "naissance",
+    "pos": "n.f."
+   },
+   "odorat": {
+    "en": "sense of smell",
+    "l": "odorat",
+    "pos": "n.m."
+   },
+   "oreilles": {
+    "en": "ears",
+    "l": "oreille",
+    "pos": "n.f."
+   },
+   "pachy": {
+    "en": "thick (Greek root)",
+    "l": "pachy",
+    "pos": "root"
+   },
+   "pachydermes": {
+    "en": "pachyderms",
+    "l": "pachyderme",
+    "pos": "n.m."
+   },
+   "peau": {
+    "en": "skin",
+    "l": "peau",
+    "pos": "n.f."
+   },
+   "pèse": {
+    "en": "weighs",
+    "l": "peser",
+    "pos": "v."
+   },
+   "signifiant": {
+    "en": "meaning",
+    "l": "signifier",
+    "pos": "v."
+   },
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tonne",
+    "pos": "n.f."
+   },
+   "trompe": {
+    "en": "trunk",
+    "l": "trompe",
+    "pos": "n.f."
+   },
+   "ventre": {
+    "en": "belly",
+    "l": "ventre",
+    "pos": "n.m."
+   },
+   "vivant": {
+    "en": "living",
+    "l": "vivre",
+    "pos": "adj."
+   },
+   "vue": {
+    "en": "sight",
+    "l": "vue",
+    "pos": "n.f."
+   },
+   "yeux": {
+    "en": "eyes",
+    "l": "oeuil",
+    "pos": "n.m."
+   },
+   "éléphants": {
+    "en": "elephants",
+    "l": "éléphant",
+    "pos": "n.m."
+   },
+   "épais": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaisse": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaule": {
+    "en": "shoulder",
+    "l": "épaule",
+    "pos": "n.f."
+   }
+  },
   "": {
    "acide": {
     "en": "acid",
