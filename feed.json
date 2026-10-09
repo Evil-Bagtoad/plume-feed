@@ -806,6 +806,117 @@
    "added": "2026-10-05"
   },
   {
+   "id": "vikidia-paris",
+   "title": "Paris",
+   "title_en": "Paris",
+   "emoji": "🗼",
+   "color": "#5b5f97",
+   "topic": "Géographie",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Paris",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Paris&oldid=2474144",
+   "retrieved": "2026-10-09",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Paris est la capitale de la France, et aussi sa ville la plus peuplée.",
+       "en": "Paris is the capital of France and also its most populous city."
+      },
+      {
+       "fr": "Elle se situe en France métropolitaine, dans la région Île-de-France, au nord du pays.",
+       "en": "It is in metropolitan France, in the Île-de-France region, in the north of the country."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Avec une population de plus de 2 millions d'habitants (2 103 778 en 2023), elle est de très loin la ville la plus peuplée de France (la 2e, Marseille, n'a même pas un million d'habitants).",
+       "en": "With a population of more than 2 million inhabitants (2,103,778 in 2023), it is by far the most populous city in France (the second, Marseille, does not even have one million inhabitants)."
+      },
+      {
+       "fr": "Elle est aussi la 5e ville la plus peuplée de l'Union européenne (UE) derrière Berlin (capitale de l'Allemagne), Madrid (capitale de l'Espagne), Rome (capitale de l'Italie) et Bucarest (capitale de la Roumanie), et l'une des villes les plus densément peuplées au monde.",
+       "en": "It is also the fifth most populous city in the European Union (EU), behind Berlin (capital of Germany), Madrid (capital of Spain), Rome (capital of Italy), and Bucharest (capital of Romania), and one of the most densely populated cities in the world."
+      },
+      {
+       "fr": "Sa métropole, la métropole du Grand Paris (wp), regroupe plus de 7 millions d'habitants en 2023.",
+       "en": "Its metropolitan area, Greater Paris (wp), includes more than 7 million inhabitants in 2023."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "La capitale française est située dans le nord du pays, dans un méandre de la Seine, localisation dont elle bénéficie puisqu'elle lui permet d'être un important nœud de communication.",
+       "en": "The French capital is in the north of the country, in a bend of the Seine, a location that benefits it because it makes it an important communication hub."
+      },
+      {
+       "fr": "En effet, dès le Xe siècle, elle se trouve sur les itinéraires commerciaux terrestres et fluviaux qui lui ont permis de devenir la cité prédominante en France avec la construction de palais royaux, de riches abbayes et de la célèbre cathédrale Notre-Dame.",
+       "en": "Indeed, from the 10th century, it was on land and river trade routes that allowed it to become the leading city in France, with the building of royal palaces, rich abbeys, and the famous Notre-Dame cathedral."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Au cours de son histoire, Paris a eu une influence déterminante sur la politique, la culture, le mode de vie et l'économie de l'Europe puis du monde entier.",
+       "en": "During its history, Paris has had a decisive influence on the politics, culture, way of life, and economy of Europe and then of the whole world."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Paris est la capitale de la ___ .",
+     "options": [
+      "Belgique",
+      "France",
+      "Suisse"
+     ],
+     "answer": 1,
+     "why": "« Paris est la capitale de la France »"
+    },
+    {
+     "q": "Paris se situe dans la région ___ .",
+     "options": [
+      "Bretagne",
+      "Île-de-France",
+      "Normandie"
+     ],
+     "answer": 1,
+     "why": "« dans la région Île-de-France »"
+    },
+    {
+     "q": "La métropole du Grand Paris regroupe plus de ___ millions d'habitants.",
+     "options": [
+      "2",
+      "7",
+      "20"
+     ],
+     "answer": 1,
+     "why": "« plus de 7 millions d'habitants »"
+    }
+   ],
+   "keywords": [
+    "Paris",
+    "capitale",
+    "France",
+    "habitants",
+    "métropole",
+    "Seine",
+    "histoire"
+   ],
+   "public": true,
+   "added": "2026-10-09"
+  },
+  {
    "id": "vikidia-tour-eiffel",
    "title": "Tour Eiffel",
    "title_en": "Eiffel Tower",
@@ -1001,200 +1112,280 @@
   }
  ],
  "glossary": {
-  "vikidia-elephant": {
-   "actuellement": {
-    "en": "currently",
-    "l": "actuellement",
-    "pos": "adv."
+  "vikidia-ocean": {
+   "absorbe": {
+    "en": "absorbs",
+    "l": "absorber",
+    "pos": "v."
    },
-   "animaux": {
-    "en": "animals",
-    "l": "animal",
+   "apparait": {
+    "en": "appears",
+    "l": "apparaître",
+    "pos": "v."
+   },
+   "bleu-vert": {
+    "en": "blue-green",
+    "l": "bleu-vert",
+    "pos": "adj."
+   },
+   "bleue": {
+    "en": "blue (feminine)",
+    "l": "bleu",
+    "pos": "adj."
+   },
+   "ciel": {
+    "en": "sky",
+    "l": "ciel",
     "pos": "n.m."
    },
-   "après": {
-    "en": "after",
-    "l": "après",
-    "pos": "prep."
-   },
-   "assez": {
-    "en": "rather, quite",
-    "l": "assez",
-    "pos": "adv."
-   },
-   "barrissement": {
-    "en": "trumpeting (an elephant's cry)",
-    "l": "barrissement",
+   "climat": {
+    "en": "climate",
+    "l": "climat",
     "pos": "n.m."
    },
-   "cela": {
-    "en": "that, this",
-    "l": "cela",
-    "pos": "pron."
+   "confondre": {
+    "en": "to confuse",
+    "l": "confondre",
+    "pos": "v."
    },
-   "chez": {
-    "en": "among, in",
-    "l": "chez",
-    "pos": "prep."
+   "couleur": {
+    "en": "colour",
+    "l": "couleur",
+    "pos": "n.f."
    },
-   "cri": {
-    "en": "cry, call",
-    "l": "cri",
+   "couvrant": {
+    "en": "covering",
+    "l": "couvrir",
+    "pos": "v."
+   },
+   "cycle": {
+    "en": "cycle",
+    "l": "cycle",
     "pos": "n.m."
    },
-   "derme": {
-    "en": "skin (root)",
-    "l": "derme",
-    "pos": "n.m."
+   "devrait": {
+    "en": "should",
+    "l": "devoir",
+    "pos": "v."
    },
    "donne": {
-    "en": "gives (birth)",
+    "en": "gives",
     "l": "donner",
     "pos": "v."
    },
-   "entend": {
-    "en": "hears",
-    "l": "entendre",
-    "pos": "v."
-   },
-   "faible": {
-    "en": "weak",
-    "l": "faible",
+   "dû": {
+    "en": "due to",
+    "l": "devoir",
     "pos": "adj."
    },
-   "gardé": {
-    "en": "kept",
-    "l": "garder",
+   "elle-même": {
+    "en": "itself",
+    "l": "elle-même",
+    "pos": "pron."
+   },
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "faut": {
+    "en": "must, is necessary",
+    "l": "falloir",
     "pos": "v."
    },
-   "grandes": {
-    "en": "large",
+   "formes": {
+    "en": "forms",
+    "l": "forme",
+    "pos": "n.f."
+   },
+   "gazeuse": {
+    "en": "gaseous",
+    "l": "gazeux",
+    "pos": "adj."
+   },
+   "globe": {
+    "en": "globe, world",
+    "l": "globe",
+    "pos": "n.m."
+   },
+   "grande": {
+    "en": "large, big",
     "l": "grand",
     "pos": "adj."
    },
-   "grec": {
-    "en": "Greek",
-    "l": "grec",
+   "humaine": {
+    "en": "human (feminine)",
+    "l": "humain",
     "pos": "adj."
    },
-   "haut": {
-    "en": "high",
-    "l": "haut",
+   "importants": {
+    "en": "important",
+    "l": "important",
     "pos": "adj."
    },
-   "herbivores": {
-    "en": "herbivorous",
-    "l": "herbivore",
+   "liquide": {
+    "en": "liquid",
+    "l": "liquide",
     "pos": "adj."
    },
-   "mesure": {
-    "en": "measures",
-    "l": "mesurer",
+   "lui": {
+    "en": "to it, to him/her",
+    "l": "lui",
+    "pos": "pron."
+   },
+   "lumière": {
+    "en": "light",
+    "l": "lumière",
+    "pos": "n.f."
+   },
+   "mers": {
+    "en": "seas",
+    "l": "mer",
+    "pos": "n.f."
+   },
+   "non": {
+    "en": "not",
+    "l": "non",
+    "pos": "adv."
+   },
+   "notre": {
+    "en": "our",
+    "l": "notre",
+    "pos": "det."
+   },
+   "occupent": {
+    "en": "occupy, cover",
+    "l": "occuper",
     "pos": "v."
    },
-   "mois": {
-    "en": "months",
-    "l": "mois",
+   "océan": {
+    "en": "ocean",
+    "l": "océan",
     "pos": "n.m."
    },
-   "moyenne": {
-    "en": "average",
-    "l": "moyenne",
-    "pos": "n.f."
-   },
-   "mâle": {
-    "en": "male",
-    "l": "mâle",
+   "océans": {
+    "en": "oceans",
+    "l": "océan",
     "pos": "n.m."
    },
-   "naissance": {
-    "en": "birth",
-    "l": "naissance",
-    "pos": "n.f."
-   },
-   "odorat": {
-    "en": "sense of smell",
-    "l": "odorat",
-    "pos": "n.m."
-   },
-   "oreilles": {
-    "en": "ears",
-    "l": "oreille",
-    "pos": "n.f."
-   },
-   "pachy": {
-    "en": "thick (Greek root)",
-    "l": "pachy",
-    "pos": "root"
-   },
-   "pachydermes": {
-    "en": "pachyderms",
-    "l": "pachyderme",
-    "pos": "n.m."
-   },
-   "peau": {
-    "en": "skin",
-    "l": "peau",
-    "pos": "n.f."
-   },
-   "pèse": {
-    "en": "weighs",
-    "l": "peser",
-    "pos": "v."
-   },
-   "signifiant": {
-    "en": "meaning",
-    "l": "signifier",
-    "pos": "v."
-   },
-   "tonnes": {
-    "en": "tonnes",
-    "l": "tonne",
-    "pos": "n.f."
-   },
-   "trompe": {
-    "en": "trunk",
-    "l": "trompe",
-    "pos": "n.f."
-   },
-   "ventre": {
-    "en": "belly",
-    "l": "ventre",
-    "pos": "n.m."
-   },
-   "vivant": {
-    "en": "living",
-    "l": "vivre",
+   "optique": {
+    "en": "optical",
+    "l": "optique",
     "pos": "adj."
+   },
+   "oxygène": {
+    "en": "oxygen",
+    "l": "oxygène",
+    "pos": "n.m."
+   },
+   "petites": {
+    "en": "small (feminine plural)",
+    "l": "petit",
+    "pos": "adj."
+   },
+   "phénomène": {
+    "en": "phenomenon",
+    "l": "phénomène",
+    "pos": "n.m."
+   },
+   "plancton": {
+    "en": "plankton",
+    "l": "plancton",
+    "pos": "n.m."
+   },
+   "planète": {
+    "en": "planet",
+    "l": "planète",
+    "pos": "n.f."
+   },
+   "pluie": {
+    "en": "rain",
+    "l": "pluie",
+    "pos": "n.f."
+   },
+   "propriété": {
+    "en": "property",
+    "l": "propriété",
+    "pos": "n.f."
+   },
+   "provient": {
+    "en": "comes from",
+    "l": "provenir",
+    "pos": "v."
+   },
+   "reflet": {
+    "en": "reflection",
+    "l": "reflet",
+    "pos": "n.m."
+   },
+   "représentent": {
+    "en": "make up, represent",
+    "l": "représenter",
+    "pos": "v."
+   },
+   "respire": {
+    "en": "breathes",
+    "l": "respirer",
+    "pos": "v."
+   },
+   "rouge": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj."
+   },
+   "réfléchit": {
+    "en": "reflects",
+    "l": "réfléchir",
+    "pos": "v."
+   },
+   "salée": {
+    "en": "salty",
+    "l": "salé",
+    "pos": "adj."
+   },
+   "si": {
+    "en": "if",
+    "l": "si",
+    "pos": "conj."
+   },
+   "solide": {
+    "en": "solid",
+    "l": "solide",
+    "pos": "adj."
+   },
+   "sous": {
+    "en": "under",
+    "l": "sous",
+    "pos": "prep."
+   },
+   "surface": {
+    "en": "surface",
+    "l": "surface",
+    "pos": "n.f."
+   },
+   "toutes": {
+    "en": "all (feminine plural)",
+    "l": "tout",
+    "pos": "det."
+   },
+   "voir": {
+    "en": "to see",
+    "l": "voir",
+    "pos": "v."
    },
    "vue": {
-    "en": "sight",
-    "l": "vue",
+    "en": "seen (feminine)",
+    "l": "voir",
+    "pos": "v."
+   },
+   "étendue": {
+    "en": "expanse, extent",
+    "l": "étendue",
     "pos": "n.f."
    },
-   "yeux": {
-    "en": "eyes",
-    "l": "oeuil",
-    "pos": "n.m."
-   },
-   "éléphants": {
-    "en": "elephants",
-    "l": "éléphant",
-    "pos": "n.m."
-   },
-   "épais": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaisse": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaule": {
-    "en": "shoulder",
-    "l": "épaule",
+   "évaporation": {
+    "en": "evaporation",
+    "l": "évaporation",
     "pos": "n.f."
    }
   },
@@ -4554,280 +4745,541 @@
     "pos": "n.f."
    }
   },
-  "vikidia-ocean": {
-   "absorbe": {
-    "en": "absorbs",
-    "l": "absorber",
-    "pos": "v."
-   },
-   "apparait": {
-    "en": "appears",
-    "l": "apparaître",
-    "pos": "v."
-   },
-   "bleu-vert": {
-    "en": "blue-green",
-    "l": "bleu-vert",
+  "vikidia-paris": {
+   "2e": {
+    "en": "second",
+    "l": "deuxième",
     "pos": "adj."
    },
-   "bleue": {
-    "en": "blue (feminine)",
-    "l": "bleu",
+   "5e": {
+    "en": "fifth",
+    "l": "cinquième",
     "pos": "adj."
    },
-   "ciel": {
-    "en": "sky",
-    "l": "ciel",
-    "pos": "n.m."
-   },
-   "climat": {
-    "en": "climate",
-    "l": "climat",
-    "pos": "n.m."
-   },
-   "confondre": {
-    "en": "to confuse",
-    "l": "confondre",
-    "pos": "v."
-   },
-   "couleur": {
-    "en": "colour",
-    "l": "couleur",
+   "abbayes": {
+    "en": "abbeys",
+    "l": "abbaye",
     "pos": "n.f."
    },
-   "couvrant": {
-    "en": "covering",
-    "l": "couvrir",
+   "allemagne": {
+    "en": "Germany",
+    "l": "Allemagne",
+    "pos": "name"
+   },
+   "berlin": {
+    "en": "Berlin",
+    "l": "Berlin",
+    "pos": "name"
+   },
+   "bucarest": {
+    "en": "Bucharest",
+    "l": "Bucarest",
+    "pos": "name"
+   },
+   "bénéficie": {
+    "en": "benefits",
+    "l": "bénéficier",
     "pos": "v."
    },
-   "cycle": {
-    "en": "cycle",
-    "l": "cycle",
-    "pos": "n.m."
-   },
-   "devrait": {
-    "en": "should",
-    "l": "devoir",
-    "pos": "v."
-   },
-   "donne": {
-    "en": "gives",
-    "l": "donner",
-    "pos": "v."
-   },
-   "dû": {
-    "en": "due to",
-    "l": "devoir",
-    "pos": "adj."
-   },
-   "elle-même": {
-    "en": "itself",
-    "l": "elle-même",
-    "pos": "pron."
-   },
-   "espace": {
-    "en": "space",
-    "l": "espace",
-    "pos": "n.m."
-   },
-   "faut": {
-    "en": "must, is necessary",
-    "l": "falloir",
-    "pos": "v."
-   },
-   "formes": {
-    "en": "forms",
-    "l": "forme",
+   "capitale": {
+    "en": "capital",
+    "l": "capitale",
     "pos": "n.f."
    },
-   "gazeuse": {
-    "en": "gaseous",
-    "l": "gazeux",
+   "cathédrale": {
+    "en": "cathedral",
+    "l": "cathédrale",
+    "pos": "n.f."
+   },
+   "commerciaux": {
+    "en": "commercial, trade",
+    "l": "commercial",
     "pos": "adj."
    },
-   "globe": {
-    "en": "globe, world",
-    "l": "globe",
+   "communication": {
+    "en": "communication",
+    "l": "communication",
+    "pos": "n.f."
+   },
+   "construction": {
+    "en": "construction, building",
+    "l": "construction",
+    "pos": "n.f."
+   },
+   "culture": {
+    "en": "culture",
+    "l": "culture",
+    "pos": "n.f."
+   },
+   "célèbre": {
+    "en": "famous",
+    "l": "célèbre",
+    "pos": "adj."
+   },
+   "densément": {
+    "en": "densely",
+    "l": "densément",
+    "pos": "adv."
+   },
+   "derrière": {
+    "en": "behind",
+    "l": "derrière",
+    "pos": "prep."
+   },
+   "devenir": {
+    "en": "to become",
+    "l": "devenir",
+    "pos": "v."
+   },
+   "dès": {
+    "en": "from, as early as",
+    "l": "dès",
+    "pos": "prep."
+   },
+   "déterminante": {
+    "en": "decisive",
+    "l": "déterminant",
+    "pos": "adj."
+   },
+   "effet": {
+    "en": "effect; indeed (en effet)",
+    "l": "effet",
     "pos": "n.m."
    },
-   "grande": {
-    "en": "large, big",
+   "entier": {
+    "en": "whole, entire",
+    "l": "entier",
+    "pos": "adj."
+   },
+   "europe": {
+    "en": "Europe",
+    "l": "Europe",
+    "pos": "name"
+   },
+   "européenne": {
+    "en": "European",
+    "l": "européen",
+    "pos": "adj."
+   },
+   "fluviaux": {
+    "en": "river",
+    "l": "fluvial",
+    "pos": "adj."
+   },
+   "française": {
+    "en": "French",
+    "l": "français",
+    "pos": "adj."
+   },
+   "grand": {
+    "en": "large, great",
     "l": "grand",
     "pos": "adj."
    },
-   "humaine": {
-    "en": "human (feminine)",
-    "l": "humain",
-    "pos": "adj."
-   },
-   "importants": {
+   "important": {
     "en": "important",
     "l": "important",
     "pos": "adj."
    },
-   "liquide": {
-    "en": "liquid",
-    "l": "liquide",
-    "pos": "adj."
+   "influence": {
+    "en": "influence",
+    "l": "influence",
+    "pos": "n.f."
+   },
+   "italie": {
+    "en": "Italy",
+    "l": "Italie",
+    "pos": "name"
+   },
+   "itinéraires": {
+    "en": "routes, itineraries",
+    "l": "itinéraire",
+    "pos": "n.m."
+   },
+   "localisation": {
+    "en": "location",
+    "l": "localisation",
+    "pos": "n.f."
+   },
+   "loin": {
+    "en": "far",
+    "l": "loin",
+    "pos": "adv."
    },
    "lui": {
-    "en": "to it, to him/her",
+    "en": "to it, to him, to her",
     "l": "lui",
     "pos": "pron."
    },
-   "lumière": {
-    "en": "light",
-    "l": "lumière",
-    "pos": "n.f."
+   "madrid": {
+    "en": "Madrid",
+    "l": "Madrid",
+    "pos": "name"
    },
-   "mers": {
-    "en": "seas",
-    "l": "mer",
-    "pos": "n.f."
+   "marseille": {
+    "en": "Marseille",
+    "l": "Marseille",
+    "pos": "name"
    },
-   "non": {
-    "en": "not",
-    "l": "non",
-    "pos": "adv."
-   },
-   "notre": {
-    "en": "our",
-    "l": "notre",
-    "pos": "det."
-   },
-   "occupent": {
-    "en": "occupy, cover",
-    "l": "occuper",
-    "pos": "v."
-   },
-   "océan": {
-    "en": "ocean",
-    "l": "océan",
+   "million": {
+    "en": "million",
+    "l": "million",
     "pos": "n.m."
    },
-   "océans": {
-    "en": "oceans",
-    "l": "océan",
+   "mode": {
+    "en": "way, fashion",
+    "l": "mode",
     "pos": "n.m."
    },
-   "optique": {
-    "en": "optical",
-    "l": "optique",
+   "méandre": {
+    "en": "bend, meander",
+    "l": "méandre",
+    "pos": "n.m."
+   },
+   "métropole": {
+    "en": "metropolitan area",
+    "l": "métropole",
+    "pos": "n.f."
+   },
+   "métropolitaine": {
+    "en": "metropolitan",
+    "l": "métropolitain",
     "pos": "adj."
    },
-   "oxygène": {
-    "en": "oxygen",
-    "l": "oxygène",
+   "nord": {
+    "en": "north",
+    "l": "nord",
     "pos": "n.m."
    },
-   "petites": {
-    "en": "small (feminine plural)",
-    "l": "petit",
+   "notre-dame": {
+    "en": "Notre-Dame",
+    "l": "Notre-Dame",
+    "pos": "name"
+   },
+   "nœud": {
+    "en": "node, hub",
+    "l": "nœud",
+    "pos": "n.m."
+   },
+   "palais": {
+    "en": "palaces",
+    "l": "palais",
+    "pos": "n.m."
+   },
+   "pays": {
+    "en": "country",
+    "l": "pays",
+    "pos": "n.m."
+   },
+   "permet": {
+    "en": "allows",
+    "l": "permettre",
+    "pos": "v."
+   },
+   "permis": {
+    "en": "allowed, enabled",
+    "l": "permettre",
+    "pos": "v."
+   },
+   "peuplée": {
+    "en": "populated",
+    "l": "peupler",
     "pos": "adj."
    },
-   "phénomène": {
-    "en": "phenomenon",
-    "l": "phénomène",
-    "pos": "n.m."
-   },
-   "plancton": {
-    "en": "plankton",
-    "l": "plancton",
-    "pos": "n.m."
-   },
-   "planète": {
-    "en": "planet",
-    "l": "planète",
-    "pos": "n.f."
-   },
-   "pluie": {
-    "en": "rain",
-    "l": "pluie",
-    "pos": "n.f."
-   },
-   "propriété": {
-    "en": "property",
-    "l": "propriété",
-    "pos": "n.f."
-   },
-   "provient": {
-    "en": "comes from",
-    "l": "provenir",
-    "pos": "v."
-   },
-   "reflet": {
-    "en": "reflection",
-    "l": "reflet",
-    "pos": "n.m."
-   },
-   "représentent": {
-    "en": "make up, represent",
-    "l": "représenter",
-    "pos": "v."
-   },
-   "respire": {
-    "en": "breathes",
-    "l": "respirer",
-    "pos": "v."
-   },
-   "rouge": {
-    "en": "red",
-    "l": "rouge",
+   "peuplées": {
+    "en": "populated",
+    "l": "peupler",
     "pos": "adj."
    },
-   "réfléchit": {
-    "en": "reflects",
-    "l": "réfléchir",
-    "pos": "v."
+   "politique": {
+    "en": "politics, political",
+    "l": "politique",
+    "pos": "n.f."
    },
-   "salée": {
-    "en": "salty",
-    "l": "salé",
+   "population": {
+    "en": "population",
+    "l": "population",
+    "pos": "n.f."
+   },
+   "prédominante": {
+    "en": "leading, predominant",
+    "l": "prédominant",
     "pos": "adj."
    },
-   "si": {
-    "en": "if",
-    "l": "si",
+   "puisqu'": {
+    "en": "since, because",
+    "l": "puisque",
     "pos": "conj."
    },
-   "solide": {
-    "en": "solid",
-    "l": "solide",
+   "regroupe": {
+    "en": "includes, brings together",
+    "l": "regrouper",
+    "pos": "v."
+   },
+   "riches": {
+    "en": "rich",
+    "l": "riche",
     "pos": "adj."
    },
-   "sous": {
-    "en": "under",
-    "l": "sous",
+   "rome": {
+    "en": "Rome",
+    "l": "Rome",
+    "pos": "name"
+   },
+   "roumanie": {
+    "en": "Romania",
+    "l": "Roumanie",
+    "pos": "name"
+   },
+   "royaux": {
+    "en": "royal",
+    "l": "royal",
+    "pos": "adj."
+   },
+   "région": {
+    "en": "region",
+    "l": "région",
+    "pos": "n.f."
+   },
+   "seine": {
+    "en": "Seine",
+    "l": "Seine",
+    "pos": "name"
+   },
+   "situe": {
+    "en": "is situated",
+    "l": "situer",
+    "pos": "v."
+   },
+   "ue": {
+    "en": "EU (European Union)",
+    "l": "UE",
+    "pos": "name"
+   },
+   "union": {
+    "en": "union",
+    "l": "union",
+    "pos": "n.f."
+   },
+   "villes": {
+    "en": "cities",
+    "l": "ville",
+    "pos": "n.f."
+   },
+   "wp": {
+    "en": "Wikipedia link marker",
+    "pos": "abbr."
+   },
+   "xe": {
+    "en": "tenth",
+    "l": "dixième",
+    "pos": "adj."
+   },
+   "économie": {
+    "en": "economy",
+    "l": "économie",
+    "pos": "n.f."
+   },
+   "île-de-france": {
+    "en": "Île-de-France",
+    "l": "Île-de-France",
+    "pos": "name"
+   }
+  },
+  "vikidia-elephant": {
+   "actuellement": {
+    "en": "currently",
+    "l": "actuellement",
+    "pos": "adv."
+   },
+   "animaux": {
+    "en": "animals",
+    "l": "animal",
+    "pos": "n.m."
+   },
+   "après": {
+    "en": "after",
+    "l": "après",
     "pos": "prep."
    },
-   "surface": {
-    "en": "surface",
-    "l": "surface",
+   "assez": {
+    "en": "rather, quite",
+    "l": "assez",
+    "pos": "adv."
+   },
+   "barrissement": {
+    "en": "trumpeting (an elephant's cry)",
+    "l": "barrissement",
+    "pos": "n.m."
+   },
+   "cela": {
+    "en": "that, this",
+    "l": "cela",
+    "pos": "pron."
+   },
+   "chez": {
+    "en": "among, in",
+    "l": "chez",
+    "pos": "prep."
+   },
+   "cri": {
+    "en": "cry, call",
+    "l": "cri",
+    "pos": "n.m."
+   },
+   "derme": {
+    "en": "skin (root)",
+    "l": "derme",
+    "pos": "n.m."
+   },
+   "donne": {
+    "en": "gives (birth)",
+    "l": "donner",
+    "pos": "v."
+   },
+   "entend": {
+    "en": "hears",
+    "l": "entendre",
+    "pos": "v."
+   },
+   "faible": {
+    "en": "weak",
+    "l": "faible",
+    "pos": "adj."
+   },
+   "gardé": {
+    "en": "kept",
+    "l": "garder",
+    "pos": "v."
+   },
+   "grandes": {
+    "en": "large",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "grec": {
+    "en": "Greek",
+    "l": "grec",
+    "pos": "adj."
+   },
+   "haut": {
+    "en": "high",
+    "l": "haut",
+    "pos": "adj."
+   },
+   "herbivores": {
+    "en": "herbivorous",
+    "l": "herbivore",
+    "pos": "adj."
+   },
+   "mesure": {
+    "en": "measures",
+    "l": "mesurer",
+    "pos": "v."
+   },
+   "mois": {
+    "en": "months",
+    "l": "mois",
+    "pos": "n.m."
+   },
+   "moyenne": {
+    "en": "average",
+    "l": "moyenne",
     "pos": "n.f."
    },
-   "toutes": {
-    "en": "all (feminine plural)",
-    "l": "tout",
-    "pos": "det."
+   "mâle": {
+    "en": "male",
+    "l": "mâle",
+    "pos": "n.m."
    },
-   "voir": {
-    "en": "to see",
-    "l": "voir",
+   "naissance": {
+    "en": "birth",
+    "l": "naissance",
+    "pos": "n.f."
+   },
+   "odorat": {
+    "en": "sense of smell",
+    "l": "odorat",
+    "pos": "n.m."
+   },
+   "oreilles": {
+    "en": "ears",
+    "l": "oreille",
+    "pos": "n.f."
+   },
+   "pachy": {
+    "en": "thick (Greek root)",
+    "l": "pachy",
+    "pos": "root"
+   },
+   "pachydermes": {
+    "en": "pachyderms",
+    "l": "pachyderme",
+    "pos": "n.m."
+   },
+   "peau": {
+    "en": "skin",
+    "l": "peau",
+    "pos": "n.f."
+   },
+   "pèse": {
+    "en": "weighs",
+    "l": "peser",
     "pos": "v."
+   },
+   "signifiant": {
+    "en": "meaning",
+    "l": "signifier",
+    "pos": "v."
+   },
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tonne",
+    "pos": "n.f."
+   },
+   "trompe": {
+    "en": "trunk",
+    "l": "trompe",
+    "pos": "n.f."
+   },
+   "ventre": {
+    "en": "belly",
+    "l": "ventre",
+    "pos": "n.m."
+   },
+   "vivant": {
+    "en": "living",
+    "l": "vivre",
+    "pos": "adj."
    },
    "vue": {
-    "en": "seen (feminine)",
-    "l": "voir",
-    "pos": "v."
-   },
-   "étendue": {
-    "en": "expanse, extent",
-    "l": "étendue",
+    "en": "sight",
+    "l": "vue",
     "pos": "n.f."
    },
-   "évaporation": {
-    "en": "evaporation",
-    "l": "évaporation",
+   "yeux": {
+    "en": "eyes",
+    "l": "oeuil",
+    "pos": "n.m."
+   },
+   "éléphants": {
+    "en": "elephants",
+    "l": "éléphant",
+    "pos": "n.m."
+   },
+   "épais": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaisse": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaule": {
+    "en": "shoulder",
+    "l": "épaule",
     "pos": "n.f."
    }
   }
