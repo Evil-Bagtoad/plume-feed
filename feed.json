@@ -711,6 +711,118 @@
    "added": "2026-10-02"
   },
   {
+   "id": "vikidia-manchot",
+   "title": "Manchot",
+   "title_en": "Penguin",
+   "emoji": "🐧",
+   "color": "#4f6f8f",
+   "topic": "Animaux",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Manchot",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Manchot&oldid=2226697",
+   "retrieved": "2026-10-11",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Un manchot est un oiseau marin palmipède vivant dans l'hémisphère sud.",
+       "en": "A penguin is a web-footed seabird living in the Southern Hemisphere."
+      },
+      {
+       "fr": "Avec les gorfous, les manchots forment un ordre d'oiseaux, les Sphénisciformes.",
+       "en": "With rockhopper penguins, penguins form an order of birds, the Sphenisciformes."
+      },
+      {
+       "fr": "Il est souvent confondu avec le pingouin, qui, contrairement au manchot, est capable de voler et vit dans l'hémisphère nord.",
+       "en": "It is often confused with the auk, which, unlike the penguin, can fly and lives in the Northern Hemisphere."
+      },
+      {
+       "fr": "Cette confusion vient parfois d'une mauvaise traduction de l'anglais.",
+       "en": "This confusion sometimes comes from a bad translation from English."
+      },
+      {
+       "fr": "Le mot penguin en anglais signifie manchot et non pingouin.",
+       "en": "The word penguin in English means manchot and not pingouin."
+      },
+      {
+       "fr": "C'est ce qui s'appelle un faux-ami.",
+       "en": "This is what is called a false friend."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Il mange du poisson.",
+       "en": "It eats fish."
+      },
+      {
+       "fr": "Il n'est pas capable de voler car il a des moignons d'ailes, mais elles lui permettent de nager et de plonger plus rapidement que les autres oiseaux.",
+       "en": "It cannot fly because it has stubs of wings, but they allow it to swim and dive faster than other birds."
+      },
+      {
+       "fr": "Sur les dix-huit espèces de manchots existant sur notre planète, le manchot empereur est le plus grand.",
+       "en": "Of the eighteen penguin species on our planet, the emperor penguin is the largest."
+      },
+      {
+       "fr": "Comme chez tous les manchots, le plumage noir et blanc de l'empereur lui donne l'air d'être toujours habillé en smoking.",
+       "en": "As with all penguins, the emperor's black-and-white plumage makes it look as if it is always dressed in a tuxedo."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Un manchot vit dans l'hémisphère ___ .",
+     "options": [
+      "nord",
+      "sud",
+      "est"
+     ],
+     "answer": 1,
+     "why": "« vivant dans l'hémisphère sud »"
+    },
+    {
+     "q": "Le manchot mange du ___ .",
+     "options": [
+      "pain",
+      "poisson",
+      "fromage"
+     ],
+     "answer": 1,
+     "why": "« Il mange du poisson »"
+    },
+    {
+     "q": "Le manchot empereur est le plus ___ .",
+     "options": [
+      "petit",
+      "grand",
+      "rapide"
+     ],
+     "answer": 1,
+     "why": "« le manchot empereur est le plus grand »"
+    }
+   ],
+   "keywords": [
+    "manchot",
+    "oiseau marin",
+    "hémisphère sud",
+    "pingouin",
+    "poisson",
+    "ailes",
+    "nager",
+    "empereur"
+   ],
+   "public": true,
+   "added": "2026-10-11"
+  },
+  {
    "id": "vikidia-moyen-age",
    "title": "Moyen Âge",
    "title_en": "Middle Ages",
@@ -1224,203 +1336,6 @@
   }
  ],
  "glossary": {
-  "vikidia-elephant": {
-   "actuellement": {
-    "en": "currently",
-    "l": "actuellement",
-    "pos": "adv."
-   },
-   "animaux": {
-    "en": "animals",
-    "l": "animal",
-    "pos": "n.m."
-   },
-   "après": {
-    "en": "after",
-    "l": "après",
-    "pos": "prep."
-   },
-   "assez": {
-    "en": "rather, quite",
-    "l": "assez",
-    "pos": "adv."
-   },
-   "barrissement": {
-    "en": "trumpeting (an elephant's cry)",
-    "l": "barrissement",
-    "pos": "n.m."
-   },
-   "cela": {
-    "en": "that, this",
-    "l": "cela",
-    "pos": "pron."
-   },
-   "chez": {
-    "en": "among, in",
-    "l": "chez",
-    "pos": "prep."
-   },
-   "cri": {
-    "en": "cry, call",
-    "l": "cri",
-    "pos": "n.m."
-   },
-   "derme": {
-    "en": "skin (root)",
-    "l": "derme",
-    "pos": "n.m."
-   },
-   "donne": {
-    "en": "gives (birth)",
-    "l": "donner",
-    "pos": "v."
-   },
-   "entend": {
-    "en": "hears",
-    "l": "entendre",
-    "pos": "v."
-   },
-   "faible": {
-    "en": "weak",
-    "l": "faible",
-    "pos": "adj."
-   },
-   "gardé": {
-    "en": "kept",
-    "l": "garder",
-    "pos": "v."
-   },
-   "grandes": {
-    "en": "large",
-    "l": "grand",
-    "pos": "adj."
-   },
-   "grec": {
-    "en": "Greek",
-    "l": "grec",
-    "pos": "adj."
-   },
-   "haut": {
-    "en": "high",
-    "l": "haut",
-    "pos": "adj."
-   },
-   "herbivores": {
-    "en": "herbivorous",
-    "l": "herbivore",
-    "pos": "adj."
-   },
-   "mesure": {
-    "en": "measures",
-    "l": "mesurer",
-    "pos": "v."
-   },
-   "mois": {
-    "en": "months",
-    "l": "mois",
-    "pos": "n.m."
-   },
-   "moyenne": {
-    "en": "average",
-    "l": "moyenne",
-    "pos": "n.f."
-   },
-   "mâle": {
-    "en": "male",
-    "l": "mâle",
-    "pos": "n.m."
-   },
-   "naissance": {
-    "en": "birth",
-    "l": "naissance",
-    "pos": "n.f."
-   },
-   "odorat": {
-    "en": "sense of smell",
-    "l": "odorat",
-    "pos": "n.m."
-   },
-   "oreilles": {
-    "en": "ears",
-    "l": "oreille",
-    "pos": "n.f."
-   },
-   "pachy": {
-    "en": "thick (Greek root)",
-    "l": "pachy",
-    "pos": "root"
-   },
-   "pachydermes": {
-    "en": "pachyderms",
-    "l": "pachyderme",
-    "pos": "n.m."
-   },
-   "peau": {
-    "en": "skin",
-    "l": "peau",
-    "pos": "n.f."
-   },
-   "pèse": {
-    "en": "weighs",
-    "l": "peser",
-    "pos": "v."
-   },
-   "signifiant": {
-    "en": "meaning",
-    "l": "signifier",
-    "pos": "v."
-   },
-   "tonnes": {
-    "en": "tonnes",
-    "l": "tonne",
-    "pos": "n.f."
-   },
-   "trompe": {
-    "en": "trunk",
-    "l": "trompe",
-    "pos": "n.f."
-   },
-   "ventre": {
-    "en": "belly",
-    "l": "ventre",
-    "pos": "n.m."
-   },
-   "vivant": {
-    "en": "living",
-    "l": "vivre",
-    "pos": "adj."
-   },
-   "vue": {
-    "en": "sight",
-    "l": "vue",
-    "pos": "n.f."
-   },
-   "yeux": {
-    "en": "eyes",
-    "l": "oeuil",
-    "pos": "n.m."
-   },
-   "éléphants": {
-    "en": "elephants",
-    "l": "éléphant",
-    "pos": "n.m."
-   },
-   "épais": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaisse": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaule": {
-    "en": "shoulder",
-    "l": "épaule",
-    "pos": "n.f."
-   }
-  },
   "": {
    "acide": {
     "en": "acid",
@@ -1661,6 +1576,212 @@
     "en": "draining",
     "l": "égouttage",
     "pos": "n.m."
+   },
+   "ailes": {
+    "en": "wings",
+    "l": "aile",
+    "pos": "n.f."
+   },
+   "air": {
+    "en": "air",
+    "l": "air",
+    "pos": "n.m."
+   },
+   "blanc": {
+    "en": "white",
+    "l": "blanc",
+    "pos": "adj."
+   },
+   "capable": {
+    "en": "able, capable",
+    "l": "capable",
+    "pos": "adj."
+   },
+   "chez": {
+    "en": "among, in the home of",
+    "l": "chez",
+    "pos": "prep."
+   },
+   "confondu": {
+    "en": "confused, mixed up",
+    "l": "confondre",
+    "pos": "v."
+   },
+   "confusion": {
+    "en": "confusion, mix-up",
+    "l": "confusion",
+    "pos": "n.f."
+   },
+   "contrairement": {
+    "en": "unlike, in contrast",
+    "l": "contrairement",
+    "pos": "adv."
+   },
+   "dix-huit": {
+    "en": "eighteen",
+    "pos": "num."
+   },
+   "donne": {
+    "en": "gives, makes (look)",
+    "l": "donner",
+    "pos": "v."
+   },
+   "empereur": {
+    "en": "emperor",
+    "l": "empereur",
+    "pos": "n.m."
+   },
+   "existant": {
+    "en": "existing",
+    "l": "exister",
+    "pos": "adj."
+   },
+   "faux-ami": {
+    "en": "false friend (similar-looking word with a different meaning)",
+    "l": "faux-ami",
+    "pos": "n.m."
+   },
+   "gorfous": {
+    "en": "rockhopper penguins",
+    "l": "gorfou",
+    "pos": "n.m."
+   },
+   "grand": {
+    "en": "large, tall; great",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "habillé": {
+    "en": "dressed",
+    "l": "habiller",
+    "pos": "adj."
+   },
+   "hémisphère": {
+    "en": "hemisphere",
+    "l": "hémisphère",
+    "pos": "n.m."
+   },
+   "manchot": {
+    "en": "penguin",
+    "l": "manchot",
+    "pos": "n.m."
+   },
+   "manchots": {
+    "en": "penguins",
+    "l": "manchot",
+    "pos": "n.m."
+   },
+   "marin": {
+    "en": "marine, seabird",
+    "l": "marin",
+    "pos": "adj."
+   },
+   "mauvaise": {
+    "en": "bad",
+    "l": "mauvais",
+    "pos": "adj."
+   },
+   "moignons": {
+    "en": "stubs",
+    "l": "moignon",
+    "pos": "n.m."
+   },
+   "nord": {
+    "en": "North",
+    "l": "nord",
+    "pos": "n.m."
+   },
+   "notre": {
+    "en": "our",
+    "l": "notre",
+    "pos": "det."
+   },
+   "oiseau": {
+    "en": "bird",
+    "l": "oiseau",
+    "pos": "n.m."
+   },
+   "oiseaux": {
+    "en": "birds",
+    "l": "oiseau",
+    "pos": "n.m."
+   },
+   "ordre": {
+    "en": "order, group",
+    "l": "ordre",
+    "pos": "n.m."
+   },
+   "palmipède": {
+    "en": "web-footed",
+    "l": "palmipède",
+    "pos": "adj."
+   },
+   "penguin": {
+    "en": "penguin (English word)",
+    "pos": "name"
+   },
+   "pingouin": {
+    "en": "auk",
+    "l": "pingouin",
+    "pos": "n.m."
+   },
+   "plonger": {
+    "en": "to dive",
+    "l": "plonger",
+    "pos": "v."
+   },
+   "plumage": {
+    "en": "plumage, feathers",
+    "l": "plumage",
+    "pos": "n.m."
+   },
+   "poisson": {
+    "en": "fish",
+    "l": "poisson",
+    "pos": "n.m."
+   },
+   "rapidement": {
+    "en": "quickly",
+    "l": "rapidement",
+    "pos": "adv."
+   },
+   "signifie": {
+    "en": "means",
+    "l": "signifier",
+    "pos": "v."
+   },
+   "smoking": {
+    "en": "tuxedo",
+    "l": "smoking",
+    "pos": "n.m."
+   },
+   "sphénisciformes": {
+    "en": "Sphenisciformes (penguin order)",
+    "pos": "name"
+   },
+   "toujours": {
+    "en": "always",
+    "pos": "adv."
+   },
+   "traduction": {
+    "en": "translation",
+    "l": "traduction",
+    "pos": "n.f."
+   },
+   "vit": {
+    "en": "lives",
+    "l": "vivre",
+    "pos": "v."
+   },
+   "vivant": {
+    "en": "living",
+    "l": "vivre",
+    "pos": "adj."
+   },
+   "voler": {
+    "en": "to fly",
+    "l": "voler",
+    "pos": "v."
    },
    "africaines": {
     "en": "African (feminine plural)",
@@ -5143,280 +5264,200 @@
     "pos": "v."
    }
   },
-  "vikidia-ocean": {
-   "absorbe": {
-    "en": "absorbs",
-    "l": "absorber",
-    "pos": "v."
+  "vikidia-elephant": {
+   "actuellement": {
+    "en": "currently",
+    "l": "actuellement",
+    "pos": "adv."
    },
-   "apparait": {
-    "en": "appears",
-    "l": "apparaître",
-    "pos": "v."
-   },
-   "bleu-vert": {
-    "en": "blue-green",
-    "l": "bleu-vert",
-    "pos": "adj."
-   },
-   "bleue": {
-    "en": "blue (feminine)",
-    "l": "bleu",
-    "pos": "adj."
-   },
-   "ciel": {
-    "en": "sky",
-    "l": "ciel",
+   "animaux": {
+    "en": "animals",
+    "l": "animal",
     "pos": "n.m."
    },
-   "climat": {
-    "en": "climate",
-    "l": "climat",
+   "après": {
+    "en": "after",
+    "l": "après",
+    "pos": "prep."
+   },
+   "assez": {
+    "en": "rather, quite",
+    "l": "assez",
+    "pos": "adv."
+   },
+   "barrissement": {
+    "en": "trumpeting (an elephant's cry)",
+    "l": "barrissement",
     "pos": "n.m."
    },
-   "confondre": {
-    "en": "to confuse",
-    "l": "confondre",
-    "pos": "v."
+   "cela": {
+    "en": "that, this",
+    "l": "cela",
+    "pos": "pron."
    },
-   "couleur": {
-    "en": "colour",
-    "l": "couleur",
-    "pos": "n.f."
+   "chez": {
+    "en": "among, in",
+    "l": "chez",
+    "pos": "prep."
    },
-   "couvrant": {
-    "en": "covering",
-    "l": "couvrir",
-    "pos": "v."
-   },
-   "cycle": {
-    "en": "cycle",
-    "l": "cycle",
+   "cri": {
+    "en": "cry, call",
+    "l": "cri",
     "pos": "n.m."
    },
-   "devrait": {
-    "en": "should",
-    "l": "devoir",
-    "pos": "v."
+   "derme": {
+    "en": "skin (root)",
+    "l": "derme",
+    "pos": "n.m."
    },
    "donne": {
-    "en": "gives",
+    "en": "gives (birth)",
     "l": "donner",
     "pos": "v."
    },
-   "dû": {
-    "en": "due to",
-    "l": "devoir",
-    "pos": "adj."
-   },
-   "elle-même": {
-    "en": "itself",
-    "l": "elle-même",
-    "pos": "pron."
-   },
-   "espace": {
-    "en": "space",
-    "l": "espace",
-    "pos": "n.m."
-   },
-   "faut": {
-    "en": "must, is necessary",
-    "l": "falloir",
+   "entend": {
+    "en": "hears",
+    "l": "entendre",
     "pos": "v."
    },
-   "formes": {
-    "en": "forms",
-    "l": "forme",
-    "pos": "n.f."
-   },
-   "gazeuse": {
-    "en": "gaseous",
-    "l": "gazeux",
+   "faible": {
+    "en": "weak",
+    "l": "faible",
     "pos": "adj."
    },
-   "globe": {
-    "en": "globe, world",
-    "l": "globe",
-    "pos": "n.m."
+   "gardé": {
+    "en": "kept",
+    "l": "garder",
+    "pos": "v."
    },
-   "grande": {
-    "en": "large, big",
+   "grandes": {
+    "en": "large",
     "l": "grand",
     "pos": "adj."
    },
-   "humaine": {
-    "en": "human (feminine)",
-    "l": "humain",
+   "grec": {
+    "en": "Greek",
+    "l": "grec",
     "pos": "adj."
    },
-   "importants": {
-    "en": "important",
-    "l": "important",
+   "haut": {
+    "en": "high",
+    "l": "haut",
     "pos": "adj."
    },
-   "liquide": {
-    "en": "liquid",
-    "l": "liquide",
+   "herbivores": {
+    "en": "herbivorous",
+    "l": "herbivore",
     "pos": "adj."
    },
-   "lui": {
-    "en": "to it, to him/her",
-    "l": "lui",
-    "pos": "pron."
-   },
-   "lumière": {
-    "en": "light",
-    "l": "lumière",
-    "pos": "n.f."
-   },
-   "mers": {
-    "en": "seas",
-    "l": "mer",
-    "pos": "n.f."
-   },
-   "non": {
-    "en": "not",
-    "l": "non",
-    "pos": "adv."
-   },
-   "notre": {
-    "en": "our",
-    "l": "notre",
-    "pos": "det."
-   },
-   "occupent": {
-    "en": "occupy, cover",
-    "l": "occuper",
+   "mesure": {
+    "en": "measures",
+    "l": "mesurer",
     "pos": "v."
    },
-   "océan": {
-    "en": "ocean",
-    "l": "océan",
+   "mois": {
+    "en": "months",
+    "l": "mois",
     "pos": "n.m."
    },
-   "océans": {
-    "en": "oceans",
-    "l": "océan",
-    "pos": "n.m."
-   },
-   "optique": {
-    "en": "optical",
-    "l": "optique",
-    "pos": "adj."
-   },
-   "oxygène": {
-    "en": "oxygen",
-    "l": "oxygène",
-    "pos": "n.m."
-   },
-   "petites": {
-    "en": "small (feminine plural)",
-    "l": "petit",
-    "pos": "adj."
-   },
-   "phénomène": {
-    "en": "phenomenon",
-    "l": "phénomène",
-    "pos": "n.m."
-   },
-   "plancton": {
-    "en": "plankton",
-    "l": "plancton",
-    "pos": "n.m."
-   },
-   "planète": {
-    "en": "planet",
-    "l": "planète",
+   "moyenne": {
+    "en": "average",
+    "l": "moyenne",
     "pos": "n.f."
    },
-   "pluie": {
-    "en": "rain",
-    "l": "pluie",
-    "pos": "n.f."
-   },
-   "propriété": {
-    "en": "property",
-    "l": "propriété",
-    "pos": "n.f."
-   },
-   "provient": {
-    "en": "comes from",
-    "l": "provenir",
-    "pos": "v."
-   },
-   "reflet": {
-    "en": "reflection",
-    "l": "reflet",
+   "mâle": {
+    "en": "male",
+    "l": "mâle",
     "pos": "n.m."
    },
-   "représentent": {
-    "en": "make up, represent",
-    "l": "représenter",
-    "pos": "v."
-   },
-   "respire": {
-    "en": "breathes",
-    "l": "respirer",
-    "pos": "v."
-   },
-   "rouge": {
-    "en": "red",
-    "l": "rouge",
-    "pos": "adj."
-   },
-   "réfléchit": {
-    "en": "reflects",
-    "l": "réfléchir",
-    "pos": "v."
-   },
-   "salée": {
-    "en": "salty",
-    "l": "salé",
-    "pos": "adj."
-   },
-   "si": {
-    "en": "if",
-    "l": "si",
-    "pos": "conj."
-   },
-   "solide": {
-    "en": "solid",
-    "l": "solide",
-    "pos": "adj."
-   },
-   "sous": {
-    "en": "under",
-    "l": "sous",
-    "pos": "prep."
-   },
-   "surface": {
-    "en": "surface",
-    "l": "surface",
+   "naissance": {
+    "en": "birth",
+    "l": "naissance",
     "pos": "n.f."
    },
-   "toutes": {
-    "en": "all (feminine plural)",
-    "l": "tout",
-    "pos": "det."
+   "odorat": {
+    "en": "sense of smell",
+    "l": "odorat",
+    "pos": "n.m."
    },
-   "voir": {
-    "en": "to see",
-    "l": "voir",
+   "oreilles": {
+    "en": "ears",
+    "l": "oreille",
+    "pos": "n.f."
+   },
+   "pachy": {
+    "en": "thick (Greek root)",
+    "l": "pachy",
+    "pos": "root"
+   },
+   "pachydermes": {
+    "en": "pachyderms",
+    "l": "pachyderme",
+    "pos": "n.m."
+   },
+   "peau": {
+    "en": "skin",
+    "l": "peau",
+    "pos": "n.f."
+   },
+   "pèse": {
+    "en": "weighs",
+    "l": "peser",
     "pos": "v."
+   },
+   "signifiant": {
+    "en": "meaning",
+    "l": "signifier",
+    "pos": "v."
+   },
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tonne",
+    "pos": "n.f."
+   },
+   "trompe": {
+    "en": "trunk",
+    "l": "trompe",
+    "pos": "n.f."
+   },
+   "ventre": {
+    "en": "belly",
+    "l": "ventre",
+    "pos": "n.m."
+   },
+   "vivant": {
+    "en": "living",
+    "l": "vivre",
+    "pos": "adj."
    },
    "vue": {
-    "en": "seen (feminine)",
-    "l": "voir",
-    "pos": "v."
-   },
-   "étendue": {
-    "en": "expanse, extent",
-    "l": "étendue",
+    "en": "sight",
+    "l": "vue",
     "pos": "n.f."
    },
-   "évaporation": {
-    "en": "evaporation",
-    "l": "évaporation",
+   "yeux": {
+    "en": "eyes",
+    "l": "oeuil",
+    "pos": "n.m."
+   },
+   "éléphants": {
+    "en": "elephants",
+    "l": "éléphant",
+    "pos": "n.m."
+   },
+   "épais": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaisse": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaule": {
+    "en": "shoulder",
+    "l": "épaule",
     "pos": "n.f."
    }
   },
@@ -5759,6 +5800,283 @@
     "en": "Île-de-France",
     "l": "Île-de-France",
     "pos": "name"
+   }
+  },
+  "vikidia-ocean": {
+   "absorbe": {
+    "en": "absorbs",
+    "l": "absorber",
+    "pos": "v."
+   },
+   "apparait": {
+    "en": "appears",
+    "l": "apparaître",
+    "pos": "v."
+   },
+   "bleu-vert": {
+    "en": "blue-green",
+    "l": "bleu-vert",
+    "pos": "adj."
+   },
+   "bleue": {
+    "en": "blue (feminine)",
+    "l": "bleu",
+    "pos": "adj."
+   },
+   "ciel": {
+    "en": "sky",
+    "l": "ciel",
+    "pos": "n.m."
+   },
+   "climat": {
+    "en": "climate",
+    "l": "climat",
+    "pos": "n.m."
+   },
+   "confondre": {
+    "en": "to confuse",
+    "l": "confondre",
+    "pos": "v."
+   },
+   "couleur": {
+    "en": "colour",
+    "l": "couleur",
+    "pos": "n.f."
+   },
+   "couvrant": {
+    "en": "covering",
+    "l": "couvrir",
+    "pos": "v."
+   },
+   "cycle": {
+    "en": "cycle",
+    "l": "cycle",
+    "pos": "n.m."
+   },
+   "devrait": {
+    "en": "should",
+    "l": "devoir",
+    "pos": "v."
+   },
+   "donne": {
+    "en": "gives",
+    "l": "donner",
+    "pos": "v."
+   },
+   "dû": {
+    "en": "due to",
+    "l": "devoir",
+    "pos": "adj."
+   },
+   "elle-même": {
+    "en": "itself",
+    "l": "elle-même",
+    "pos": "pron."
+   },
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "faut": {
+    "en": "must, is necessary",
+    "l": "falloir",
+    "pos": "v."
+   },
+   "formes": {
+    "en": "forms",
+    "l": "forme",
+    "pos": "n.f."
+   },
+   "gazeuse": {
+    "en": "gaseous",
+    "l": "gazeux",
+    "pos": "adj."
+   },
+   "globe": {
+    "en": "globe, world",
+    "l": "globe",
+    "pos": "n.m."
+   },
+   "grande": {
+    "en": "large, big",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "humaine": {
+    "en": "human (feminine)",
+    "l": "humain",
+    "pos": "adj."
+   },
+   "importants": {
+    "en": "important",
+    "l": "important",
+    "pos": "adj."
+   },
+   "liquide": {
+    "en": "liquid",
+    "l": "liquide",
+    "pos": "adj."
+   },
+   "lui": {
+    "en": "to it, to him/her",
+    "l": "lui",
+    "pos": "pron."
+   },
+   "lumière": {
+    "en": "light",
+    "l": "lumière",
+    "pos": "n.f."
+   },
+   "mers": {
+    "en": "seas",
+    "l": "mer",
+    "pos": "n.f."
+   },
+   "non": {
+    "en": "not",
+    "l": "non",
+    "pos": "adv."
+   },
+   "notre": {
+    "en": "our",
+    "l": "notre",
+    "pos": "det."
+   },
+   "occupent": {
+    "en": "occupy, cover",
+    "l": "occuper",
+    "pos": "v."
+   },
+   "océan": {
+    "en": "ocean",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "océans": {
+    "en": "oceans",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "optique": {
+    "en": "optical",
+    "l": "optique",
+    "pos": "adj."
+   },
+   "oxygène": {
+    "en": "oxygen",
+    "l": "oxygène",
+    "pos": "n.m."
+   },
+   "petites": {
+    "en": "small (feminine plural)",
+    "l": "petit",
+    "pos": "adj."
+   },
+   "phénomène": {
+    "en": "phenomenon",
+    "l": "phénomène",
+    "pos": "n.m."
+   },
+   "plancton": {
+    "en": "plankton",
+    "l": "plancton",
+    "pos": "n.m."
+   },
+   "planète": {
+    "en": "planet",
+    "l": "planète",
+    "pos": "n.f."
+   },
+   "pluie": {
+    "en": "rain",
+    "l": "pluie",
+    "pos": "n.f."
+   },
+   "propriété": {
+    "en": "property",
+    "l": "propriété",
+    "pos": "n.f."
+   },
+   "provient": {
+    "en": "comes from",
+    "l": "provenir",
+    "pos": "v."
+   },
+   "reflet": {
+    "en": "reflection",
+    "l": "reflet",
+    "pos": "n.m."
+   },
+   "représentent": {
+    "en": "make up, represent",
+    "l": "représenter",
+    "pos": "v."
+   },
+   "respire": {
+    "en": "breathes",
+    "l": "respirer",
+    "pos": "v."
+   },
+   "rouge": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj."
+   },
+   "réfléchit": {
+    "en": "reflects",
+    "l": "réfléchir",
+    "pos": "v."
+   },
+   "salée": {
+    "en": "salty",
+    "l": "salé",
+    "pos": "adj."
+   },
+   "si": {
+    "en": "if",
+    "l": "si",
+    "pos": "conj."
+   },
+   "solide": {
+    "en": "solid",
+    "l": "solide",
+    "pos": "adj."
+   },
+   "sous": {
+    "en": "under",
+    "l": "sous",
+    "pos": "prep."
+   },
+   "surface": {
+    "en": "surface",
+    "l": "surface",
+    "pos": "n.f."
+   },
+   "toutes": {
+    "en": "all (feminine plural)",
+    "l": "tout",
+    "pos": "det."
+   },
+   "voir": {
+    "en": "to see",
+    "l": "voir",
+    "pos": "v."
+   },
+   "vue": {
+    "en": "seen (feminine)",
+    "l": "voir",
+    "pos": "v."
+   },
+   "étendue": {
+    "en": "expanse, extent",
+    "l": "étendue",
+    "pos": "n.f."
+   },
+   "évaporation": {
+    "en": "evaporation",
+    "l": "évaporation",
+    "pos": "n.f."
    }
   }
  },
