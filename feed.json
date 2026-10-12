@@ -190,6 +190,114 @@
    "added": "2026-09-30"
   },
   {
+   "id": "vikidia-electricite",
+   "title": "Électricité",
+   "title_en": "Electricity",
+   "emoji": "⚡",
+   "color": "#e6a817",
+   "topic": "Sciences",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/%C3%89lectricit%C3%A9",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=%C3%89lectricit%C3%A9&oldid=2557249",
+   "retrieved": "2026-10-12",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "L'électricité est un phénomène physique lié à la matière.",
+       "en": "Electricity is a physical phenomenon connected to matter."
+      },
+      {
+       "fr": "Les charges électriques sont présentes dans la matière.",
+       "en": "Electric charges are present in matter."
+      },
+      {
+       "fr": "Parmi les trois particules qui composent les atomes, l'une n'a pas de charge électrique, le neutron et les deux autres possèdent une charge électrique :",
+       "en": "Among the three particles that make up atoms, one has no electric charge, the neutron, and the other two have an electric charge:"
+      },
+      {
+       "fr": "l’électron a une charge négative (opposée) et se trouve autour du noyau atomique.",
+       "en": "The electron has a negative (opposite) charge and is found around the atomic nucleus."
+      },
+      {
+       "fr": "Selon le matériau (dans les métaux ou dans l’eau, par exemple), une partie des électrons peut circuler librement, ce qui permet donc qu'il y ait un déplacement d’électrons, c’est-à-dire un courant électrique.",
+       "en": "Depending on the material (in metals or water, for example), some electrons can move freely, allowing electrons to move: that is, an electric current."
+      },
+      {
+       "fr": "Les protons sont, comme les neutrons, des particule massives qui restent attachées au noyau de l'atome.",
+       "en": "Protons, like neutrons, are massive particles that stay attached to the nucleus of the atom."
+      },
+      {
+       "fr": "En revanche les électrons sont des particules beaucoup plus légères (près de 2000 fois plus légères que les protons) et ne sont pas directement reliées au noyau.",
+       "en": "On the other hand, electrons are much lighter particles (nearly 2,000 times lighter than protons) and are not directly linked to the nucleus."
+      },
+      {
+       "fr": "Dans certains matériaux comme les métaux, les électrons les plus éloignés du noyau de l'atome peuvent se déplacer d'un atome à l'autre.",
+       "en": "In some materials such as metals, the electrons farthest from an atom's nucleus can move from one atom to another."
+      },
+      {
+       "fr": "Quand cela est possible, ont dit que le matériaux est un conducteur de l’électricité.",
+       "en": "When this is possible, it is said that the material is a conductor of electricity."
+      },
+      {
+       "fr": "Ces flux d'électrons, par analogie au courant d'une rivière, ont été nommés courant électrique.",
+       "en": "These flows of electrons, by analogy with the current of a river, have been called electric current."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "L'électricité est un phénomène ___ lié à la matière.",
+     "options": [
+      "historique",
+      "physique",
+      "sportif"
+     ],
+     "answer": 1,
+     "why": "« L'électricité est un phénomène physique lié à la matière »"
+    },
+    {
+     "q": "L’électron a une charge ___.",
+     "options": [
+      "positive",
+      "négative",
+      "invisible"
+     ],
+     "answer": 1,
+     "why": "« l’électron a une charge négative »"
+    },
+    {
+     "q": "Dans les métaux, certains électrons peuvent se déplacer d'un ___ à l'autre.",
+     "options": [
+      "livre",
+      "atome",
+      "nuage"
+     ],
+     "answer": 1,
+     "why": "« peuvent se déplacer d'un atome à l'autre »"
+    }
+   ],
+   "keywords": [
+    "électricité",
+    "charge électrique",
+    "atome",
+    "électron",
+    "proton",
+    "noyau",
+    "conducteur",
+    "courant électrique"
+   ],
+   "public": true,
+   "added": "2026-10-12"
+  },
+  {
    "id": "vikidia-elephant",
    "title": "Éléphant",
    "title_en": "Elephant",
@@ -1576,6 +1684,260 @@
     "en": "draining",
     "l": "égouttage",
     "pos": "n.m."
+   },
+   "ait": {
+    "en": "has (subjunctive of avoir)",
+    "l": "avoir",
+    "pos": "v."
+   },
+   "analogie": {
+    "en": "analogy",
+    "l": "analogie",
+    "pos": "n.f."
+   },
+   "atome": {
+    "en": "atom",
+    "l": "atome",
+    "pos": "n.m."
+   },
+   "atomes": {
+    "en": "atoms",
+    "l": "atome",
+    "pos": "n.m."
+   },
+   "atomique": {
+    "en": "atomic",
+    "l": "atomique",
+    "pos": "adj."
+   },
+   "attachées": {
+    "en": "attached",
+    "l": "attacher",
+    "pos": "adj."
+   },
+   "autre": {
+    "en": "other",
+    "l": "autre",
+    "pos": "adj."
+   },
+   "cela": {
+    "en": "that, this",
+    "l": "cela",
+    "pos": "pron."
+   },
+   "certains": {
+    "en": "some, certain",
+    "l": "certain",
+    "pos": "det."
+   },
+   "charge": {
+    "en": "charge",
+    "l": "charge",
+    "pos": "n.f."
+   },
+   "charges": {
+    "en": "charges",
+    "l": "charge",
+    "pos": "n.f."
+   },
+   "circuler": {
+    "en": "to circulate, move",
+    "l": "circuler",
+    "pos": "v."
+   },
+   "composent": {
+    "en": "make up, compose",
+    "l": "composer",
+    "pos": "v."
+   },
+   "conducteur": {
+    "en": "conductor",
+    "l": "conducteur",
+    "pos": "n.m."
+   },
+   "courant": {
+    "en": "current",
+    "l": "courant",
+    "pos": "n.m."
+   },
+   "directement": {
+    "en": "directly",
+    "l": "directement",
+    "pos": "adv."
+   },
+   "dit": {
+    "en": "said",
+    "l": "dire",
+    "pos": "v."
+   },
+   "déplacement": {
+    "en": "movement",
+    "l": "déplacement",
+    "pos": "n.m."
+   },
+   "flux": {
+    "en": "flow",
+    "l": "flux",
+    "pos": "n.m."
+   },
+   "lié": {
+    "en": "linked",
+    "l": "lier",
+    "pos": "adj."
+   },
+   "légères": {
+    "en": "light",
+    "l": "léger",
+    "pos": "adj."
+   },
+   "massives": {
+    "en": "massive",
+    "l": "massif",
+    "pos": "adj."
+   },
+   "matériau": {
+    "en": "material",
+    "l": "matériau",
+    "pos": "n.m."
+   },
+   "métaux": {
+    "en": "metals",
+    "l": "métal",
+    "pos": "n.m."
+   },
+   "neutron": {
+    "en": "neutron",
+    "l": "neutron",
+    "pos": "n.m."
+   },
+   "neutrons": {
+    "en": "neutrons",
+    "l": "neutron",
+    "pos": "n.m."
+   },
+   "nommés": {
+    "en": "called, named",
+    "l": "nommer",
+    "pos": "v."
+   },
+   "noyau": {
+    "en": "nucleus",
+    "l": "noyau",
+    "pos": "n.m."
+   },
+   "négative": {
+    "en": "negative",
+    "l": "négatif",
+    "pos": "adj."
+   },
+   "opposée": {
+    "en": "opposite",
+    "l": "opposer",
+    "pos": "adj."
+   },
+   "parmi": {
+    "en": "among",
+    "l": "parmi",
+    "pos": "prep."
+   },
+   "particule": {
+    "en": "particle",
+    "l": "particule",
+    "pos": "n.f."
+   },
+   "particules": {
+    "en": "particles",
+    "l": "particule",
+    "pos": "n.f."
+   },
+   "physique": {
+    "en": "physical",
+    "l": "physique",
+    "pos": "adj."
+   },
+   "phénomène": {
+    "en": "phenomenon",
+    "l": "phénomène",
+    "pos": "n.m."
+   },
+   "possible": {
+    "en": "possible",
+    "l": "possible",
+    "pos": "adj."
+   },
+   "possèdent": {
+    "en": "have, possess",
+    "l": "posséder",
+    "pos": "v."
+   },
+   "protons": {
+    "en": "protons",
+    "l": "proton",
+    "pos": "n.m."
+   },
+   "présentes": {
+    "en": "present",
+    "l": "présent",
+    "pos": "adj."
+   },
+   "quand": {
+    "en": "when",
+    "l": "quand",
+    "pos": "conj."
+   },
+   "reliées": {
+    "en": "linked",
+    "l": "relier",
+    "pos": "adj."
+   },
+   "restent": {
+    "en": "stay, remain",
+    "l": "rester",
+    "pos": "v."
+   },
+   "revanche": {
+    "en": "on the other hand",
+    "l": "revanche",
+    "pos": "n.f."
+   },
+   "rivière": {
+    "en": "river",
+    "l": "rivière",
+    "pos": "n.f."
+   },
+   "trois": {
+    "en": "three",
+    "pos": "num."
+   },
+   "électricité": {
+    "en": "electricity",
+    "l": "électricité",
+    "pos": "n.f."
+   },
+   "électrique": {
+    "en": "electrical, electric",
+    "l": "électrique",
+    "pos": "adj."
+   },
+   "électriques": {
+    "en": "electrical, electric",
+    "l": "électrique",
+    "pos": "adj."
+   },
+   "électron": {
+    "en": "electron",
+    "l": "électron",
+    "pos": "n.m."
+   },
+   "électrons": {
+    "en": "electrons",
+    "l": "électron",
+    "pos": "n.m."
+   },
+   "éloignés": {
+    "en": "far from, distant",
+    "l": "éloigné",
+    "pos": "adj."
    },
    "ailes": {
     "en": "wings",
@@ -5264,203 +5626,6 @@
     "pos": "v."
    }
   },
-  "vikidia-elephant": {
-   "actuellement": {
-    "en": "currently",
-    "l": "actuellement",
-    "pos": "adv."
-   },
-   "animaux": {
-    "en": "animals",
-    "l": "animal",
-    "pos": "n.m."
-   },
-   "après": {
-    "en": "after",
-    "l": "après",
-    "pos": "prep."
-   },
-   "assez": {
-    "en": "rather, quite",
-    "l": "assez",
-    "pos": "adv."
-   },
-   "barrissement": {
-    "en": "trumpeting (an elephant's cry)",
-    "l": "barrissement",
-    "pos": "n.m."
-   },
-   "cela": {
-    "en": "that, this",
-    "l": "cela",
-    "pos": "pron."
-   },
-   "chez": {
-    "en": "among, in",
-    "l": "chez",
-    "pos": "prep."
-   },
-   "cri": {
-    "en": "cry, call",
-    "l": "cri",
-    "pos": "n.m."
-   },
-   "derme": {
-    "en": "skin (root)",
-    "l": "derme",
-    "pos": "n.m."
-   },
-   "donne": {
-    "en": "gives (birth)",
-    "l": "donner",
-    "pos": "v."
-   },
-   "entend": {
-    "en": "hears",
-    "l": "entendre",
-    "pos": "v."
-   },
-   "faible": {
-    "en": "weak",
-    "l": "faible",
-    "pos": "adj."
-   },
-   "gardé": {
-    "en": "kept",
-    "l": "garder",
-    "pos": "v."
-   },
-   "grandes": {
-    "en": "large",
-    "l": "grand",
-    "pos": "adj."
-   },
-   "grec": {
-    "en": "Greek",
-    "l": "grec",
-    "pos": "adj."
-   },
-   "haut": {
-    "en": "high",
-    "l": "haut",
-    "pos": "adj."
-   },
-   "herbivores": {
-    "en": "herbivorous",
-    "l": "herbivore",
-    "pos": "adj."
-   },
-   "mesure": {
-    "en": "measures",
-    "l": "mesurer",
-    "pos": "v."
-   },
-   "mois": {
-    "en": "months",
-    "l": "mois",
-    "pos": "n.m."
-   },
-   "moyenne": {
-    "en": "average",
-    "l": "moyenne",
-    "pos": "n.f."
-   },
-   "mâle": {
-    "en": "male",
-    "l": "mâle",
-    "pos": "n.m."
-   },
-   "naissance": {
-    "en": "birth",
-    "l": "naissance",
-    "pos": "n.f."
-   },
-   "odorat": {
-    "en": "sense of smell",
-    "l": "odorat",
-    "pos": "n.m."
-   },
-   "oreilles": {
-    "en": "ears",
-    "l": "oreille",
-    "pos": "n.f."
-   },
-   "pachy": {
-    "en": "thick (Greek root)",
-    "l": "pachy",
-    "pos": "root"
-   },
-   "pachydermes": {
-    "en": "pachyderms",
-    "l": "pachyderme",
-    "pos": "n.m."
-   },
-   "peau": {
-    "en": "skin",
-    "l": "peau",
-    "pos": "n.f."
-   },
-   "pèse": {
-    "en": "weighs",
-    "l": "peser",
-    "pos": "v."
-   },
-   "signifiant": {
-    "en": "meaning",
-    "l": "signifier",
-    "pos": "v."
-   },
-   "tonnes": {
-    "en": "tonnes",
-    "l": "tonne",
-    "pos": "n.f."
-   },
-   "trompe": {
-    "en": "trunk",
-    "l": "trompe",
-    "pos": "n.f."
-   },
-   "ventre": {
-    "en": "belly",
-    "l": "ventre",
-    "pos": "n.m."
-   },
-   "vivant": {
-    "en": "living",
-    "l": "vivre",
-    "pos": "adj."
-   },
-   "vue": {
-    "en": "sight",
-    "l": "vue",
-    "pos": "n.f."
-   },
-   "yeux": {
-    "en": "eyes",
-    "l": "oeuil",
-    "pos": "n.m."
-   },
-   "éléphants": {
-    "en": "elephants",
-    "l": "éléphant",
-    "pos": "n.m."
-   },
-   "épais": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaisse": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaule": {
-    "en": "shoulder",
-    "l": "épaule",
-    "pos": "n.f."
-   }
-  },
   "vikidia-paris": {
    "2e": {
     "en": "second",
@@ -5800,6 +5965,203 @@
     "en": "Île-de-France",
     "l": "Île-de-France",
     "pos": "name"
+   }
+  },
+  "vikidia-elephant": {
+   "actuellement": {
+    "en": "currently",
+    "l": "actuellement",
+    "pos": "adv."
+   },
+   "animaux": {
+    "en": "animals",
+    "l": "animal",
+    "pos": "n.m."
+   },
+   "après": {
+    "en": "after",
+    "l": "après",
+    "pos": "prep."
+   },
+   "assez": {
+    "en": "rather, quite",
+    "l": "assez",
+    "pos": "adv."
+   },
+   "barrissement": {
+    "en": "trumpeting (an elephant's cry)",
+    "l": "barrissement",
+    "pos": "n.m."
+   },
+   "cela": {
+    "en": "that, this",
+    "l": "cela",
+    "pos": "pron."
+   },
+   "chez": {
+    "en": "among, in",
+    "l": "chez",
+    "pos": "prep."
+   },
+   "cri": {
+    "en": "cry, call",
+    "l": "cri",
+    "pos": "n.m."
+   },
+   "derme": {
+    "en": "skin (root)",
+    "l": "derme",
+    "pos": "n.m."
+   },
+   "donne": {
+    "en": "gives (birth)",
+    "l": "donner",
+    "pos": "v."
+   },
+   "entend": {
+    "en": "hears",
+    "l": "entendre",
+    "pos": "v."
+   },
+   "faible": {
+    "en": "weak",
+    "l": "faible",
+    "pos": "adj."
+   },
+   "gardé": {
+    "en": "kept",
+    "l": "garder",
+    "pos": "v."
+   },
+   "grandes": {
+    "en": "large",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "grec": {
+    "en": "Greek",
+    "l": "grec",
+    "pos": "adj."
+   },
+   "haut": {
+    "en": "high",
+    "l": "haut",
+    "pos": "adj."
+   },
+   "herbivores": {
+    "en": "herbivorous",
+    "l": "herbivore",
+    "pos": "adj."
+   },
+   "mesure": {
+    "en": "measures",
+    "l": "mesurer",
+    "pos": "v."
+   },
+   "mois": {
+    "en": "months",
+    "l": "mois",
+    "pos": "n.m."
+   },
+   "moyenne": {
+    "en": "average",
+    "l": "moyenne",
+    "pos": "n.f."
+   },
+   "mâle": {
+    "en": "male",
+    "l": "mâle",
+    "pos": "n.m."
+   },
+   "naissance": {
+    "en": "birth",
+    "l": "naissance",
+    "pos": "n.f."
+   },
+   "odorat": {
+    "en": "sense of smell",
+    "l": "odorat",
+    "pos": "n.m."
+   },
+   "oreilles": {
+    "en": "ears",
+    "l": "oreille",
+    "pos": "n.f."
+   },
+   "pachy": {
+    "en": "thick (Greek root)",
+    "l": "pachy",
+    "pos": "root"
+   },
+   "pachydermes": {
+    "en": "pachyderms",
+    "l": "pachyderme",
+    "pos": "n.m."
+   },
+   "peau": {
+    "en": "skin",
+    "l": "peau",
+    "pos": "n.f."
+   },
+   "pèse": {
+    "en": "weighs",
+    "l": "peser",
+    "pos": "v."
+   },
+   "signifiant": {
+    "en": "meaning",
+    "l": "signifier",
+    "pos": "v."
+   },
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tonne",
+    "pos": "n.f."
+   },
+   "trompe": {
+    "en": "trunk",
+    "l": "trompe",
+    "pos": "n.f."
+   },
+   "ventre": {
+    "en": "belly",
+    "l": "ventre",
+    "pos": "n.m."
+   },
+   "vivant": {
+    "en": "living",
+    "l": "vivre",
+    "pos": "adj."
+   },
+   "vue": {
+    "en": "sight",
+    "l": "vue",
+    "pos": "n.f."
+   },
+   "yeux": {
+    "en": "eyes",
+    "l": "oeuil",
+    "pos": "n.m."
+   },
+   "éléphants": {
+    "en": "elephants",
+    "l": "éléphant",
+    "pos": "n.m."
+   },
+   "épais": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaisse": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaule": {
+    "en": "shoulder",
+    "l": "épaule",
+    "pos": "n.f."
    }
   },
   "vikidia-ocean": {
