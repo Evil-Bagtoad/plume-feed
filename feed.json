@@ -2,6 +2,106 @@
  "version": 1,
  "articles": [
   {
+   "id": "vikidia-architecture",
+   "title": "Architecture",
+   "title_en": "Architecture",
+   "emoji": "🏛️",
+   "color": "#8b6f5a",
+   "topic": "Vie quotidienne",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Architecture",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Architecture&oldid=2665972",
+   "retrieved": "2026-10-13",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "L'architecture, c'est le fait d'imaginer un lieu, un espace, un monument ou une habitation et d'en faire les plans pour ensuite le transmettre à une entreprise de travaux qui construira et conclura le projet.",
+       "en": "Architecture is the act of imagining a place, a space, a monument, or a home, making plans for it, then giving them to a construction company that will build and complete the project."
+      },
+      {
+       "fr": "Les architectes travaillent souvent dans un bureau mais vont d'abord sur le terrain prendre des informations sur le terrain, enfin vont vérifier si le travail demandé se concrétise bien sur place (en chantier).",
+       "en": "Architects often work in an office, but first they go to the site to gather information, then they check that the requested work is really taking shape there (on the building site)."
+      },
+      {
+       "fr": "Ils travaillent en équipe.",
+       "en": "They work as a team."
+      },
+      {
+       "fr": "Tout d'abord, avec l'équipe chargée du terrain comme par exemple les topographes, ou les géomètres.",
+       "en": "First, with the team in charge of the land, such as surveyors or geographers."
+      },
+      {
+       "fr": "Ensuite, il travaille avec les sociétés de construction pour la maçonnerie, la charpente etc.",
+       "en": "Then, he works with construction companies for masonry, timber framing, and so on."
+      },
+      {
+       "fr": "Pour fournir un devis au client.",
+       "en": "To provide an estimate to the client."
+      },
+      {
+       "fr": "Il les retrouve ensuite accompagnés du chef de chantier, une fois les travaux terminés.",
+       "en": "He then meets them again with the site manager once the work is finished."
+      },
+      {
+       "fr": "L'architecture est l'un des sept arts majeurs existant.",
+       "en": "Architecture is one of the seven major arts that exist."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "L'architecture consiste à imaginer un lieu et à en faire les ___ .",
+     "options": [
+      "repas",
+      "plans",
+      "jeux"
+     ],
+     "answer": 1,
+     "why": "« d'en faire les plans »"
+    },
+    {
+     "q": "Les architectes vont sur le ___ pour prendre des informations.",
+     "options": [
+      "train",
+      "terrain",
+      "bateau"
+     ],
+     "answer": 1,
+     "why": "« vont d'abord sur le terrain prendre des informations »"
+    },
+    {
+     "q": "Les architectes travaillent en ___ .",
+     "options": [
+      "silence",
+      "équipe",
+      "vacances"
+     ],
+     "answer": 1,
+     "why": "« Ils travaillent en équipe »"
+    }
+   ],
+   "keywords": [
+    "architecture",
+    "architecte",
+    "terrain",
+    "plans",
+    "entreprise",
+    "travaux",
+    "chantier",
+    "arts"
+   ],
+   "public": true,
+   "added": "2026-10-13"
+  },
+  {
    "id": "vikidia-chat",
    "title": "Chat",
    "title_en": "Cat",
@@ -6162,6 +6262,218 @@
     "en": "shoulder",
     "l": "épaule",
     "pos": "n.f."
+   }
+  },
+  "vikidia-architecture": {
+   "abord": {
+    "en": "first",
+    "l": "abord",
+    "pos": "adv."
+   },
+   "accompagnés": {
+    "en": "accompanied",
+    "l": "accompagner",
+    "pos": "v."
+   },
+   "architectes": {
+    "en": "architects",
+    "l": "architecte",
+    "pos": "n."
+   },
+   "architecture": {
+    "en": "architecture",
+    "l": "architecture",
+    "pos": "n.f."
+   },
+   "arts": {
+    "en": "arts",
+    "l": "art",
+    "pos": "n.m."
+   },
+   "bureau": {
+    "en": "office",
+    "l": "bureau",
+    "pos": "n.m."
+   },
+   "chantier": {
+    "en": "building site",
+    "l": "chantier",
+    "pos": "n.m."
+   },
+   "chargée": {
+    "en": "in charge of",
+    "l": "charger",
+    "pos": "adj."
+   },
+   "charpente": {
+    "en": "timber frame",
+    "l": "charpente",
+    "pos": "n.f."
+   },
+   "chef": {
+    "en": "manager, chief",
+    "l": "chef",
+    "pos": "n.m."
+   },
+   "client": {
+    "en": "client",
+    "l": "client",
+    "pos": "n.m."
+   },
+   "conclura": {
+    "en": "will complete",
+    "l": "conclure",
+    "pos": "v."
+   },
+   "concrétise": {
+    "en": "becomes real",
+    "l": "concrétiser",
+    "pos": "v."
+   },
+   "construction": {
+    "en": "construction",
+    "l": "construction",
+    "pos": "n.f."
+   },
+   "construira": {
+    "en": "will build",
+    "l": "construire",
+    "pos": "v."
+   },
+   "demandé": {
+    "en": "requested",
+    "l": "demander",
+    "pos": "adj."
+   },
+   "devis": {
+    "en": "estimate, quote",
+    "l": "devis",
+    "pos": "n.m."
+   },
+   "enfin": {
+    "en": "finally",
+    "l": "enfin",
+    "pos": "adv."
+   },
+   "entreprise": {
+    "en": "company",
+    "l": "entreprise",
+    "pos": "n.f."
+   },
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "faire": {
+    "en": "to make, to do",
+    "l": "faire",
+    "pos": "v."
+   },
+   "fournir": {
+    "en": "to provide",
+    "l": "fournir",
+    "pos": "v."
+   },
+   "géomètres": {
+    "en": "surveyors",
+    "l": "géomètre",
+    "pos": "n.m."
+   },
+   "habitation": {
+    "en": "home, dwelling",
+    "l": "habitation",
+    "pos": "n.f."
+   },
+   "imaginer": {
+    "en": "to imagine",
+    "l": "imaginer",
+    "pos": "v."
+   },
+   "informations": {
+    "en": "information",
+    "l": "information",
+    "pos": "n.f."
+   },
+   "lieu": {
+    "en": "place",
+    "l": "lieu",
+    "pos": "n.m."
+   },
+   "majeurs": {
+    "en": "major",
+    "l": "majeur",
+    "pos": "adj."
+   },
+   "maçonnerie": {
+    "en": "masonry",
+    "l": "maçonnerie",
+    "pos": "n.f."
+   },
+   "plans": {
+    "en": "plans",
+    "l": "plan",
+    "pos": "n.m."
+   },
+   "projet": {
+    "en": "project",
+    "l": "projet",
+    "pos": "n.m."
+   },
+   "retrouve": {
+    "en": "meets again",
+    "l": "retrouver",
+    "pos": "v."
+   },
+   "sept": {
+    "en": "seven",
+    "l": "sept",
+    "pos": "num."
+   },
+   "sociétés": {
+    "en": "companies",
+    "l": "société",
+    "pos": "n.f."
+   },
+   "terminés": {
+    "en": "finished",
+    "l": "terminer",
+    "pos": "adj."
+   },
+   "topographes": {
+    "en": "topographers",
+    "l": "topographe",
+    "pos": "n.m."
+   },
+   "transmettre": {
+    "en": "to pass on",
+    "l": "transmettre",
+    "pos": "v."
+   },
+   "travail": {
+    "en": "work",
+    "l": "travail",
+    "pos": "n.m."
+   },
+   "travaille": {
+    "en": "works",
+    "l": "travailler",
+    "pos": "v."
+   },
+   "travaux": {
+    "en": "work, construction",
+    "l": "travaux",
+    "pos": "n.m.pl."
+   },
+   "vont": {
+    "en": "go",
+    "l": "aller",
+    "pos": "v."
+   },
+   "vérifier": {
+    "en": "to check",
+    "l": "vérifier",
+    "pos": "v."
    }
   },
   "vikidia-ocean": {
