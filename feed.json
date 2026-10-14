@@ -1349,6 +1349,126 @@
    "added": "2026-10-09"
   },
   {
+   "id": "vikidia-soleil",
+   "title": "Soleil",
+   "title_en": "Sun",
+   "emoji": "☀️",
+   "color": "#f4b400",
+   "topic": "Sciences",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Soleil",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Soleil&oldid=2516083",
+   "retrieved": "2026-10-14",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Le Soleil est la seule étoile du Système solaire.",
+       "en": "The Sun is the only star in the Solar System."
+      },
+      {
+       "fr": "C'est une étoile de type naine jaune.",
+       "en": "It is a yellow dwarf star."
+      },
+      {
+       "fr": "Autour de lui, orbitent 4 planètes rocheuses, la ceinture principale d'astéroïdes, 4 planètes gazeuses, la ceinture de Kuiper et les objets du nuage d'Oort.",
+       "en": "Around it orbit 4 rocky planets, the main asteroid belt, 4 gas planets, the Kuiper belt and the objects of the Oort cloud."
+      },
+      {
+       "fr": "Jusqu'en 2006, on comptait neuf planètes, quand Pluton étaient encore considérée comme une vraie planète.",
+       "en": "Until 2006, there were thought to be nine planets, when Pluto was still considered a real planet."
+      },
+      {
+       "fr": "Mais avec la découverte de plusieurs objets de tailles et de masses similaires, Pluton, ainsi qu'Éris, Cérès, Makémaké et Hauméa ont été classifiés dans les « planètes naines ».",
+       "en": "But after the discovery of several objects of similar sizes and masses, Pluto, as well as Eris, Ceres, Makemake and Haumea, were classified as “dwarf planets”."
+      },
+      {
+       "fr": "Son diamètre est de 1,392 millions de kilomètres (109 fois le diamètre de la Terre) et sa masse représente près de 1,99 milliards de milliards de milliards de tonnes (soit 1,99×1030 kg ou 333 000 fois la masse de la Terre).",
+       "en": "Its diameter is 1.392 million kilometres (109 times Earth's diameter), and its mass is nearly 1.99 billion billion billion tonnes (or 1.99×1030 kg, or 333,000 times Earth's mass)."
+      },
+      {
+       "fr": "Cela représente 99,86 % de la masse du système solaire soit environ 700 fois la masse de tous les corps célestes qui gravitent autour de lui (y compris Jupiter).",
+       "en": "This represents 99.86% of the mass of the Solar System, or about 700 times the mass of all the celestial bodies that orbit around it (including Jupiter)."
+      },
+      {
+       "fr": "Comparé aux étoiles les plus massives (géantes bleues), le Soleil est une étoile modeste, mais elle reste tout de même plus massive que la majorité des étoiles, qui sont des naines rouges (peut-être 80% des étoiles).",
+       "en": "Compared with the most massive stars (blue giants), the Sun is a modest star, but it is still more massive than most stars, which are red dwarfs (perhaps 80% of stars)."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Le Soleil tourne sur lui-même en 25 jours à son équateur et en 35 jours aux pôles nord et sud : contrairement à la Terre, le temps qu'il met varie selon l'endroit de sa surface, car la surface du Soleil n'est pas solide (c'est du plasma).",
+       "en": "The Sun turns on itself in 25 days at its equator and in 35 days at the north and south poles: unlike Earth, the time it takes varies according to the place on its surface, because the Sun's surface is not solid (it is plasma)."
+      },
+      {
+       "fr": "Comme il tourne lentement, l'aplatissement aux pôles est négligeable.",
+       "en": "Since it turns slowly, the flattening at the poles is negligible."
+      },
+      {
+       "fr": "À la surface du Soleil, la température est de 5 500° Celsius, et elle atteint les 15 millions en son centre.",
+       "en": "At the Sun's surface, the temperature is 5,500 degrees Celsius, and it reaches 15 million at its centre."
+      },
+      {
+       "fr": "L'hydrogène constitue près de 74 % de la masse du Soleil, et l'hélium 25 %.",
+       "en": "Hydrogen makes up nearly 74% of the Sun's mass, and helium 25%."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Le Soleil est la seule ___ du Système solaire.",
+     "options": [
+      "planète",
+      "étoile",
+      "comète"
+     ],
+     "answer": 1,
+     "why": "« Le Soleil est la seule étoile du Système solaire. »"
+    },
+    {
+     "q": "C'est une étoile de type naine ___.",
+     "options": [
+      "rouge",
+      "jaune",
+      "bleue"
+     ],
+     "answer": 1,
+     "why": "« C'est une étoile de type naine jaune. »"
+    },
+    {
+     "q": "À la surface du Soleil, la température est de 5 500° ___.",
+     "options": [
+      "Fahrenheit",
+      "Celsius",
+      "Kelvin"
+     ],
+     "answer": 1,
+     "why": "« À la surface du Soleil, la température est de 5 500° Celsius »"
+    }
+   ],
+   "keywords": [
+    "Soleil",
+    "étoile",
+    "Système solaire",
+    "planète",
+    "masse",
+    "diamètre",
+    "température",
+    "hydrogène"
+   ],
+   "public": true,
+   "added": "2026-10-14"
+  },
+  {
    "id": "vikidia-tour-eiffel",
    "title": "Tour Eiffel",
    "title_en": "Eiffel Tower",
@@ -5726,347 +5846,6 @@
     "pos": "v."
    }
   },
-  "vikidia-paris": {
-   "2e": {
-    "en": "second",
-    "l": "deuxième",
-    "pos": "adj."
-   },
-   "5e": {
-    "en": "fifth",
-    "l": "cinquième",
-    "pos": "adj."
-   },
-   "abbayes": {
-    "en": "abbeys",
-    "l": "abbaye",
-    "pos": "n.f."
-   },
-   "allemagne": {
-    "en": "Germany",
-    "l": "Allemagne",
-    "pos": "name"
-   },
-   "berlin": {
-    "en": "Berlin",
-    "l": "Berlin",
-    "pos": "name"
-   },
-   "bucarest": {
-    "en": "Bucharest",
-    "l": "Bucarest",
-    "pos": "name"
-   },
-   "bénéficie": {
-    "en": "benefits",
-    "l": "bénéficier",
-    "pos": "v."
-   },
-   "capitale": {
-    "en": "capital",
-    "l": "capitale",
-    "pos": "n.f."
-   },
-   "cathédrale": {
-    "en": "cathedral",
-    "l": "cathédrale",
-    "pos": "n.f."
-   },
-   "commerciaux": {
-    "en": "commercial, trade",
-    "l": "commercial",
-    "pos": "adj."
-   },
-   "communication": {
-    "en": "communication",
-    "l": "communication",
-    "pos": "n.f."
-   },
-   "construction": {
-    "en": "construction, building",
-    "l": "construction",
-    "pos": "n.f."
-   },
-   "culture": {
-    "en": "culture",
-    "l": "culture",
-    "pos": "n.f."
-   },
-   "célèbre": {
-    "en": "famous",
-    "l": "célèbre",
-    "pos": "adj."
-   },
-   "densément": {
-    "en": "densely",
-    "l": "densément",
-    "pos": "adv."
-   },
-   "derrière": {
-    "en": "behind",
-    "l": "derrière",
-    "pos": "prep."
-   },
-   "devenir": {
-    "en": "to become",
-    "l": "devenir",
-    "pos": "v."
-   },
-   "dès": {
-    "en": "from, as early as",
-    "l": "dès",
-    "pos": "prep."
-   },
-   "déterminante": {
-    "en": "decisive",
-    "l": "déterminant",
-    "pos": "adj."
-   },
-   "effet": {
-    "en": "effect; indeed (en effet)",
-    "l": "effet",
-    "pos": "n.m."
-   },
-   "entier": {
-    "en": "whole, entire",
-    "l": "entier",
-    "pos": "adj."
-   },
-   "europe": {
-    "en": "Europe",
-    "l": "Europe",
-    "pos": "name"
-   },
-   "européenne": {
-    "en": "European",
-    "l": "européen",
-    "pos": "adj."
-   },
-   "fluviaux": {
-    "en": "river",
-    "l": "fluvial",
-    "pos": "adj."
-   },
-   "française": {
-    "en": "French",
-    "l": "français",
-    "pos": "adj."
-   },
-   "grand": {
-    "en": "large, great",
-    "l": "grand",
-    "pos": "adj."
-   },
-   "important": {
-    "en": "important",
-    "l": "important",
-    "pos": "adj."
-   },
-   "influence": {
-    "en": "influence",
-    "l": "influence",
-    "pos": "n.f."
-   },
-   "italie": {
-    "en": "Italy",
-    "l": "Italie",
-    "pos": "name"
-   },
-   "itinéraires": {
-    "en": "routes, itineraries",
-    "l": "itinéraire",
-    "pos": "n.m."
-   },
-   "localisation": {
-    "en": "location",
-    "l": "localisation",
-    "pos": "n.f."
-   },
-   "loin": {
-    "en": "far",
-    "l": "loin",
-    "pos": "adv."
-   },
-   "lui": {
-    "en": "to it, to him, to her",
-    "l": "lui",
-    "pos": "pron."
-   },
-   "madrid": {
-    "en": "Madrid",
-    "l": "Madrid",
-    "pos": "name"
-   },
-   "marseille": {
-    "en": "Marseille",
-    "l": "Marseille",
-    "pos": "name"
-   },
-   "million": {
-    "en": "million",
-    "l": "million",
-    "pos": "n.m."
-   },
-   "mode": {
-    "en": "way, fashion",
-    "l": "mode",
-    "pos": "n.m."
-   },
-   "méandre": {
-    "en": "bend, meander",
-    "l": "méandre",
-    "pos": "n.m."
-   },
-   "métropole": {
-    "en": "metropolitan area",
-    "l": "métropole",
-    "pos": "n.f."
-   },
-   "métropolitaine": {
-    "en": "metropolitan",
-    "l": "métropolitain",
-    "pos": "adj."
-   },
-   "nord": {
-    "en": "north",
-    "l": "nord",
-    "pos": "n.m."
-   },
-   "notre-dame": {
-    "en": "Notre-Dame",
-    "l": "Notre-Dame",
-    "pos": "name"
-   },
-   "nœud": {
-    "en": "node, hub",
-    "l": "nœud",
-    "pos": "n.m."
-   },
-   "palais": {
-    "en": "palaces",
-    "l": "palais",
-    "pos": "n.m."
-   },
-   "pays": {
-    "en": "country",
-    "l": "pays",
-    "pos": "n.m."
-   },
-   "permet": {
-    "en": "allows",
-    "l": "permettre",
-    "pos": "v."
-   },
-   "permis": {
-    "en": "allowed, enabled",
-    "l": "permettre",
-    "pos": "v."
-   },
-   "peuplée": {
-    "en": "populated",
-    "l": "peupler",
-    "pos": "adj."
-   },
-   "peuplées": {
-    "en": "populated",
-    "l": "peupler",
-    "pos": "adj."
-   },
-   "politique": {
-    "en": "politics, political",
-    "l": "politique",
-    "pos": "n.f."
-   },
-   "population": {
-    "en": "population",
-    "l": "population",
-    "pos": "n.f."
-   },
-   "prédominante": {
-    "en": "leading, predominant",
-    "l": "prédominant",
-    "pos": "adj."
-   },
-   "puisqu'": {
-    "en": "since, because",
-    "l": "puisque",
-    "pos": "conj."
-   },
-   "regroupe": {
-    "en": "includes, brings together",
-    "l": "regrouper",
-    "pos": "v."
-   },
-   "riches": {
-    "en": "rich",
-    "l": "riche",
-    "pos": "adj."
-   },
-   "rome": {
-    "en": "Rome",
-    "l": "Rome",
-    "pos": "name"
-   },
-   "roumanie": {
-    "en": "Romania",
-    "l": "Roumanie",
-    "pos": "name"
-   },
-   "royaux": {
-    "en": "royal",
-    "l": "royal",
-    "pos": "adj."
-   },
-   "région": {
-    "en": "region",
-    "l": "région",
-    "pos": "n.f."
-   },
-   "seine": {
-    "en": "Seine",
-    "l": "Seine",
-    "pos": "name"
-   },
-   "situe": {
-    "en": "is situated",
-    "l": "situer",
-    "pos": "v."
-   },
-   "ue": {
-    "en": "EU (European Union)",
-    "l": "UE",
-    "pos": "name"
-   },
-   "union": {
-    "en": "union",
-    "l": "union",
-    "pos": "n.f."
-   },
-   "villes": {
-    "en": "cities",
-    "l": "ville",
-    "pos": "n.f."
-   },
-   "wp": {
-    "en": "Wikipedia link marker",
-    "pos": "abbr."
-   },
-   "xe": {
-    "en": "tenth",
-    "l": "dixième",
-    "pos": "adj."
-   },
-   "économie": {
-    "en": "economy",
-    "l": "économie",
-    "pos": "n.f."
-   },
-   "île-de-france": {
-    "en": "Île-de-France",
-    "l": "Île-de-France",
-    "pos": "name"
-   }
-  },
   "vikidia-elephant": {
    "actuellement": {
     "en": "currently",
@@ -6474,6 +6253,684 @@
     "en": "to check",
     "l": "vérifier",
     "pos": "v."
+   }
+  },
+  "vikidia-soleil": {
+   "aplatissement": {
+    "en": "flattening",
+    "l": "aplatissement",
+    "pos": "n.m."
+   },
+   "astéroïdes": {
+    "en": "asteroids",
+    "l": "astéroïde",
+    "pos": "n.m.pl."
+   },
+   "atteint": {
+    "en": "reaches",
+    "l": "atteindre",
+    "pos": "v."
+   },
+   "bleues": {
+    "en": "blue",
+    "l": "bleu",
+    "pos": "adj.f.pl."
+   },
+   "ceinture": {
+    "en": "belt",
+    "l": "ceinture",
+    "pos": "n.f."
+   },
+   "celsius": {
+    "en": "Celsius",
+    "l": "Celsius",
+    "pos": "name"
+   },
+   "classifiés": {
+    "en": "classified",
+    "l": "classifier",
+    "pos": "v."
+   },
+   "comparé": {
+    "en": "compared",
+    "l": "comparer",
+    "pos": "v."
+   },
+   "comptait": {
+    "en": "counted",
+    "l": "compter",
+    "pos": "v."
+   },
+   "constitue": {
+    "en": "makes up",
+    "l": "constituer",
+    "pos": "v."
+   },
+   "célestes": {
+    "en": "celestial",
+    "l": "céleste",
+    "pos": "adj."
+   },
+   "cérès": {
+    "en": "Ceres",
+    "l": "Cérès",
+    "pos": "name"
+   },
+   "diamètre": {
+    "en": "diameter",
+    "l": "diamètre",
+    "pos": "n.m."
+   },
+   "endroit": {
+    "en": "place, spot",
+    "l": "endroit",
+    "pos": "n.m."
+   },
+   "gazeuses": {
+    "en": "gaseous",
+    "l": "gazeux",
+    "pos": "adj.f.pl."
+   },
+   "gravitent": {
+    "en": "orbit",
+    "l": "graviter",
+    "pos": "v."
+   },
+   "géantes": {
+    "en": "giants",
+    "l": "géant",
+    "pos": "adj.f.pl."
+   },
+   "hauméa": {
+    "en": "Haumea",
+    "l": "Hauméa",
+    "pos": "name"
+   },
+   "hydrogène": {
+    "en": "hydrogen",
+    "l": "hydrogène",
+    "pos": "n.m."
+   },
+   "hélium": {
+    "en": "helium",
+    "l": "hélium",
+    "pos": "n.m."
+   },
+   "jaune": {
+    "en": "yellow",
+    "l": "jaune",
+    "pos": "adj."
+   },
+   "jupiter": {
+    "en": "Jupiter",
+    "l": "Jupiter",
+    "pos": "name"
+   },
+   "kg": {
+    "en": "kilogram",
+    "l": "kg",
+    "pos": "abbr."
+   },
+   "kilomètres": {
+    "en": "kilometres",
+    "l": "kilomètre",
+    "pos": "n.m.pl."
+   },
+   "kuiper": {
+    "en": "Kuiper",
+    "l": "Kuiper",
+    "pos": "name"
+   },
+   "lentement": {
+    "en": "slowly",
+    "l": "lentement",
+    "pos": "adv."
+   },
+   "lui-même": {
+    "en": "itself",
+    "l": "lui-même",
+    "pos": "pron."
+   },
+   "majorité": {
+    "en": "majority",
+    "l": "majorité",
+    "pos": "n.f."
+   },
+   "makémaké": {
+    "en": "Makemake",
+    "l": "Makémaké",
+    "pos": "name"
+   },
+   "masse": {
+    "en": "mass",
+    "l": "masse",
+    "pos": "n.f."
+   },
+   "masses": {
+    "en": "masses",
+    "l": "masse",
+    "pos": "n.f.pl."
+   },
+   "massive": {
+    "en": "massive",
+    "l": "massif",
+    "pos": "adj."
+   },
+   "modeste": {
+    "en": "modest",
+    "l": "modeste",
+    "pos": "adj."
+   },
+   "naine": {
+    "en": "dwarf",
+    "l": "naine",
+    "pos": "n.f."
+   },
+   "naines": {
+    "en": "dwarfs",
+    "l": "naine",
+    "pos": "n.f.pl."
+   },
+   "nuage": {
+    "en": "cloud",
+    "l": "nuage",
+    "pos": "n.m."
+   },
+   "négligeable": {
+    "en": "negligible",
+    "l": "négligeable",
+    "pos": "adj."
+   },
+   "objets": {
+    "en": "objects",
+    "l": "objet",
+    "pos": "n.m.pl."
+   },
+   "oort": {
+    "en": "Oort",
+    "l": "Oort",
+    "pos": "name"
+   },
+   "orbitent": {
+    "en": "orbit",
+    "l": "orbiter",
+    "pos": "v."
+   },
+   "planètes": {
+    "en": "planets",
+    "l": "planète",
+    "pos": "n.f.pl."
+   },
+   "plasma": {
+    "en": "plasma",
+    "l": "plasma",
+    "pos": "n.m."
+   },
+   "plusieurs": {
+    "en": "several",
+    "l": "plusieurs",
+    "pos": "det."
+   },
+   "pluton": {
+    "en": "Pluto",
+    "l": "Pluton",
+    "pos": "name"
+   },
+   "principale": {
+    "en": "main",
+    "l": "principal",
+    "pos": "adj.f."
+   },
+   "pôles": {
+    "en": "poles",
+    "l": "pôle",
+    "pos": "n.m.pl."
+   },
+   "représente": {
+    "en": "represents",
+    "l": "représenter",
+    "pos": "v."
+   },
+   "reste": {
+    "en": "remains",
+    "l": "rester",
+    "pos": "v."
+   },
+   "rocheuses": {
+    "en": "rocky",
+    "l": "rocheux",
+    "pos": "adj.f.pl."
+   },
+   "rouges": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj.pl."
+   },
+   "similaires": {
+    "en": "similar",
+    "l": "similaire",
+    "pos": "adj.pl."
+   },
+   "soit": {
+    "en": "that is, or",
+    "l": "soit",
+    "pos": "conj."
+   },
+   "solaire": {
+    "en": "solar",
+    "l": "solaire",
+    "pos": "adj."
+   },
+   "soleil": {
+    "en": "Sun",
+    "l": "soleil",
+    "pos": "n.m."
+   },
+   "solide": {
+    "en": "solid",
+    "l": "solide",
+    "pos": "adj."
+   },
+   "système": {
+    "en": "system",
+    "l": "système",
+    "pos": "n.m."
+   },
+   "tailles": {
+    "en": "sizes",
+    "l": "taille",
+    "pos": "n.f.pl."
+   },
+   "température": {
+    "en": "temperature",
+    "l": "température",
+    "pos": "n.f."
+   },
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tone",
+    "pos": "n.f.pl."
+   },
+   "tourne": {
+    "en": "turns",
+    "l": "tourner",
+    "pos": "v."
+   },
+   "type": {
+    "en": "type",
+    "l": "type",
+    "pos": "n.m."
+   },
+   "varie": {
+    "en": "varies",
+    "l": "varier",
+    "pos": "v."
+   },
+   "vraie": {
+    "en": "real",
+    "l": "vrai",
+    "pos": "adj.f."
+   },
+   "équateur": {
+    "en": "equator",
+    "l": "équateur",
+    "pos": "n.m."
+   },
+   "éris": {
+    "en": "Eris",
+    "l": "Éris",
+    "pos": "name"
+   },
+   "étoile": {
+    "en": "star",
+    "l": "étoile",
+    "pos": "n.f."
+   },
+   "étoiles": {
+    "en": "stars",
+    "l": "étoile",
+    "pos": "n.f.pl."
+   }
+  },
+  "vikidia-paris": {
+   "2e": {
+    "en": "second",
+    "l": "deuxième",
+    "pos": "adj."
+   },
+   "5e": {
+    "en": "fifth",
+    "l": "cinquième",
+    "pos": "adj."
+   },
+   "abbayes": {
+    "en": "abbeys",
+    "l": "abbaye",
+    "pos": "n.f."
+   },
+   "allemagne": {
+    "en": "Germany",
+    "l": "Allemagne",
+    "pos": "name"
+   },
+   "berlin": {
+    "en": "Berlin",
+    "l": "Berlin",
+    "pos": "name"
+   },
+   "bucarest": {
+    "en": "Bucharest",
+    "l": "Bucarest",
+    "pos": "name"
+   },
+   "bénéficie": {
+    "en": "benefits",
+    "l": "bénéficier",
+    "pos": "v."
+   },
+   "capitale": {
+    "en": "capital",
+    "l": "capitale",
+    "pos": "n.f."
+   },
+   "cathédrale": {
+    "en": "cathedral",
+    "l": "cathédrale",
+    "pos": "n.f."
+   },
+   "commerciaux": {
+    "en": "commercial, trade",
+    "l": "commercial",
+    "pos": "adj."
+   },
+   "communication": {
+    "en": "communication",
+    "l": "communication",
+    "pos": "n.f."
+   },
+   "construction": {
+    "en": "construction, building",
+    "l": "construction",
+    "pos": "n.f."
+   },
+   "culture": {
+    "en": "culture",
+    "l": "culture",
+    "pos": "n.f."
+   },
+   "célèbre": {
+    "en": "famous",
+    "l": "célèbre",
+    "pos": "adj."
+   },
+   "densément": {
+    "en": "densely",
+    "l": "densément",
+    "pos": "adv."
+   },
+   "derrière": {
+    "en": "behind",
+    "l": "derrière",
+    "pos": "prep."
+   },
+   "devenir": {
+    "en": "to become",
+    "l": "devenir",
+    "pos": "v."
+   },
+   "dès": {
+    "en": "from, as early as",
+    "l": "dès",
+    "pos": "prep."
+   },
+   "déterminante": {
+    "en": "decisive",
+    "l": "déterminant",
+    "pos": "adj."
+   },
+   "effet": {
+    "en": "effect; indeed (en effet)",
+    "l": "effet",
+    "pos": "n.m."
+   },
+   "entier": {
+    "en": "whole, entire",
+    "l": "entier",
+    "pos": "adj."
+   },
+   "europe": {
+    "en": "Europe",
+    "l": "Europe",
+    "pos": "name"
+   },
+   "européenne": {
+    "en": "European",
+    "l": "européen",
+    "pos": "adj."
+   },
+   "fluviaux": {
+    "en": "river",
+    "l": "fluvial",
+    "pos": "adj."
+   },
+   "française": {
+    "en": "French",
+    "l": "français",
+    "pos": "adj."
+   },
+   "grand": {
+    "en": "large, great",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "important": {
+    "en": "important",
+    "l": "important",
+    "pos": "adj."
+   },
+   "influence": {
+    "en": "influence",
+    "l": "influence",
+    "pos": "n.f."
+   },
+   "italie": {
+    "en": "Italy",
+    "l": "Italie",
+    "pos": "name"
+   },
+   "itinéraires": {
+    "en": "routes, itineraries",
+    "l": "itinéraire",
+    "pos": "n.m."
+   },
+   "localisation": {
+    "en": "location",
+    "l": "localisation",
+    "pos": "n.f."
+   },
+   "loin": {
+    "en": "far",
+    "l": "loin",
+    "pos": "adv."
+   },
+   "lui": {
+    "en": "to it, to him, to her",
+    "l": "lui",
+    "pos": "pron."
+   },
+   "madrid": {
+    "en": "Madrid",
+    "l": "Madrid",
+    "pos": "name"
+   },
+   "marseille": {
+    "en": "Marseille",
+    "l": "Marseille",
+    "pos": "name"
+   },
+   "million": {
+    "en": "million",
+    "l": "million",
+    "pos": "n.m."
+   },
+   "mode": {
+    "en": "way, fashion",
+    "l": "mode",
+    "pos": "n.m."
+   },
+   "méandre": {
+    "en": "bend, meander",
+    "l": "méandre",
+    "pos": "n.m."
+   },
+   "métropole": {
+    "en": "metropolitan area",
+    "l": "métropole",
+    "pos": "n.f."
+   },
+   "métropolitaine": {
+    "en": "metropolitan",
+    "l": "métropolitain",
+    "pos": "adj."
+   },
+   "nord": {
+    "en": "north",
+    "l": "nord",
+    "pos": "n.m."
+   },
+   "notre-dame": {
+    "en": "Notre-Dame",
+    "l": "Notre-Dame",
+    "pos": "name"
+   },
+   "nœud": {
+    "en": "node, hub",
+    "l": "nœud",
+    "pos": "n.m."
+   },
+   "palais": {
+    "en": "palaces",
+    "l": "palais",
+    "pos": "n.m."
+   },
+   "pays": {
+    "en": "country",
+    "l": "pays",
+    "pos": "n.m."
+   },
+   "permet": {
+    "en": "allows",
+    "l": "permettre",
+    "pos": "v."
+   },
+   "permis": {
+    "en": "allowed, enabled",
+    "l": "permettre",
+    "pos": "v."
+   },
+   "peuplée": {
+    "en": "populated",
+    "l": "peupler",
+    "pos": "adj."
+   },
+   "peuplées": {
+    "en": "populated",
+    "l": "peupler",
+    "pos": "adj."
+   },
+   "politique": {
+    "en": "politics, political",
+    "l": "politique",
+    "pos": "n.f."
+   },
+   "population": {
+    "en": "population",
+    "l": "population",
+    "pos": "n.f."
+   },
+   "prédominante": {
+    "en": "leading, predominant",
+    "l": "prédominant",
+    "pos": "adj."
+   },
+   "puisqu'": {
+    "en": "since, because",
+    "l": "puisque",
+    "pos": "conj."
+   },
+   "regroupe": {
+    "en": "includes, brings together",
+    "l": "regrouper",
+    "pos": "v."
+   },
+   "riches": {
+    "en": "rich",
+    "l": "riche",
+    "pos": "adj."
+   },
+   "rome": {
+    "en": "Rome",
+    "l": "Rome",
+    "pos": "name"
+   },
+   "roumanie": {
+    "en": "Romania",
+    "l": "Roumanie",
+    "pos": "name"
+   },
+   "royaux": {
+    "en": "royal",
+    "l": "royal",
+    "pos": "adj."
+   },
+   "région": {
+    "en": "region",
+    "l": "région",
+    "pos": "n.f."
+   },
+   "seine": {
+    "en": "Seine",
+    "l": "Seine",
+    "pos": "name"
+   },
+   "situe": {
+    "en": "is situated",
+    "l": "situer",
+    "pos": "v."
+   },
+   "ue": {
+    "en": "EU (European Union)",
+    "l": "UE",
+    "pos": "name"
+   },
+   "union": {
+    "en": "union",
+    "l": "union",
+    "pos": "n.f."
+   },
+   "villes": {
+    "en": "cities",
+    "l": "ville",
+    "pos": "n.f."
+   },
+   "wp": {
+    "en": "Wikipedia link marker",
+    "pos": "abbr."
+   },
+   "xe": {
+    "en": "tenth",
+    "l": "dixième",
+    "pos": "adj."
+   },
+   "économie": {
+    "en": "economy",
+    "l": "économie",
+    "pos": "n.f."
+   },
+   "île-de-france": {
+    "en": "Île-de-France",
+    "l": "Île-de-France",
+    "pos": "name"
    }
   },
   "vikidia-ocean": {
