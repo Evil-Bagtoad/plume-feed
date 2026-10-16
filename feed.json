@@ -290,6 +290,118 @@
    "added": "2026-09-30"
   },
   {
+   "id": "vikidia-eau",
+   "title": "Eau",
+   "title_en": "Water",
+   "emoji": "💧",
+   "color": "#4a90d9",
+   "topic": "Science",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Eau",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Eau&oldid=2561410",
+   "retrieved": "2026-10-16",
+   "note": "Shortened from the article's introduction. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "L'eau est l'élément liquide le plus répandu sur la surface de la Terre.",
+       "en": "Water is the most widespread liquid element on the Earth's surface."
+      },
+      {
+       "fr": "Elle est indispensable à toute forme de vie sur la planète.",
+       "en": "It is essential to every form of life on the planet."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Un être humain adulte est composé à 65 % d'eau, les plantes à plus de 85 %.",
+       "en": "An adult human is made up of 65% water, and plants of more than 85%."
+      },
+      {
+       "fr": "L'homme doit boire environ 1,5 litres d'eau ou plus par jour, le reste est contenu dans les aliments mangés au court d’une journée.",
+       "en": "A person must drink about 1.5 litres of water or more per day; the rest is contained in foods eaten during a day."
+      },
+      {
+       "fr": "Il y a de l'eau « à volonté » dans certaines régions, tandis qu'elle est rare ailleurs ou bien manque à certaines périodes de l'année en cas de sécheresse ou alors, elle est trop polluée pour être utilisée.",
+       "en": "There is water \"as much as wanted\" in some regions, while it is rare elsewhere, absent at certain times of year during drought, or too polluted to be used."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "L'eau permet aux plantes de pousser, grâce à la pluie, puis elle alimente les rivières et fleuves.",
+       "en": "Water lets plants grow thanks to rain, then it supplies rivers and streams."
+      },
+      {
+       "fr": "L'homme a besoin de boire de l'eau potable.",
+       "en": "People need to drink safe water."
+      },
+      {
+       "fr": "Il existe différents types d'eau en fonction des minéraux qui sont à l'intérieur, ce que l'on appelle l'eau potable est de l'eau qui possède des nutriments ou des minéraux comme le calcium et qui n'est pas contaminée par des micro-organismes ou par des minéraux toxiques.",
+       "en": "Different types of water exist depending on the minerals inside. What is called drinking water has nutrients or minerals such as calcium and is not contaminated by micro-organisms or toxic minerals."
+      },
+      {
+       "fr": "La formule chimique d'une molécule d'eau est H2O.",
+       "en": "The chemical formula of a water molecule is H2O."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "L'eau est indispensable à toute forme de ___ .",
+     "options": [
+      "roche",
+      "vie",
+      "machine"
+     ],
+     "answer": 1,
+     "why": "« Elle est indispensable à toute forme de vie sur la planète. »"
+    },
+    {
+     "q": "Un être humain adulte est composé à ___ % d'eau.",
+     "options": [
+      "25",
+      "65",
+      "95"
+     ],
+     "answer": 1,
+     "why": "« Un être humain adulte est composé à 65 % d'eau »"
+    },
+    {
+     "q": "La formule chimique d'une molécule d'eau est ___ .",
+     "options": [
+      "CO2",
+      "H2O",
+      "O2"
+     ],
+     "answer": 1,
+     "why": "« La formule chimique d'une molécule d'eau est H2O. »"
+    }
+   ],
+   "keywords": [
+    "eau",
+    "vie",
+    "plantes",
+    "pluie",
+    "rivières",
+    "eau potable",
+    "minéraux",
+    "H2O"
+   ],
+   "public": true,
+   "added": "2026-10-16"
+  },
+  {
    "id": "vikidia-electricite",
    "title": "Électricité",
    "title_en": "Electricity",
@@ -1991,6 +2103,201 @@
    "égouttage": {
     "en": "draining",
     "l": "égouttage",
+    "pos": "n.m."
+   },
+   "adulte": {
+    "en": "adult",
+    "l": "adulte",
+    "pos": "adj."
+   },
+   "ailleurs": {
+    "en": "elsewhere",
+    "l": "ailleurs",
+    "pos": "adv."
+   },
+   "alimente": {
+    "en": "supplies, feeds",
+    "l": "alimenter",
+    "pos": "v."
+   },
+   "besoin": {
+    "en": "need",
+    "l": "besoin",
+    "pos": "n.m."
+   },
+   "boire": {
+    "en": "to drink",
+    "l": "boire",
+    "pos": "v."
+   },
+   "chimique": {
+    "en": "chemical",
+    "l": "chimique",
+    "pos": "adj."
+   },
+   "composé": {
+    "en": "made up, composed",
+    "l": "composer",
+    "pos": "v."
+   },
+   "contaminée": {
+    "en": "contaminated",
+    "l": "contaminer",
+    "pos": "v."
+   },
+   "contenu": {
+    "en": "contained",
+    "l": "contenir",
+    "pos": "v."
+   },
+   "fleuves": {
+    "en": "rivers",
+    "l": "fleuve",
+    "pos": "n.m.pl."
+   },
+   "fonction": {
+    "en": "function",
+    "l": "fonction",
+    "pos": "n.f."
+   },
+   "formule": {
+    "en": "formula",
+    "l": "formule",
+    "pos": "n.f."
+   },
+   "h2o": {
+    "en": "H2O (water)",
+    "l": "H2O",
+    "pos": "abbr."
+   },
+   "indispensable": {
+    "en": "essential",
+    "l": "indispensable",
+    "pos": "adj."
+   },
+   "journée": {
+    "en": "day",
+    "l": "journée",
+    "pos": "n.f."
+   },
+   "liquide": {
+    "en": "liquid",
+    "l": "liquide",
+    "pos": "adj."
+   },
+   "litres": {
+    "en": "litres",
+    "l": "litre",
+    "pos": "n.m.pl."
+   },
+   "mangés": {
+    "en": "eaten",
+    "l": "manger",
+    "pos": "v."
+   },
+   "manque": {
+    "en": "is lacking, is missing",
+    "l": "manquer",
+    "pos": "v."
+   },
+   "micro-organismes": {
+    "en": "micro-organisms",
+    "l": "micro-organisme",
+    "pos": "n.m.pl."
+   },
+   "minéraux": {
+    "en": "minerals",
+    "l": "minéral",
+    "pos": "n.m.pl."
+   },
+   "molécule": {
+    "en": "molecule",
+    "l": "molécule",
+    "pos": "n.f."
+   },
+   "nutriments": {
+    "en": "nutrients",
+    "l": "nutriment",
+    "pos": "n.m.pl."
+   },
+   "pluie": {
+    "en": "rain",
+    "l": "pluie",
+    "pos": "n.f."
+   },
+   "polluée": {
+    "en": "polluted",
+    "l": "polluer",
+    "pos": "v."
+   },
+   "potable": {
+    "en": "safe to drink",
+    "l": "potable",
+    "pos": "adj."
+   },
+   "pousser": {
+    "en": "to grow",
+    "l": "pousser",
+    "pos": "v."
+   },
+   "rare": {
+    "en": "rare",
+    "l": "rare",
+    "pos": "adj."
+   },
+   "reste": {
+    "en": "rest, remainder",
+    "l": "reste",
+    "pos": "n.m."
+   },
+   "rivières": {
+    "en": "rivers",
+    "l": "rivière",
+    "pos": "n.f.pl."
+   },
+   "régions": {
+    "en": "regions",
+    "l": "région",
+    "pos": "n.f.pl."
+   },
+   "répandu": {
+    "en": "widespread",
+    "l": "répandre",
+    "pos": "v."
+   },
+   "sécheresse": {
+    "en": "drought",
+    "l": "sécheresse",
+    "pos": "n.f."
+   },
+   "tandis": {
+    "en": "whereas, while",
+    "l": "tandis que",
+    "pos": "conj."
+   },
+   "toute": {
+    "en": "every, all",
+    "l": "tout",
+    "pos": "det."
+   },
+   "toxiques": {
+    "en": "toxic",
+    "l": "toxique",
+    "pos": "adj.pl."
+   },
+   "utilisée": {
+    "en": "used",
+    "l": "utiliser",
+    "pos": "v."
+   },
+   "volonté": {
+    "en": "will, desire",
+    "l": "volonté",
+    "pos": "n.f."
+   },
+   "élément": {
+    "en": "element",
+    "l": "élément",
     "pos": "n.m."
    },
    "ait": {
@@ -6131,6 +6438,283 @@
     "pos": "n.f."
    }
   },
+  "vikidia-ocean": {
+   "absorbe": {
+    "en": "absorbs",
+    "l": "absorber",
+    "pos": "v."
+   },
+   "apparait": {
+    "en": "appears",
+    "l": "apparaître",
+    "pos": "v."
+   },
+   "bleu-vert": {
+    "en": "blue-green",
+    "l": "bleu-vert",
+    "pos": "adj."
+   },
+   "bleue": {
+    "en": "blue (feminine)",
+    "l": "bleu",
+    "pos": "adj."
+   },
+   "ciel": {
+    "en": "sky",
+    "l": "ciel",
+    "pos": "n.m."
+   },
+   "climat": {
+    "en": "climate",
+    "l": "climat",
+    "pos": "n.m."
+   },
+   "confondre": {
+    "en": "to confuse",
+    "l": "confondre",
+    "pos": "v."
+   },
+   "couleur": {
+    "en": "colour",
+    "l": "couleur",
+    "pos": "n.f."
+   },
+   "couvrant": {
+    "en": "covering",
+    "l": "couvrir",
+    "pos": "v."
+   },
+   "cycle": {
+    "en": "cycle",
+    "l": "cycle",
+    "pos": "n.m."
+   },
+   "devrait": {
+    "en": "should",
+    "l": "devoir",
+    "pos": "v."
+   },
+   "donne": {
+    "en": "gives",
+    "l": "donner",
+    "pos": "v."
+   },
+   "dû": {
+    "en": "due to",
+    "l": "devoir",
+    "pos": "adj."
+   },
+   "elle-même": {
+    "en": "itself",
+    "l": "elle-même",
+    "pos": "pron."
+   },
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "faut": {
+    "en": "must, is necessary",
+    "l": "falloir",
+    "pos": "v."
+   },
+   "formes": {
+    "en": "forms",
+    "l": "forme",
+    "pos": "n.f."
+   },
+   "gazeuse": {
+    "en": "gaseous",
+    "l": "gazeux",
+    "pos": "adj."
+   },
+   "globe": {
+    "en": "globe, world",
+    "l": "globe",
+    "pos": "n.m."
+   },
+   "grande": {
+    "en": "large, big",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "humaine": {
+    "en": "human (feminine)",
+    "l": "humain",
+    "pos": "adj."
+   },
+   "importants": {
+    "en": "important",
+    "l": "important",
+    "pos": "adj."
+   },
+   "liquide": {
+    "en": "liquid",
+    "l": "liquide",
+    "pos": "adj."
+   },
+   "lui": {
+    "en": "to it, to him/her",
+    "l": "lui",
+    "pos": "pron."
+   },
+   "lumière": {
+    "en": "light",
+    "l": "lumière",
+    "pos": "n.f."
+   },
+   "mers": {
+    "en": "seas",
+    "l": "mer",
+    "pos": "n.f."
+   },
+   "non": {
+    "en": "not",
+    "l": "non",
+    "pos": "adv."
+   },
+   "notre": {
+    "en": "our",
+    "l": "notre",
+    "pos": "det."
+   },
+   "occupent": {
+    "en": "occupy, cover",
+    "l": "occuper",
+    "pos": "v."
+   },
+   "océan": {
+    "en": "ocean",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "océans": {
+    "en": "oceans",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "optique": {
+    "en": "optical",
+    "l": "optique",
+    "pos": "adj."
+   },
+   "oxygène": {
+    "en": "oxygen",
+    "l": "oxygène",
+    "pos": "n.m."
+   },
+   "petites": {
+    "en": "small (feminine plural)",
+    "l": "petit",
+    "pos": "adj."
+   },
+   "phénomène": {
+    "en": "phenomenon",
+    "l": "phénomène",
+    "pos": "n.m."
+   },
+   "plancton": {
+    "en": "plankton",
+    "l": "plancton",
+    "pos": "n.m."
+   },
+   "planète": {
+    "en": "planet",
+    "l": "planète",
+    "pos": "n.f."
+   },
+   "pluie": {
+    "en": "rain",
+    "l": "pluie",
+    "pos": "n.f."
+   },
+   "propriété": {
+    "en": "property",
+    "l": "propriété",
+    "pos": "n.f."
+   },
+   "provient": {
+    "en": "comes from",
+    "l": "provenir",
+    "pos": "v."
+   },
+   "reflet": {
+    "en": "reflection",
+    "l": "reflet",
+    "pos": "n.m."
+   },
+   "représentent": {
+    "en": "make up, represent",
+    "l": "représenter",
+    "pos": "v."
+   },
+   "respire": {
+    "en": "breathes",
+    "l": "respirer",
+    "pos": "v."
+   },
+   "rouge": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj."
+   },
+   "réfléchit": {
+    "en": "reflects",
+    "l": "réfléchir",
+    "pos": "v."
+   },
+   "salée": {
+    "en": "salty",
+    "l": "salé",
+    "pos": "adj."
+   },
+   "si": {
+    "en": "if",
+    "l": "si",
+    "pos": "conj."
+   },
+   "solide": {
+    "en": "solid",
+    "l": "solide",
+    "pos": "adj."
+   },
+   "sous": {
+    "en": "under",
+    "l": "sous",
+    "pos": "prep."
+   },
+   "surface": {
+    "en": "surface",
+    "l": "surface",
+    "pos": "n.f."
+   },
+   "toutes": {
+    "en": "all (feminine plural)",
+    "l": "tout",
+    "pos": "det."
+   },
+   "voir": {
+    "en": "to see",
+    "l": "voir",
+    "pos": "v."
+   },
+   "vue": {
+    "en": "seen (feminine)",
+    "l": "voir",
+    "pos": "v."
+   },
+   "étendue": {
+    "en": "expanse, extent",
+    "l": "étendue",
+    "pos": "n.f."
+   },
+   "évaporation": {
+    "en": "evaporation",
+    "l": "évaporation",
+    "pos": "n.f."
+   }
+  },
   "vikidia-architecture": {
    "abord": {
     "en": "first",
@@ -6682,283 +7266,6 @@
     "en": "Île-de-France",
     "l": "Île-de-France",
     "pos": "name"
-   }
-  },
-  "vikidia-ocean": {
-   "absorbe": {
-    "en": "absorbs",
-    "l": "absorber",
-    "pos": "v."
-   },
-   "apparait": {
-    "en": "appears",
-    "l": "apparaître",
-    "pos": "v."
-   },
-   "bleu-vert": {
-    "en": "blue-green",
-    "l": "bleu-vert",
-    "pos": "adj."
-   },
-   "bleue": {
-    "en": "blue (feminine)",
-    "l": "bleu",
-    "pos": "adj."
-   },
-   "ciel": {
-    "en": "sky",
-    "l": "ciel",
-    "pos": "n.m."
-   },
-   "climat": {
-    "en": "climate",
-    "l": "climat",
-    "pos": "n.m."
-   },
-   "confondre": {
-    "en": "to confuse",
-    "l": "confondre",
-    "pos": "v."
-   },
-   "couleur": {
-    "en": "colour",
-    "l": "couleur",
-    "pos": "n.f."
-   },
-   "couvrant": {
-    "en": "covering",
-    "l": "couvrir",
-    "pos": "v."
-   },
-   "cycle": {
-    "en": "cycle",
-    "l": "cycle",
-    "pos": "n.m."
-   },
-   "devrait": {
-    "en": "should",
-    "l": "devoir",
-    "pos": "v."
-   },
-   "donne": {
-    "en": "gives",
-    "l": "donner",
-    "pos": "v."
-   },
-   "dû": {
-    "en": "due to",
-    "l": "devoir",
-    "pos": "adj."
-   },
-   "elle-même": {
-    "en": "itself",
-    "l": "elle-même",
-    "pos": "pron."
-   },
-   "espace": {
-    "en": "space",
-    "l": "espace",
-    "pos": "n.m."
-   },
-   "faut": {
-    "en": "must, is necessary",
-    "l": "falloir",
-    "pos": "v."
-   },
-   "formes": {
-    "en": "forms",
-    "l": "forme",
-    "pos": "n.f."
-   },
-   "gazeuse": {
-    "en": "gaseous",
-    "l": "gazeux",
-    "pos": "adj."
-   },
-   "globe": {
-    "en": "globe, world",
-    "l": "globe",
-    "pos": "n.m."
-   },
-   "grande": {
-    "en": "large, big",
-    "l": "grand",
-    "pos": "adj."
-   },
-   "humaine": {
-    "en": "human (feminine)",
-    "l": "humain",
-    "pos": "adj."
-   },
-   "importants": {
-    "en": "important",
-    "l": "important",
-    "pos": "adj."
-   },
-   "liquide": {
-    "en": "liquid",
-    "l": "liquide",
-    "pos": "adj."
-   },
-   "lui": {
-    "en": "to it, to him/her",
-    "l": "lui",
-    "pos": "pron."
-   },
-   "lumière": {
-    "en": "light",
-    "l": "lumière",
-    "pos": "n.f."
-   },
-   "mers": {
-    "en": "seas",
-    "l": "mer",
-    "pos": "n.f."
-   },
-   "non": {
-    "en": "not",
-    "l": "non",
-    "pos": "adv."
-   },
-   "notre": {
-    "en": "our",
-    "l": "notre",
-    "pos": "det."
-   },
-   "occupent": {
-    "en": "occupy, cover",
-    "l": "occuper",
-    "pos": "v."
-   },
-   "océan": {
-    "en": "ocean",
-    "l": "océan",
-    "pos": "n.m."
-   },
-   "océans": {
-    "en": "oceans",
-    "l": "océan",
-    "pos": "n.m."
-   },
-   "optique": {
-    "en": "optical",
-    "l": "optique",
-    "pos": "adj."
-   },
-   "oxygène": {
-    "en": "oxygen",
-    "l": "oxygène",
-    "pos": "n.m."
-   },
-   "petites": {
-    "en": "small (feminine plural)",
-    "l": "petit",
-    "pos": "adj."
-   },
-   "phénomène": {
-    "en": "phenomenon",
-    "l": "phénomène",
-    "pos": "n.m."
-   },
-   "plancton": {
-    "en": "plankton",
-    "l": "plancton",
-    "pos": "n.m."
-   },
-   "planète": {
-    "en": "planet",
-    "l": "planète",
-    "pos": "n.f."
-   },
-   "pluie": {
-    "en": "rain",
-    "l": "pluie",
-    "pos": "n.f."
-   },
-   "propriété": {
-    "en": "property",
-    "l": "propriété",
-    "pos": "n.f."
-   },
-   "provient": {
-    "en": "comes from",
-    "l": "provenir",
-    "pos": "v."
-   },
-   "reflet": {
-    "en": "reflection",
-    "l": "reflet",
-    "pos": "n.m."
-   },
-   "représentent": {
-    "en": "make up, represent",
-    "l": "représenter",
-    "pos": "v."
-   },
-   "respire": {
-    "en": "breathes",
-    "l": "respirer",
-    "pos": "v."
-   },
-   "rouge": {
-    "en": "red",
-    "l": "rouge",
-    "pos": "adj."
-   },
-   "réfléchit": {
-    "en": "reflects",
-    "l": "réfléchir",
-    "pos": "v."
-   },
-   "salée": {
-    "en": "salty",
-    "l": "salé",
-    "pos": "adj."
-   },
-   "si": {
-    "en": "if",
-    "l": "si",
-    "pos": "conj."
-   },
-   "solide": {
-    "en": "solid",
-    "l": "solide",
-    "pos": "adj."
-   },
-   "sous": {
-    "en": "under",
-    "l": "sous",
-    "pos": "prep."
-   },
-   "surface": {
-    "en": "surface",
-    "l": "surface",
-    "pos": "n.f."
-   },
-   "toutes": {
-    "en": "all (feminine plural)",
-    "l": "tout",
-    "pos": "det."
-   },
-   "voir": {
-    "en": "to see",
-    "l": "voir",
-    "pos": "v."
-   },
-   "vue": {
-    "en": "seen (feminine)",
-    "l": "voir",
-    "pos": "v."
-   },
-   "étendue": {
-    "en": "expanse, extent",
-    "l": "étendue",
-    "pos": "n.f."
-   },
-   "évaporation": {
-    "en": "evaporation",
-    "l": "évaporation",
-    "pos": "n.f."
    }
   },
   "vikidia-foret": {
