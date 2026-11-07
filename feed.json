@@ -102,6 +102,122 @@
    "added": "2026-10-13"
   },
   {
+   "id": "vikidia-canada",
+   "title": "Canada",
+   "title_en": "Canada",
+   "emoji": "🇨🇦",
+   "color": "#c62828",
+   "topic": "Géographie",
+   "level": "A2",
+   "kind": "excerpt",
+   "source": "Vikidia, l'encyclopédie des 8-13 ans",
+   "source_url": "https://fr.vikidia.org/wiki/Canada",
+   "author": "Vikidia contributors",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "revision": "https://fr.vikidia.org/w/index.php?title=Canada&oldid=2555416",
+   "retrieved": "2026-11-07",
+   "note": "Shortened from the article's introduction. Removed parts are marked […]. No words were changed.",
+   "blocks": [
+    {
+     "p": [
+      {
+       "fr": "Le Canada est un pays d'Amérique du Nord.",
+       "en": "Canada is a country in North America."
+      },
+      {
+       "fr": "Par sa superficie (9 984 670 km² soit dix-huit fois celle de la France), il est le deuxième pays du monde, derrière la Russie et devant la Chine et les États-Unis (Alaska comprise).",
+       "en": "By area (9,984,670 km², or eighteen times that of France), it is the world's second-largest country, behind Russia and ahead of China and the United States (including Alaska)."
+      },
+      {
+       "fr": "L'échelle des distances n'est pas la même qu'en Europe : par exemple, il faut trois jours en voiture et 4 heures 25 minutes par avion pour aller de Vancouver (dans l'ouest) à Toronto (dans l'est du pays).",
+       "en": "The scale of distances is not the same as in Europe: for example, it takes three days by car and 4 hours 25 minutes by plane to go from Vancouver (in the west) to Toronto (in the east of the country)."
+      },
+      {
+       "fr": "Toronto et les chutes du Niagara (éloignées de 150 km environ) peuvent être considérées comme proches à l'échelle du pays.",
+       "en": "Toronto and Niagara Falls (about 150 km apart) can be considered close on the scale of the country."
+      },
+      {
+       "fr": "Le pays s'étend sur six fuseaux horaires, de Terre-Neuve à la côte Pacifique.",
+       "en": "The country stretches across six time zones, from Newfoundland to the Pacific coast."
+      }
+     ]
+    },
+    {
+     "p": [
+      {
+       "fr": "Sa capitale est Ottawa, située dans la province de l'Ontario, mais elle n'est pas la plus grosse ville du pays.",
+       "en": "Its capital is Ottawa, in the province of Ontario, but it is not the country's biggest city."
+      },
+      {
+       "fr": "Le pays a un climat continental (il fait très chaud l'été et très froid l'hiver).",
+       "en": "The country has a continental climate (it is very hot in summer and very cold in winter)."
+      },
+      {
+       "fr": "Dans le Nord du pays, le climat est polaire, au-delà de la limite des arbres .",
+       "en": "In the north of the country, the climate is polar, beyond the tree line."
+      },
+      {
+       "fr": "Les personnes habitant le Canada s'appellent les Canadiens (et les Canadiennes).",
+       "en": "People who live in Canada are called Canadians."
+      },
+      {
+       "fr": "Les deux langues officielles sont le français (le Québec est la seule province à être en majorité francophone) et l'anglais.",
+       "en": "The two official languages are French (Quebec is the only province with a French-speaking majority) and English."
+      },
+      {
+       "fr": "Le Canada comporte cinq principales métropoles : Toronto, Montréal, Calgary, Ottawa et Vancouver.",
+       "en": "Canada has five main metropolitan areas: Toronto, Montreal, Calgary, Ottawa and Vancouver."
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "La capitale du Canada est ___ .",
+     "options": [
+      "Toronto",
+      "Ottawa",
+      "Montréal"
+     ],
+     "answer": 1,
+     "why": "« Sa capitale est Ottawa »"
+    },
+    {
+     "q": "Le Canada s'étend sur ___ fuseaux horaires.",
+     "options": [
+      "trois",
+      "six",
+      "dix"
+     ],
+     "answer": 1,
+     "why": "« Le pays s'étend sur six fuseaux horaires »"
+    },
+    {
+     "q": "Les deux langues officielles sont le français et ___ .",
+     "options": [
+      "l'espagnol",
+      "l'anglais",
+      "l'allemand"
+     ],
+     "answer": 1,
+     "why": "« Les deux langues officielles sont le français […] et l'anglais »"
+    }
+   ],
+   "keywords": [
+    "Canada",
+    "Ottawa",
+    "Toronto",
+    "français",
+    "anglais",
+    "climat",
+    "province",
+    "fuseaux horaires"
+   ],
+   "public": true,
+   "added": "2026-11-07"
+  },
+  {
    "id": "vikidia-chat",
    "title": "Chat",
    "title_en": "Cat",
@@ -8915,690 +9031,1154 @@
     "pos": "v."
    }
   },
-  "vikidia-riviere": {
-   "aride": {
-    "en": "arid",
-    "l": "aride",
-    "pos": "adj."
+  "vikidia-tortue": {
+   "amphibies": {
+    "en": "amphibious",
+    "l": "amphibie",
+    "pos": "adj.pl."
    },
-   "arrivant": {
-    "en": "on reaching",
-    "l": "arriver",
-    "pos": "v.pr."
-   },
-   "assèchent": {
-    "en": "dry up",
-    "l": "assécher",
-    "pos": "v.pr."
-   },
-   "augmenter": {
-    "en": "to increase",
-    "l": "augmenter",
+   "attendent": {
+    "en": "wait",
+    "l": "attendre",
     "pos": "v."
    },
-   "celle-ci": {
-    "en": "this one",
-    "l": "celui-ci",
-    "pos": "pron.dem."
-   },
-   "chemine": {
-    "en": "travels",
-    "l": "cheminer",
-    "pos": "v."
-   },
-   "chenal": {
-    "en": "channel",
-    "l": "chenal",
-    "pos": "n.m."
-   },
-   "confluent": {
-    "en": "confluence",
-    "l": "confluent",
-    "pos": "n.m."
-   },
-   "coule": {
-    "en": "flows",
-    "l": "couler",
-    "pos": "v."
-   },
-   "crue": {
-    "en": "flood",
-    "l": "crue",
+   "carapace": {
+    "en": "shell",
+    "l": "carapace",
     "pos": "n.f."
    },
-   "donner": {
-    "en": "to flow into",
-    "l": "donner",
-    "pos": "v."
-   },
-   "débit": {
-    "en": "flow rate",
-    "l": "débit",
-    "pos": "n.m."
-   },
-   "déplacés": {
-    "en": "moved",
-    "l": "déplacer",
-    "pos": "v."
-   },
-   "désigner": {
-    "en": "to designate",
-    "l": "désigner",
-    "pos": "v."
-   },
-   "embouchure": {
-    "en": "mouth",
-    "l": "embouchure",
+   "centaine": {
+    "en": "hundred",
+    "l": "centaine",
     "pos": "n.f."
    },
-   "espace": {
-    "en": "space",
-    "l": "espace",
+   "courent": {
+    "en": "run",
+    "l": "courir",
+    "pos": "v."
+   },
+   "différencier": {
+    "en": "to tell apart",
+    "l": "différencier",
+    "pos": "v."
+   },
+   "effet": {
+    "en": "fact, effect",
+    "l": "effet",
     "pos": "n.m."
    },
-   "fleuve": {
-    "en": "large river",
-    "l": "fleuve",
-    "pos": "n.m."
+   "griffes": {
+    "en": "claws",
+    "l": "griffe",
+    "pos": "n.f.pl."
    },
-   "fond": {
-    "en": "bottom",
-    "l": "fond",
-    "pos": "n.m."
-   },
-   "fortes": {
-    "en": "heavy",
-    "l": "fort",
+   "lentes": {
+    "en": "slow",
+    "l": "lent",
     "pos": "adj.f.pl."
    },
-   "gravier": {
-    "en": "gravel",
-    "l": "gravier",
-    "pos": "n.m."
+   "morte": {
+    "en": "dead",
+    "l": "mort",
+    "pos": "adj.f."
    },
-   "inondation": {
-    "en": "flooding",
-    "l": "inondation",
-    "pos": "n.f."
-   },
-   "jette": {
-    "en": "flows into",
-    "l": "jeter",
-    "pos": "v.pr."
-   },
-   "lac": {
-    "en": "lake",
-    "l": "lac",
-    "pos": "n.m."
-   },
-   "largement": {
-    "en": "greatly",
-    "l": "largement",
-    "pos": "adv."
-   },
-   "lit": {
-    "en": "bed",
-    "l": "lit",
-    "pos": "n.m."
-   },
-   "monte": {
-    "en": "rises",
-    "l": "monter",
-    "pos": "v."
-   },
-   "niveau": {
-    "en": "level",
-    "l": "niveau",
-    "pos": "n.m."
-   },
-   "occupe": {
-    "en": "occupies",
-    "l": "occuper",
-    "pos": "v."
-   },
-   "occupent": {
-    "en": "occupy",
-    "l": "occuper",
-    "pos": "v."
-   },
-   "océan": {
-    "en": "ocean",
-    "l": "océan",
-    "pos": "n.m."
-   },
-   "parler": {
-    "en": "to speak",
-    "l": "parler",
-    "pos": "v."
-   },
-   "pierres": {
-    "en": "stones",
-    "l": "pierre",
+   "nageoires": {
+    "en": "flippers, fins",
+    "l": "nageoire",
     "pos": "n.f.pl."
    },
-   "pluies": {
-    "en": "rains",
-    "l": "pluie",
-    "pos": "n.f.pl."
+   "plusieurs": {
+    "en": "several",
+    "l": "plusieurs",
+    "pos": "det."
    },
-   "progressivement": {
-    "en": "gradually",
-    "l": "progressivement",
-    "pos": "adv."
+   "pondent": {
+    "en": "lay",
+    "l": "pondre",
+    "pos": "v."
    },
-   "proprement": {
-    "en": "properly",
-    "l": "proprement",
-    "pos": "adv."
+   "pondre": {
+    "en": "to lay",
+    "l": "pondre",
+    "pos": "v."
+   },
+   "ralentissent": {
+    "en": "slow down",
+    "l": "ralentir",
+    "pos": "v."
+   },
+   "recouvre": {
+    "en": "covers",
+    "l": "recouvrir",
+    "pos": "v."
+   },
+   "reptiles": {
+    "en": "reptiles",
+    "l": "reptile",
+    "pos": "n.m.pl."
    },
    "sable": {
     "en": "sand",
     "l": "sable",
     "pos": "n.m."
    },
-   "source": {
-    "en": "source",
-    "l": "source",
+   "tortue": {
+    "en": "turtle",
+    "l": "tortue",
     "pos": "n.f."
    },
-   "terme": {
-    "en": "end",
-    "l": "terme",
-    "pos": "n.m."
-   },
-   "terres": {
-    "en": "land",
-    "l": "terre",
+   "tortues": {
+    "en": "turtles",
+    "l": "tortue",
     "pos": "n.f.pl."
    },
-   "vitesse": {
-    "en": "speed",
-    "l": "vitesse",
-    "pos": "n.f."
+   "trou": {
+    "en": "hole",
+    "l": "trou",
+    "pos": "n.m."
    },
-   "zone": {
-    "en": "area",
-    "l": "zone",
-    "pos": "n.f."
+   "vieille": {
+    "en": "old",
+    "l": "vieux",
+    "pos": "adj.f."
    },
-   "également": {
-    "en": "also",
-    "l": "également",
-    "pos": "adv."
+   "œufs": {
+    "en": "eggs",
+    "l": "œuf",
+    "pos": "n.m.pl."
    }
   },
-  "vikidia-ocean": {
-   "absorbe": {
-    "en": "absorbs",
-    "l": "absorber",
+  "vikidia-canada": {
+   "alaska": {
+    "en": "Alaska",
+    "l": "Alaska",
+    "pos": "n.pr."
+   },
+   "appellent": {
+    "en": "are called",
+    "l": "appeler",
     "pos": "v."
    },
-   "apparait": {
-    "en": "appears",
-    "l": "apparaître",
-    "pos": "v."
-   },
-   "bleu-vert": {
-    "en": "blue-green",
-    "l": "bleu-vert",
-    "pos": "adj."
-   },
-   "bleue": {
-    "en": "blue (feminine)",
-    "l": "bleu",
-    "pos": "adj."
-   },
-   "ciel": {
-    "en": "sky",
-    "l": "ciel",
+   "arbres": {
+    "en": "trees",
+    "l": "arbre",
     "pos": "n.m."
+   },
+   "au-delà": {
+    "en": "beyond",
+    "l": "au-delà",
+    "pos": "adv."
+   },
+   "avion": {
+    "en": "plane",
+    "l": "avion",
+    "pos": "n.m."
+   },
+   "calgary": {
+    "en": "Calgary",
+    "l": "Calgary",
+    "pos": "n.pr."
+   },
+   "canada": {
+    "en": "Canada",
+    "l": "Canada",
+    "pos": "n.pr."
+   },
+   "canadiennes": {
+    "en": "Canadian women",
+    "l": "Canadien",
+    "pos": "n.f."
+   },
+   "canadiens": {
+    "en": "Canadians",
+    "l": "Canadien",
+    "pos": "n.m."
+   },
+   "chine": {
+    "en": "China",
+    "l": "Chine",
+    "pos": "n.pr."
+   },
+   "chutes": {
+    "en": "falls",
+    "l": "chute",
+    "pos": "n.f."
+   },
+   "cinq": {
+    "en": "five",
+    "l": "cinq",
+    "pos": "adj."
    },
    "climat": {
     "en": "climate",
     "l": "climat",
     "pos": "n.m."
    },
-   "confondre": {
-    "en": "to confuse",
-    "l": "confondre",
+   "comporte": {
+    "en": "has",
+    "l": "comporter",
     "pos": "v."
    },
-   "couleur": {
-    "en": "colour",
-    "l": "couleur",
-    "pos": "n.f."
-   },
-   "couvrant": {
-    "en": "covering",
-    "l": "couvrir",
-    "pos": "v."
-   },
-   "cycle": {
-    "en": "cycle",
-    "l": "cycle",
-    "pos": "n.m."
-   },
-   "devrait": {
-    "en": "should",
-    "l": "devoir",
-    "pos": "v."
-   },
-   "donne": {
-    "en": "gives",
-    "l": "donner",
-    "pos": "v."
-   },
-   "dû": {
-    "en": "due to",
-    "l": "devoir",
+   "comprise": {
+    "en": "included",
+    "l": "compris",
     "pos": "adj."
    },
-   "elle-même": {
-    "en": "itself",
-    "l": "elle-même",
-    "pos": "pron."
+   "considérées": {
+    "en": "considered",
+    "l": "considérer",
+    "pos": "v."
    },
-   "espace": {
-    "en": "space",
-    "l": "espace",
-    "pos": "n.m."
+   "continental": {
+    "en": "continental",
+    "l": "continental",
+    "pos": "adj."
+   },
+   "côte": {
+    "en": "coast",
+    "l": "côte",
+    "pos": "n.f."
+   },
+   "derrière": {
+    "en": "behind",
+    "l": "derrière",
+    "pos": "prep."
+   },
+   "deuxième": {
+    "en": "second",
+    "l": "deuxième",
+    "pos": "adj."
+   },
+   "devant": {
+    "en": "ahead of",
+    "l": "devant",
+    "pos": "prep."
+   },
+   "distances": {
+    "en": "distances",
+    "l": "distance",
+    "pos": "n.f."
    },
    "faut": {
-    "en": "must, is necessary",
+    "en": "is needed",
     "l": "falloir",
     "pos": "v."
    },
-   "formes": {
-    "en": "forms",
-    "l": "forme",
-    "pos": "n.f."
-   },
-   "gazeuse": {
-    "en": "gaseous",
-    "l": "gazeux",
+   "francophone": {
+    "en": "French-speaking",
+    "l": "francophone",
     "pos": "adj."
    },
-   "globe": {
-    "en": "globe, world",
-    "l": "globe",
+   "froid": {
+    "en": "cold",
+    "l": "froid",
+    "pos": "adj."
+   },
+   "fuseaux": {
+    "en": "time zones",
+    "l": "fuseau",
     "pos": "n.m."
    },
-   "grande": {
-    "en": "large, big",
-    "l": "grand",
+   "grosse": {
+    "en": "big",
+    "l": "gros",
     "pos": "adj."
    },
-   "humaine": {
-    "en": "human (feminine)",
-    "l": "humain",
-    "pos": "adj."
-   },
-   "importants": {
-    "en": "important",
-    "l": "important",
-    "pos": "adj."
-   },
-   "liquide": {
-    "en": "liquid",
-    "l": "liquide",
-    "pos": "adj."
-   },
-   "lui": {
-    "en": "to it, to him/her",
-    "l": "lui",
-    "pos": "pron."
-   },
-   "lumière": {
-    "en": "light",
-    "l": "lumière",
-    "pos": "n.f."
-   },
-   "mers": {
-    "en": "seas",
-    "l": "mer",
-    "pos": "n.f."
-   },
-   "non": {
-    "en": "not",
-    "l": "non",
-    "pos": "adv."
-   },
-   "notre": {
-    "en": "our",
-    "l": "notre",
-    "pos": "det."
-   },
-   "occupent": {
-    "en": "occupy, cover",
-    "l": "occuper",
+   "habitant": {
+    "en": "living",
+    "l": "habiter",
     "pos": "v."
    },
-   "océan": {
-    "en": "ocean",
-    "l": "océan",
+   "hiver": {
+    "en": "winter",
+    "l": "hiver",
     "pos": "n.m."
    },
-   "océans": {
-    "en": "oceans",
-    "l": "océan",
+   "horaires": {
+    "en": "time",
+    "l": "horaire",
     "pos": "n.m."
    },
-   "optique": {
-    "en": "optical",
-    "l": "optique",
-    "pos": "adj."
-   },
-   "oxygène": {
-    "en": "oxygen",
-    "l": "oxygène",
+   "km": {
+    "en": "kilometre",
+    "l": "kilomètre",
     "pos": "n.m."
    },
-   "petites": {
-    "en": "small (feminine plural)",
-    "l": "petit",
-    "pos": "adj."
-   },
-   "phénomène": {
-    "en": "phenomenon",
-    "l": "phénomène",
+   "km²": {
+    "en": "square kilometre",
+    "l": "kilomètre carré",
     "pos": "n.m."
    },
-   "plancton": {
-    "en": "plankton",
-    "l": "plancton",
-    "pos": "n.m."
-   },
-   "planète": {
-    "en": "planet",
-    "l": "planète",
+   "langues": {
+    "en": "languages",
+    "l": "langue",
     "pos": "n.f."
    },
-   "pluie": {
-    "en": "rain",
-    "l": "pluie",
+   "limite": {
+    "en": "limit",
+    "l": "limite",
     "pos": "n.f."
    },
-   "propriété": {
-    "en": "property",
-    "l": "propriété",
+   "majorité": {
+    "en": "majority",
+    "l": "majorité",
     "pos": "n.f."
    },
-   "provient": {
-    "en": "comes from",
-    "l": "provenir",
-    "pos": "v."
+   "montréal": {
+    "en": "Montreal",
+    "l": "Montréal",
+    "pos": "n.pr."
    },
-   "reflet": {
-    "en": "reflection",
-    "l": "reflet",
-    "pos": "n.m."
+   "métropoles": {
+    "en": "metropolitan areas",
+    "l": "métropole",
+    "pos": "n.f."
    },
-   "représentent": {
-    "en": "make up, represent",
-    "l": "représenter",
-    "pos": "v."
+   "niagara": {
+    "en": "Niagara",
+    "l": "Niagara",
+    "pos": "n.pr."
    },
-   "respire": {
-    "en": "breathes",
-    "l": "respirer",
-    "pos": "v."
-   },
-   "rouge": {
-    "en": "red",
-    "l": "rouge",
+   "officielles": {
+    "en": "official",
+    "l": "officiel",
     "pos": "adj."
    },
-   "réfléchit": {
-    "en": "reflects",
-    "l": "réfléchir",
-    "pos": "v."
+   "ontario": {
+    "en": "Ontario",
+    "l": "Ontario",
+    "pos": "n.pr."
    },
-   "salée": {
-    "en": "salty",
-    "l": "salé",
+   "ottawa": {
+    "en": "Ottawa",
+    "l": "Ottawa",
+    "pos": "n.pr."
+   },
+   "personnes": {
+    "en": "people",
+    "l": "personne",
+    "pos": "n.f."
+   },
+   "polaire": {
+    "en": "polar",
+    "l": "polaire",
     "pos": "adj."
    },
-   "si": {
-    "en": "if",
-    "l": "si",
+   "principales": {
+    "en": "main",
+    "l": "principal",
+    "pos": "adj."
+   },
+   "province": {
+    "en": "province",
+    "l": "province",
+    "pos": "n.f."
+   },
+   "québec": {
+    "en": "Quebec",
+    "l": "Québec",
+    "pos": "n.pr."
+   },
+   "russie": {
+    "en": "Russia",
+    "l": "Russie",
+    "pos": "n.pr."
+   },
+   "six": {
+    "en": "six",
+    "l": "six",
+    "pos": "adj."
+   },
+   "soit": {
+    "en": "that is",
+    "l": "soit",
     "pos": "conj."
    },
-   "solide": {
-    "en": "solid",
-    "l": "solide",
-    "pos": "adj."
-   },
-   "sous": {
-    "en": "under",
-    "l": "sous",
-    "pos": "prep."
-   },
-   "surface": {
-    "en": "surface",
-    "l": "surface",
+   "superficie": {
+    "en": "area",
+    "l": "superficie",
     "pos": "n.f."
    },
-   "toutes": {
-    "en": "all (feminine plural)",
-    "l": "tout",
-    "pos": "det."
+   "terre-neuve": {
+    "en": "Newfoundland",
+    "l": "Terre-Neuve",
+    "pos": "n.pr."
    },
-   "voir": {
-    "en": "to see",
-    "l": "voir",
+   "toronto": {
+    "en": "Toronto",
+    "l": "Toronto",
+    "pos": "n.pr."
+   },
+   "vancouver": {
+    "en": "Vancouver",
+    "l": "Vancouver",
+    "pos": "n.pr."
+   },
+   "voiture": {
+    "en": "car",
+    "l": "voiture",
+    "pos": "n.f."
+   },
+   "échelle": {
+    "en": "scale",
+    "l": "échelle",
+    "pos": "n.f."
+   },
+   "éloignées": {
+    "en": "far apart",
+    "l": "éloigner",
     "pos": "v."
    },
-   "vue": {
-    "en": "seen (feminine)",
-    "l": "voir",
-    "pos": "v."
-   },
-   "étendue": {
-    "en": "expanse, extent",
-    "l": "étendue",
-    "pos": "n.f."
-   },
-   "évaporation": {
-    "en": "evaporation",
-    "l": "évaporation",
-    "pos": "n.f."
+   "états-unis": {
+    "en": "United States",
+    "l": "États-Unis",
+    "pos": "n.pr."
    }
   },
-  "vikidia-egypte-ancienne": {
-   "actuelle": {
+  "vikidia-revolution-francaise": {
+   "absolue": {
+    "en": "absolute",
+    "l": "absolu",
+    "pos": "adj."
+   },
+   "an": {
+    "en": "year",
+    "l": "an",
+    "pos": "n.m."
+   },
+   "ayant": {
+    "en": "having",
+    "l": "avoir",
+    "pos": "v."
+   },
+   "bonaparte": {
+    "en": "Bonaparte",
+    "l": "Bonaparte",
+    "pos": "n.pr."
+   },
+   "bouleversements": {
+    "en": "upheavals",
+    "l": "bouleversement",
+    "pos": "n.m."
+   },
+   "brumaire": {
+    "en": "Brumaire",
+    "l": "brumaire",
+    "pos": "n.m."
+   },
+   "caractérisaient": {
+    "en": "characterised",
+    "l": "caractériser",
+    "pos": "v."
+   },
+   "colonies": {
+    "en": "colonies",
+    "l": "colonie",
+    "pos": "n.f."
+   },
+   "commence": {
+    "en": "begins",
+    "l": "commencer",
+    "pos": "v."
+   },
+   "conduits": {
+    "en": "led",
+    "l": "conduire",
+    "pos": "v."
+   },
+   "connue": {
+    "en": "known",
+    "l": "connaître",
+    "pos": "v."
+   },
+   "considère": {
+    "en": "considers",
+    "l": "considérer",
+    "pos": "v."
+   },
+   "coup": {
+    "en": "blow; coup",
+    "l": "coup",
+    "pos": "n.m."
+   },
+   "créer": {
+    "en": "to create",
+    "l": "créer",
+    "pos": "v."
+   },
+   "demander": {
+    "en": "to require",
+    "l": "demander",
+    "pos": "v."
+   },
+   "dizaine": {
+    "en": "ten or so",
+    "l": "dizaine",
+    "pos": "n.f."
+   },
+   "désigne": {
+    "en": "refers to",
+    "l": "désigner",
+    "pos": "v."
+   },
+   "détruit": {
+    "en": "destroys",
+    "l": "détruire",
+    "pos": "v."
+   },
+   "ensemble": {
+    "en": "whole",
+    "l": "ensemble",
+    "pos": "n.m."
+   },
+   "europe": {
+    "en": "Europe",
+    "l": "Europe",
+    "pos": "n.pr."
+   },
+   "fiscale": {
+    "en": "tax",
+    "l": "fiscal",
+    "pos": "adj."
+   },
+   "fondateur": {
+    "en": "founding",
+    "l": "fondateur",
+    "pos": "adj."
+   },
+   "française": {
+    "en": "French",
+    "l": "français",
+    "pos": "adj."
+   },
+   "généraux": {
+    "en": "general",
+    "l": "général",
+    "pos": "adj."
+   },
+   "idées": {
+    "en": "ideas",
+    "l": "idée",
+    "pos": "n.f."
+   },
+   "influencé": {
+    "en": "influenced",
+    "l": "influencer",
+    "pos": "v."
+   },
+   "injustice": {
+    "en": "injustice",
+    "l": "injustice",
+    "pos": "n.f."
+   },
+   "lumières": {
+    "en": "Enlightenment",
+    "l": "Lumières",
+    "pos": "n.f.pl."
+   },
+   "luttes": {
+    "en": "struggles",
+    "l": "lutte",
+    "pos": "n.f."
+   },
+   "mai": {
+    "en": "May",
+    "l": "mai",
+    "pos": "n.m."
+   },
+   "moderne": {
+    "en": "modern",
+    "l": "moderne",
+    "pos": "adj."
+   },
+   "monarchie": {
+    "en": "monarchy",
+    "l": "monarchie",
+    "pos": "n.f."
+   },
+   "mouvement": {
+    "en": "movement",
+    "l": "mouvement",
+    "pos": "n.m."
+   },
+   "mécontent": {
+    "en": "unhappy",
+    "l": "mécontent",
+    "pos": "adj."
+   },
+   "napoléon": {
+    "en": "Napoleon",
+    "l": "Napoléon",
+    "pos": "n.pr."
+   },
+   "nommée": {
+    "en": "called",
+    "l": "nommer",
+    "pos": "v."
+   },
+   "nouvel": {
+    "en": "new",
+    "l": "nouveau",
+    "pos": "adj."
+   },
+   "nouvelle": {
+    "en": "new",
+    "l": "nouveau",
+    "pos": "adj."
+   },
+   "novembre": {
+    "en": "November",
+    "l": "novembre",
+    "pos": "n.m."
+   },
+   "politico-sociétal": {
+    "en": "political and social",
+    "l": "politico-sociétal",
+    "pos": "adj."
+   },
+   "politique": {
+    "en": "political",
+    "l": "politique",
+    "pos": "adj."
+   },
+   "politiques": {
+    "en": "political",
+    "l": "politique",
+    "pos": "adj."
+   },
+   "population": {
+    "en": "population",
+    "l": "population",
+    "pos": "n.f."
+   },
+   "reconstruction": {
+    "en": "rebuilding",
+    "l": "reconstruction",
+    "pos": "n.f."
+   },
+   "régime": {
+    "en": "regime",
+    "l": "régime",
+    "pos": "n.m."
+   },
+   "réunion": {
+    "en": "meeting",
+    "l": "réunion",
+    "pos": "n.f."
+   },
+   "révolution": {
+    "en": "revolution",
+    "l": "révolution",
+    "pos": "n.f."
+   },
+   "sein": {
+    "en": "within",
+    "l": "sein",
+    "pos": "n.m."
+   },
+   "simplement": {
+    "en": "simply",
+    "l": "simplement",
+    "pos": "adv."
+   },
+   "sociale": {
+    "en": "social",
+    "l": "social",
+    "pos": "adj."
+   },
+   "sociales": {
+    "en": "social",
+    "l": "social",
+    "pos": "adj."
+   },
+   "sociaux": {
+    "en": "social",
+    "l": "social",
+    "pos": "adj."
+   },
+   "stabilisation": {
+    "en": "stabilisation",
+    "l": "stabilisation",
+    "pos": "n.f."
+   },
+   "subit": {
+    "en": "suffers",
+    "l": "subir",
+    "pos": "v."
+   },
+   "termine": {
+    "en": "ends",
+    "l": "terminer",
+    "pos": "v."
+   },
+   "tiers": {
+    "en": "third",
+    "l": "tiers",
+    "pos": "adj."
+   },
+   "viii": {
+    "en": "VIII",
+    "l": "VIII",
+    "pos": "n.pr."
+   },
+   "vont": {
+    "en": "will",
+    "l": "aller",
+    "pos": "v."
+   },
+   "établissement": {
+    "en": "establishment",
+    "l": "établissement",
+    "pos": "n.m."
+   },
+   "état": {
+    "en": "state",
+    "l": "état",
+    "pos": "n.m."
+   },
+   "états": {
+    "en": "states",
+    "l": "état",
+    "pos": "n.m."
+   },
+   "événement": {
+    "en": "event",
+    "l": "événement",
+    "pos": "n.m."
+   },
+   "événements": {
+    "en": "events",
+    "l": "événement",
+    "pos": "n.m."
+   }
+  },
+  "vikidia-dinosaure": {
+   "actuel": {
     "en": "current, present-day",
     "l": "actuel",
-    "pos": "adj.f."
+    "pos": "adj.m."
    },
-   "ancienne": {
-    "en": "ancient, former",
-    "l": "ancien",
-    "pos": "adj.f."
+   "animaux": {
+    "en": "animals",
+    "l": "animal",
+    "pos": "n.m.pl."
    },
-   "antique": {
-    "en": "ancient",
-    "l": "antique",
-    "pos": "adj."
+   "apparus": {
+    "en": "appeared",
+    "l": "apparaître",
+    "pos": "v."
+   },
+   "aucun": {
+    "en": "no, not any",
+    "l": "aucun",
+    "pos": "det."
    },
    "aujourd'": {
     "en": "today",
     "l": "aujourd'hui",
     "pos": "adv."
    },
-   "av": {
-    "en": "before",
-    "l": "avant",
-    "pos": "prep."
+   "autrefois": {
+    "en": "in the past",
+    "l": "autrefois",
+    "pos": "adv."
    },
-   "caractéristiques": {
-    "en": "characteristics",
-    "l": "caractéristique",
-    "pos": "n.f.pl."
-   },
-   "civilisation": {
-    "en": "civilisation",
-    "l": "civilisation",
+   "cause": {
+    "en": "cause",
+    "l": "cause",
     "pos": "n.f."
    },
-   "cléopâtre": {
-    "en": "Cleopatra",
-    "l": "Cléopâtre",
-    "pos": "name"
+   "cependant": {
+    "en": "however",
+    "l": "cependant",
+    "pos": "adv."
    },
-   "conquête": {
-    "en": "conquest",
-    "l": "conquête",
-    "pos": "n.f."
+   "cherchent": {
+    "en": "look for, try to find",
+    "l": "chercher",
+    "pos": "v."
    },
-   "culturelles": {
-    "en": "cultural",
-    "l": "culturel",
-    "pos": "adj.f.pl."
+   "connaît": {
+    "en": "knows",
+    "l": "connaître",
+    "pos": "v."
    },
-   "dieux": {
-    "en": "gods",
-    "l": "dieu",
+   "connu": {
+    "en": "known",
+    "l": "connaître",
+    "pos": "adj.m."
+   },
+   "cousins": {
+    "en": "cousins",
+    "l": "cousin",
     "pos": "n.m.pl."
    },
-   "dirigée": {
-    "en": "ruled, led",
-    "l": "diriger",
-    "pos": "v."
+   "crétacé": {
+    "en": "Cretaceous",
+    "l": "Crétacé",
+    "pos": "name"
    },
-   "dédiés": {
-    "en": "dedicated",
-    "l": "dédier",
+   "dinosaure": {
+    "en": "dinosaur",
+    "l": "dinosaure",
+    "pos": "n.m."
+   },
+   "dinosaures": {
+    "en": "dinosaurs",
+    "l": "dinosaure",
+    "pos": "n.m.pl."
+   },
+   "disparu": {
+    "en": "disappeared",
+    "l": "disparaître",
+    "pos": "adj.m."
+   },
+   "disparus": {
+    "en": "extinct, disappeared",
+    "l": "disparaître",
     "pos": "adj.m.pl."
    },
-   "développe": {
-    "en": "develops",
-    "l": "se développer",
+   "découvrent": {
+    "en": "discover",
+    "l": "découvrir",
     "pos": "v."
+   },
+   "extinction": {
+    "en": "extinction",
+    "l": "extinction",
+    "pos": "n.f."
+   },
+   "fossiles": {
+    "en": "fossils",
+    "l": "fossile",
+    "pos": "n.m.pl."
    },
    "hui": {
     "en": "today",
     "l": "aujourd'hui",
     "pos": "adv."
    },
-   "humanité": {
-    "en": "humanity",
-    "l": "humanité",
-    "pos": "n.f."
+   "humains": {
+    "en": "humans",
+    "l": "humain",
+    "pos": "n.m.pl."
    },
-   "ii": {
-    "en": "II",
-    "l": "II",
-    "pos": "numeral"
+   "longtemps": {
+    "en": "for a long time",
+    "l": "longtemps",
+    "pos": "adv."
    },
-   "j-c": {
-    "en": "Jesus Christ",
-    "l": "Jésus-Christ",
-    "pos": "abbrev."
-   },
-   "long": {
-    "en": "along",
-    "l": "long",
-    "pos": "prep."
-   },
-   "longévité": {
-    "en": "longevity",
-    "l": "longévité",
-    "pos": "n.f."
-   },
-   "lorsque": {
-    "en": "when",
-    "l": "lorsque",
-    "pos": "conj."
-   },
-   "marqué": {
-    "en": "marked",
+   "marquant": {
+    "en": "marking",
     "l": "marquer",
     "pos": "v."
    },
-   "nil": {
-    "en": "Nile",
-    "l": "Nil",
+   "mexique": {
+    "en": "Mexico",
+    "l": "Mexique",
     "pos": "name"
    },
-   "pharaons": {
-    "en": "pharaohs",
-    "l": "pharaon",
-    "pos": "n.m.pl."
-   },
-   "prend": {
-    "en": "takes",
-    "l": "prendre",
-    "pos": "v."
-   },
-   "pyramides": {
-    "en": "pyramids",
-    "l": "pyramide",
-    "pos": "n.f.pl."
-   },
-   "ramsès": {
-    "en": "Ramses",
-    "l": "Ramsès",
+   "mésozoïque": {
+    "en": "Mesozoic",
+    "l": "Mésozoïque",
     "pos": "name"
    },
-   "reines": {
-    "en": "queens",
-    "l": "reine",
-    "pos": "n.f.pl."
+   "météorite": {
+    "en": "meteorite",
+    "l": "météorite",
+    "pos": "n.f."
    },
-   "religieuses": {
-    "en": "religious",
-    "l": "religieux",
-    "pos": "adj.f.pl."
-   },
-   "remplacée": {
-    "en": "replaced",
-    "l": "remplacer",
-    "pos": "v."
-   },
-   "rois": {
-    "en": "kings",
-    "l": "roi",
+   "passionnés": {
+    "en": "enthusiasts",
+    "l": "passionné",
     "pos": "n.m.pl."
    },
-   "tels": {
-    "en": "such as",
-    "l": "tel",
+   "pouvaient": {
+    "en": "could",
+    "l": "pouvoir",
+    "pos": "v."
+   },
+   "premiers": {
+    "en": "first",
+    "l": "premier",
     "pos": "adj.m.pl."
    },
-   "temples": {
-    "en": "temples",
-    "l": "temple",
+   "quoi": {
+    "en": "what",
+    "l": "quoi",
+    "pos": "pron."
+   },
+   "rassemble": {
+    "en": "brings together",
+    "l": "rassembler",
+    "pos": "v."
+   },
+   "ressemblaient": {
+    "en": "looked like",
+    "l": "ressembler",
+    "pos": "v."
+   },
+   "rêver": {
+    "en": "to make dream",
+    "l": "rêver",
+    "pos": "v."
+   },
+   "savoir": {
+    "en": "to know, find out",
+    "l": "savoir",
+    "pos": "v."
+   },
+   "scientifiques": {
+    "en": "scientists",
+    "l": "scientifique",
     "pos": "n.m.pl."
    },
-   "tombeaux": {
-    "en": "tombs",
-    "l": "tombeau",
-    "pos": "n.m.pl."
-   },
-   "toutânkhamon": {
-    "en": "Tutankhamun",
-    "l": "Toutânkhamon",
-    "pos": "name"
-   },
-   "vestiges": {
-    "en": "remains, ruins",
-    "l": "vestige",
-    "pos": "n.m.pl."
-   },
-   "vii": {
-    "en": "VII",
-    "l": "VII",
-    "pos": "numeral"
-   },
-   "également": {
-    "en": "also",
-    "l": "également",
+   "vraisemblablement": {
+    "en": "probably",
+    "l": "vraisemblablement",
     "pos": "adv."
    },
-   "égypte": {
-    "en": "Egypt",
-    "l": "Égypte",
-    "pos": "name"
+   "ère": {
+    "en": "era",
+    "l": "ère",
+    "pos": "n.f."
+   },
+   "énormes": {
+    "en": "enormous",
+    "l": "énorme",
+    "pos": "adj.pl."
+   },
+   "êtres": {
+    "en": "beings",
+    "l": "être",
+    "pos": "n.m.pl."
+   }
+  },
+  "vikidia-montagne": {
+   "adret": {
+    "en": "sunny side of a mountain",
+    "l": "adret",
+    "pos": "n.m."
+   },
+   "altitude": {
+    "en": "altitude",
+    "l": "altitude",
+    "pos": "n.f."
+   },
+   "autant": {
+    "en": "as much, so much",
+    "l": "autant",
+    "pos": "adv."
+   },
+   "composée": {
+    "en": "made up",
+    "l": "composer",
+    "pos": "v."
+   },
+   "constitue": {
+    "en": "constitutes",
+    "l": "constituer",
+    "pos": "v."
+   },
+   "créé": {
+    "en": "created",
+    "l": "créer",
+    "pos": "v."
+   },
+   "due": {
+    "en": "due, caused by",
+    "l": "devoir",
+    "pos": "adj.f."
+   },
+   "durer": {
+    "en": "to last",
+    "l": "durer",
+    "pos": "v."
+   },
+   "dénivellations": {
+    "en": "differences in height",
+    "l": "dénivellation",
+    "pos": "n.f.pl."
+   },
+   "eaux": {
+    "en": "waters, water",
+    "l": "eau",
+    "pos": "n.f.pl."
+   },
+   "effet": {
+    "en": "fact, effect",
+    "l": "effet",
+    "pos": "n.m."
+   },
+   "entrechoquent": {
+    "en": "collide",
+    "l": "s'entrechoquer",
+    "pos": "v."
+   },
+   "exposée": {
+    "en": "exposed",
+    "l": "exposer",
+    "pos": "v."
+   },
+   "face": {
+    "en": "side, face",
+    "l": "face",
+    "pos": "n.f."
+   },
+   "faces": {
+    "en": "sides, faces",
+    "l": "face",
+    "pos": "n.f.pl."
+   },
+   "force": {
+    "en": "force",
+    "l": "force",
+    "pos": "n.f."
+   },
+   "formation": {
+    "en": "formation",
+    "l": "formation",
+    "pos": "n.f."
+   },
+   "grande": {
+    "en": "large, great",
+    "l": "grand",
+    "pos": "adj.f."
+   },
+   "importantes": {
+    "en": "important",
+    "l": "important",
+    "pos": "adj.f.pl."
+   },
+   "inclinées": {
+    "en": "inclined, steep",
+    "l": "incliner",
+    "pos": "v."
+   },
+   "montagne": {
+    "en": "mountain",
+    "l": "montagne",
+    "pos": "n.f."
+   },
+   "montagnes": {
+    "en": "mountains",
+    "l": "montagne",
+    "pos": "n.f.pl."
+   },
+   "mouvements": {
+    "en": "movements",
+    "l": "mouvement",
+    "pos": "n.m.pl."
+   },
+   "ombre": {
+    "en": "shade, shadow",
+    "l": "ombre",
+    "pos": "n.f."
+   },
+   "pentes": {
+    "en": "slopes",
+    "l": "pente",
+    "pos": "n.f.pl."
+   },
+   "plusieurs": {
+    "en": "several",
+    "l": "plusieurs",
+    "pos": "det."
+   },
+   "processus": {
+    "en": "process",
+    "l": "processus",
+    "pos": "n.m."
+   },
+   "proches": {
+    "en": "close, near",
+    "l": "proche",
+    "pos": "adj.pl."
+   },
+   "production": {
+    "en": "production",
+    "l": "production",
+    "pos": "n.f."
+   },
+   "provoquer": {
+    "en": "to cause",
+    "l": "provoquer",
+    "pos": "v."
+   },
+   "précipitations": {
+    "en": "precipitation",
+    "l": "précipitation",
+    "pos": "n.f.pl."
+   },
+   "relief": {
+    "en": "landform, terrain",
+    "l": "relief",
+    "pos": "n.m."
+   },
+   "sol": {
+    "en": "ground, soil",
+    "l": "sol",
+    "pos": "n.m."
+   },
+   "soleil": {
+    "en": "Sun, sunshine",
+    "l": "soleil",
+    "pos": "n.m."
+   },
+   "source": {
+    "en": "source, spring",
+    "l": "source",
+    "pos": "n.f."
+   },
+   "sources": {
+    "en": "sources, springs",
+    "l": "source",
+    "pos": "n.f.pl."
+   },
+   "terrestre": {
+    "en": "earthly, terrestrial",
+    "l": "terrestre",
+    "pos": "adj."
+   },
+   "torrents": {
+    "en": "mountain streams",
+    "l": "torrent",
+    "pos": "n.m.pl."
+   },
+   "ubac": {
+    "en": "shady side of a mountain",
+    "l": "ubac",
+    "pos": "n.m."
+   },
+   "verticale": {
+    "en": "vertical",
+    "l": "vertical",
+    "pos": "adj.f."
+   },
+   "écorce": {
+    "en": "crust, bark",
+    "l": "écorce",
+    "pos": "n.f."
+   },
+   "écoulant": {
+    "en": "flowing",
+    "l": "s'écouler",
+    "pos": "v."
+   },
+   "élevée": {
+    "en": "high, raised",
+    "l": "élever",
+    "pos": "adj.f."
+   },
+   "élévation": {
+    "en": "rise, elevation",
+    "l": "élévation",
+    "pos": "n.f."
+   },
+   "énergie": {
+    "en": "energy",
+    "l": "énergie",
+    "pos": "n.f."
    }
   },
   "vikidia-pain": {
@@ -9673,438 +10253,460 @@
     "pos": "n.f."
    }
   },
-  "vikidia-mars": {
-   "abondance": {
-    "en": "abundance",
-    "l": "abondance",
+  "vikidia-rechauffement-climatique": {
+   "actuelle": {
+    "en": "current",
+    "l": "actuel",
+    "pos": "adj.f."
+   },
+   "anormale": {
+    "en": "abnormal",
+    "l": "anormal",
+    "pos": "adj.f."
+   },
+   "atmosphère": {
+    "en": "atmosphere",
+    "l": "atmosphère",
     "pos": "n.f."
    },
-   "après": {
-    "en": "after",
-    "l": "après",
-    "pos": "prep."
+   "augmentation": {
+    "en": "increase",
+    "l": "augmentation",
+    "pos": "n.f."
    },
-   "astronomique": {
-    "en": "astronomical",
-    "l": "astronomique",
-    "pos": "adj."
+   "augmente": {
+    "en": "increases",
+    "l": "augmenter",
+    "pos": "v."
    },
-   "c": {
-    "en": "C",
-    "l": "C",
-    "pos": "n.pr."
+   "catastrophes": {
+    "en": "disasters",
+    "l": "catastrophe",
+    "pos": "n.f.pl."
    },
-   "carbonique": {
-    "en": "carbonic",
-    "l": "carbonique",
-    "pos": "adj."
+   "causé": {
+    "en": "caused",
+    "l": "causer",
+    "pos": "v."
    },
-   "ciel": {
-    "en": "sky",
-    "l": "ciel",
+   "changement": {
+    "en": "change",
+    "l": "changement",
     "pos": "n.m."
    },
-   "co2": {
-    "en": "CO2",
-    "l": "CO2",
-    "pos": "n.m."
-   },
-   "couleur": {
-    "en": "colour",
-    "l": "couleur",
-    "pos": "n.f."
-   },
-   "donnée": {
-    "en": "given",
-    "l": "donner",
-    "pos": "v.pp.f."
-   },
-   "déimos": {
-    "en": "Deimos",
-    "l": "Déimos",
-    "pos": "n.pr."
-   },
-   "facile": {
-    "en": "easy",
-    "l": "facile",
+   "climatique": {
+    "en": "climate",
+    "l": "climatique",
     "pos": "adj."
    },
-   "galilée": {
-    "en": "Galileo",
-    "l": "Galilée",
-    "pos": "n.pr."
+   "climats": {
+    "en": "climates",
+    "l": "climat",
+    "pos": "n.m.pl."
    },
-   "gelé": {
-    "en": "frozen",
-    "l": "geler",
-    "pos": "v.pp."
+   "combustibles": {
+    "en": "fuels",
+    "l": "combustible",
+    "pos": "n.m.pl."
    },
-   "glace": {
-    "en": "ice",
-    "l": "glace",
+   "combustion": {
+    "en": "burning, combustion",
+    "l": "combustion",
     "pos": "n.f."
    },
-   "gravité": {
-    "en": "gravity",
-    "l": "gravité",
-    "pos": "n.f."
-   },
-   "iième": {
+   "deuxième": {
     "en": "second",
     "l": "deuxième",
     "pos": "adj."
    },
-   "j": {
-    "en": "J",
-    "l": "J",
-    "pos": "n.pr."
+   "due": {
+    "en": "due",
+    "l": "devoir",
+    "pos": "adj.f."
    },
-   "kg": {
-    "en": "kilograms",
-    "l": "kilogramme",
-    "pos": "n.m."
-   },
-   "kilomètres": {
-    "en": "kilometres",
-    "l": "kilomètre",
-    "pos": "n.m.pl."
-   },
-   "lunes": {
-    "en": "moons",
-    "l": "lune",
+   "décennies": {
+    "en": "decades",
+    "l": "décennie",
     "pos": "n.f.pl."
    },
-   "lunette": {
-    "en": "telescope",
-    "l": "lunette",
-    "pos": "n.f."
+   "désigne": {
+    "en": "refers to",
+    "l": "désigner",
+    "pos": "v."
    },
-   "millénaire": {
-    "en": "millennium",
-    "l": "millénaire",
+   "effet": {
+    "en": "effect",
+    "l": "effet",
     "pos": "n.m."
    },
-   "naturels": {
-    "en": "natural",
-    "l": "naturel",
-    "pos": "adj.m.pl."
-   },
-   "neige": {
-    "en": "snow",
-    "l": "neige",
-    "pos": "n.f."
-   },
-   "nu": {
-    "en": "naked",
-    "l": "nu",
-    "pos": "adj.m."
-   },
-   "objets": {
-    "en": "objects",
-    "l": "objet",
-    "pos": "n.m.pl."
-   },
-   "observa": {
-    "en": "observed",
-    "l": "observer",
-    "pos": "v.past."
-   },
-   "observée": {
-    "en": "observed",
-    "l": "observer",
-    "pos": "v.pp.f."
-   },
-   "oxyde": {
-    "en": "oxide",
-    "l": "oxyde",
-    "pos": "n.m."
-   },
-   "pesait": {
-    "en": "weighed",
-    "l": "peser",
-    "pos": "v.imp."
-   },
-   "phobos": {
-    "en": "Phobos",
-    "l": "Phobos",
-    "pos": "n.pr."
-   },
-   "poids": {
-    "en": "weight",
-    "l": "poids",
-    "pos": "n.m."
-   },
-   "pôles": {
-    "en": "poles",
-    "l": "pôle",
-    "pos": "n.m.pl."
-   },
-   "quatrième": {
-    "en": "fourth",
-    "l": "quatrième",
-    "pos": "adj."
-   },
-   "respectivement": {
-    "en": "respectively",
-    "l": "respectivement",
+   "exclusivement": {
+    "en": "exclusively",
+    "l": "exclusivement",
     "pos": "adv."
    },
-   "retrouvés": {
-    "en": "found",
-    "l": "retrouver",
-    "pos": "v.pp.m.pl."
-   },
-   "rouge": {
-    "en": "red",
-    "l": "rouge",
-    "pos": "adj."
-   },
-   "rouille": {
-    "en": "rust",
-    "l": "rouille",
+   "expression": {
+    "en": "expression",
+    "l": "expression",
     "pos": "n.f."
    },
-   "satellites": {
-    "en": "satellites",
-    "l": "satellite",
+   "fossiles": {
+    "en": "fossil",
+    "l": "fossile",
+    "pos": "adj.pl."
+   },
+   "humains": {
+    "en": "humans",
+    "l": "humain",
     "pos": "n.m.pl."
+   },
+   "industrielle": {
+    "en": "industrial",
+    "l": "industriel",
+    "pos": "adj.f."
+   },
+   "intensification": {
+    "en": "intensification",
+    "l": "intensification",
+    "pos": "n.f."
+   },
+   "modifie": {
+    "en": "changes",
+    "l": "modifier",
+    "pos": "v."
+   },
+   "moyenne": {
+    "en": "average",
+    "l": "moyen",
+    "pos": "adj.f."
+   },
+   "naturelles": {
+    "en": "natural",
+    "l": "naturel",
+    "pos": "adj.f.pl."
+   },
+   "produire": {
+    "en": "to produce",
+    "l": "produire",
+    "pos": "v."
+   },
+   "provoquée": {
+    "en": "caused",
+    "l": "provoquer",
+    "pos": "v."
+   },
+   "rapide": {
+    "en": "rapid, fast",
+    "l": "rapide",
+    "pos": "adj."
+   },
+   "responsable": {
+    "en": "responsible",
+    "l": "responsable",
+    "pos": "adj."
+   },
+   "réchauffement": {
+    "en": "warming",
+    "l": "réchauffement",
+    "pos": "n.m."
+   },
+   "révolution": {
+    "en": "revolution",
+    "l": "révolution",
+    "pos": "n.f."
+   },
+   "serre": {
+    "en": "greenhouse",
+    "l": "serre",
+    "pos": "n.f."
    },
    "seulement": {
     "en": "only",
     "l": "seulement",
     "pos": "adv."
    },
-   "solaire": {
-    "en": "solar",
-    "l": "solaire",
-    "pos": "adj."
+   "température": {
+    "en": "temperature",
+    "l": "température",
+    "pos": "n.f."
    },
-   "soleil": {
-    "en": "Sun",
-    "l": "Soleil",
-    "pos": "n.pr."
+   "usines": {
+    "en": "factories",
+    "l": "usine",
+    "pos": "n.f.pl."
    },
-   "système": {
-    "en": "system",
-    "l": "système",
-    "pos": "n.m."
+   "xixe": {
+    "en": "19th",
+    "l": "XIXe",
+    "pos": "ordinal"
    },
-   "œil": {
-    "en": "eye",
-    "l": "œil",
-    "pos": "n.m."
+   "énergie": {
+    "en": "energy",
+    "l": "énergie",
+    "pos": "n.f."
+   },
+   "êtres": {
+    "en": "beings",
+    "l": "être",
+    "pos": "n.m.pl."
    }
   },
-  "vikidia-architecture": {
-   "abord": {
+  "vikidia-elephant": {
+   "actuellement": {
+    "en": "currently",
+    "l": "actuellement",
+    "pos": "adv."
+   },
+   "animaux": {
+    "en": "animals",
+    "l": "animal",
+    "pos": "n.m."
+   },
+   "après": {
+    "en": "after",
+    "l": "après",
+    "pos": "prep."
+   },
+   "assez": {
+    "en": "rather, quite",
+    "l": "assez",
+    "pos": "adv."
+   },
+   "barrissement": {
+    "en": "trumpeting (an elephant's cry)",
+    "l": "barrissement",
+    "pos": "n.m."
+   },
+   "cela": {
+    "en": "that, this",
+    "l": "cela",
+    "pos": "pron."
+   },
+   "chez": {
+    "en": "among, in",
+    "l": "chez",
+    "pos": "prep."
+   },
+   "cri": {
+    "en": "cry, call",
+    "l": "cri",
+    "pos": "n.m."
+   },
+   "derme": {
+    "en": "skin (root)",
+    "l": "derme",
+    "pos": "n.m."
+   },
+   "donne": {
+    "en": "gives (birth)",
+    "l": "donner",
+    "pos": "v."
+   },
+   "entend": {
+    "en": "hears",
+    "l": "entendre",
+    "pos": "v."
+   },
+   "faible": {
+    "en": "weak",
+    "l": "faible",
+    "pos": "adj."
+   },
+   "gardé": {
+    "en": "kept",
+    "l": "garder",
+    "pos": "v."
+   },
+   "grandes": {
+    "en": "large",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "grec": {
+    "en": "Greek",
+    "l": "grec",
+    "pos": "adj."
+   },
+   "haut": {
+    "en": "high",
+    "l": "haut",
+    "pos": "adj."
+   },
+   "herbivores": {
+    "en": "herbivorous",
+    "l": "herbivore",
+    "pos": "adj."
+   },
+   "mesure": {
+    "en": "measures",
+    "l": "mesurer",
+    "pos": "v."
+   },
+   "mois": {
+    "en": "months",
+    "l": "mois",
+    "pos": "n.m."
+   },
+   "moyenne": {
+    "en": "average",
+    "l": "moyenne",
+    "pos": "n.f."
+   },
+   "mâle": {
+    "en": "male",
+    "l": "mâle",
+    "pos": "n.m."
+   },
+   "naissance": {
+    "en": "birth",
+    "l": "naissance",
+    "pos": "n.f."
+   },
+   "odorat": {
+    "en": "sense of smell",
+    "l": "odorat",
+    "pos": "n.m."
+   },
+   "oreilles": {
+    "en": "ears",
+    "l": "oreille",
+    "pos": "n.f."
+   },
+   "pachy": {
+    "en": "thick (Greek root)",
+    "l": "pachy",
+    "pos": "root"
+   },
+   "pachydermes": {
+    "en": "pachyderms",
+    "l": "pachyderme",
+    "pos": "n.m."
+   },
+   "peau": {
+    "en": "skin",
+    "l": "peau",
+    "pos": "n.f."
+   },
+   "pèse": {
+    "en": "weighs",
+    "l": "peser",
+    "pos": "v."
+   },
+   "signifiant": {
+    "en": "meaning",
+    "l": "signifier",
+    "pos": "v."
+   },
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tonne",
+    "pos": "n.f."
+   },
+   "trompe": {
+    "en": "trunk",
+    "l": "trompe",
+    "pos": "n.f."
+   },
+   "ventre": {
+    "en": "belly",
+    "l": "ventre",
+    "pos": "n.m."
+   },
+   "vivant": {
+    "en": "living",
+    "l": "vivre",
+    "pos": "adj."
+   },
+   "vue": {
+    "en": "sight",
+    "l": "vue",
+    "pos": "n.f."
+   },
+   "yeux": {
+    "en": "eyes",
+    "l": "oeuil",
+    "pos": "n.m."
+   },
+   "éléphants": {
+    "en": "elephants",
+    "l": "éléphant",
+    "pos": "n.m."
+   },
+   "épais": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaisse": {
+    "en": "thick",
+    "l": "épais",
+    "pos": "adj."
+   },
+   "épaule": {
+    "en": "shoulder",
+    "l": "épaule",
+    "pos": "n.f."
+   }
+  },
+  "vikidia-halloween": {
+   "1er": {
     "en": "first",
-    "l": "abord",
+    "l": "premier",
+    "pos": "adj.m."
+   },
+   "anglo-saxon": {
+    "en": "English-speaking",
+    "l": "anglo-saxon",
+    "pos": "adj.m."
+   },
+   "déroule": {
+    "en": "takes place",
+    "l": "dérouler",
+    "pos": "v."
+   },
+   "fête": {
+    "en": "celebration",
+    "l": "fête",
+    "pos": "n.f."
+   },
+   "fêtée": {
+    "en": "celebrated",
+    "l": "fêter",
+    "pos": "v."
+   },
+   "halloween": {
+    "en": "Halloween",
+    "l": "Halloween",
+    "pos": "n.pr."
+   },
+   "novembre": {
+    "en": "November",
+    "l": "novembre",
+    "pos": "n.m."
+   },
+   "nuit": {
+    "en": "night",
+    "l": "nuit",
+    "pos": "n.f."
+   },
+   "octobre": {
+    "en": "October",
+    "l": "octobre",
+    "pos": "n.m."
+   },
+   "principalement": {
+    "en": "mainly",
+    "l": "principalement",
     "pos": "adv."
    },
-   "accompagnés": {
-    "en": "accompanied",
-    "l": "accompagner",
-    "pos": "v."
+   "toussaint": {
+    "en": "All Saints' Day",
+    "l": "Toussaint",
+    "pos": "n.pr."
    },
-   "architectes": {
-    "en": "architects",
-    "l": "architecte",
-    "pos": "n."
-   },
-   "architecture": {
-    "en": "architecture",
-    "l": "architecture",
+   "veille": {
+    "en": "evening before",
+    "l": "veille",
     "pos": "n.f."
-   },
-   "arts": {
-    "en": "arts",
-    "l": "art",
-    "pos": "n.m."
-   },
-   "bureau": {
-    "en": "office",
-    "l": "bureau",
-    "pos": "n.m."
-   },
-   "chantier": {
-    "en": "building site",
-    "l": "chantier",
-    "pos": "n.m."
-   },
-   "chargée": {
-    "en": "in charge of",
-    "l": "charger",
-    "pos": "adj."
-   },
-   "charpente": {
-    "en": "timber frame",
-    "l": "charpente",
-    "pos": "n.f."
-   },
-   "chef": {
-    "en": "manager, chief",
-    "l": "chef",
-    "pos": "n.m."
-   },
-   "client": {
-    "en": "client",
-    "l": "client",
-    "pos": "n.m."
-   },
-   "conclura": {
-    "en": "will complete",
-    "l": "conclure",
-    "pos": "v."
-   },
-   "concrétise": {
-    "en": "becomes real",
-    "l": "concrétiser",
-    "pos": "v."
-   },
-   "construction": {
-    "en": "construction",
-    "l": "construction",
-    "pos": "n.f."
-   },
-   "construira": {
-    "en": "will build",
-    "l": "construire",
-    "pos": "v."
-   },
-   "demandé": {
-    "en": "requested",
-    "l": "demander",
-    "pos": "adj."
-   },
-   "devis": {
-    "en": "estimate, quote",
-    "l": "devis",
-    "pos": "n.m."
-   },
-   "enfin": {
-    "en": "finally",
-    "l": "enfin",
-    "pos": "adv."
-   },
-   "entreprise": {
-    "en": "company",
-    "l": "entreprise",
-    "pos": "n.f."
-   },
-   "espace": {
-    "en": "space",
-    "l": "espace",
-    "pos": "n.m."
-   },
-   "faire": {
-    "en": "to make, to do",
-    "l": "faire",
-    "pos": "v."
-   },
-   "fournir": {
-    "en": "to provide",
-    "l": "fournir",
-    "pos": "v."
-   },
-   "géomètres": {
-    "en": "surveyors",
-    "l": "géomètre",
-    "pos": "n.m."
-   },
-   "habitation": {
-    "en": "home, dwelling",
-    "l": "habitation",
-    "pos": "n.f."
-   },
-   "imaginer": {
-    "en": "to imagine",
-    "l": "imaginer",
-    "pos": "v."
-   },
-   "informations": {
-    "en": "information",
-    "l": "information",
-    "pos": "n.f."
-   },
-   "lieu": {
-    "en": "place",
-    "l": "lieu",
-    "pos": "n.m."
-   },
-   "majeurs": {
-    "en": "major",
-    "l": "majeur",
-    "pos": "adj."
-   },
-   "maçonnerie": {
-    "en": "masonry",
-    "l": "maçonnerie",
-    "pos": "n.f."
-   },
-   "plans": {
-    "en": "plans",
-    "l": "plan",
-    "pos": "n.m."
-   },
-   "projet": {
-    "en": "project",
-    "l": "projet",
-    "pos": "n.m."
-   },
-   "retrouve": {
-    "en": "meets again",
-    "l": "retrouver",
-    "pos": "v."
-   },
-   "sept": {
-    "en": "seven",
-    "l": "sept",
-    "pos": "num."
-   },
-   "sociétés": {
-    "en": "companies",
-    "l": "société",
-    "pos": "n.f."
-   },
-   "terminés": {
-    "en": "finished",
-    "l": "terminer",
-    "pos": "adj."
-   },
-   "topographes": {
-    "en": "topographers",
-    "l": "topographe",
-    "pos": "n.m."
-   },
-   "transmettre": {
-    "en": "to pass on",
-    "l": "transmettre",
-    "pos": "v."
-   },
-   "travail": {
-    "en": "work",
-    "l": "travail",
-    "pos": "n.m."
-   },
-   "travaille": {
-    "en": "works",
-    "l": "travailler",
-    "pos": "v."
-   },
-   "travaux": {
-    "en": "work, construction",
-    "l": "travaux",
-    "pos": "n.m.pl."
-   },
-   "vont": {
-    "en": "go",
-    "l": "aller",
-    "pos": "v."
-   },
-   "vérifier": {
-    "en": "to check",
-    "l": "vérifier",
-    "pos": "v."
    }
   },
   "vikidia-lion": {
@@ -10389,530 +10991,705 @@
     "pos": "adj."
    }
   },
-  "vikidia-halloween": {
-   "1er": {
-    "en": "first",
-    "l": "premier",
-    "pos": "adj.m."
-   },
-   "anglo-saxon": {
-    "en": "English-speaking",
-    "l": "anglo-saxon",
-    "pos": "adj.m."
-   },
-   "déroule": {
-    "en": "takes place",
-    "l": "dérouler",
+  "vikidia-ocean": {
+   "absorbe": {
+    "en": "absorbs",
+    "l": "absorber",
     "pos": "v."
    },
-   "fête": {
-    "en": "celebration",
-    "l": "fête",
-    "pos": "n.f."
-   },
-   "fêtée": {
-    "en": "celebrated",
-    "l": "fêter",
-    "pos": "v."
-   },
-   "halloween": {
-    "en": "Halloween",
-    "l": "Halloween",
-    "pos": "n.pr."
-   },
-   "novembre": {
-    "en": "November",
-    "l": "novembre",
-    "pos": "n.m."
-   },
-   "nuit": {
-    "en": "night",
-    "l": "nuit",
-    "pos": "n.f."
-   },
-   "octobre": {
-    "en": "October",
-    "l": "octobre",
-    "pos": "n.m."
-   },
-   "principalement": {
-    "en": "mainly",
-    "l": "principalement",
-    "pos": "adv."
-   },
-   "toussaint": {
-    "en": "All Saints' Day",
-    "l": "Toussaint",
-    "pos": "n.pr."
-   },
-   "veille": {
-    "en": "evening before",
-    "l": "veille",
-    "pos": "n.f."
-   }
-  },
-  "vikidia-dinosaure": {
-   "actuel": {
-    "en": "current, present-day",
-    "l": "actuel",
-    "pos": "adj.m."
-   },
-   "animaux": {
-    "en": "animals",
-    "l": "animal",
-    "pos": "n.m.pl."
-   },
-   "apparus": {
-    "en": "appeared",
+   "apparait": {
+    "en": "appears",
     "l": "apparaître",
     "pos": "v."
    },
-   "aucun": {
-    "en": "no, not any",
-    "l": "aucun",
-    "pos": "det."
+   "bleu-vert": {
+    "en": "blue-green",
+    "l": "bleu-vert",
+    "pos": "adj."
    },
-   "aujourd'": {
-    "en": "today",
-    "l": "aujourd'hui",
-    "pos": "adv."
+   "bleue": {
+    "en": "blue (feminine)",
+    "l": "bleu",
+    "pos": "adj."
    },
-   "autrefois": {
-    "en": "in the past",
-    "l": "autrefois",
-    "pos": "adv."
-   },
-   "cause": {
-    "en": "cause",
-    "l": "cause",
-    "pos": "n.f."
-   },
-   "cependant": {
-    "en": "however",
-    "l": "cependant",
-    "pos": "adv."
-   },
-   "cherchent": {
-    "en": "look for, try to find",
-    "l": "chercher",
-    "pos": "v."
-   },
-   "connaît": {
-    "en": "knows",
-    "l": "connaître",
-    "pos": "v."
-   },
-   "connu": {
-    "en": "known",
-    "l": "connaître",
-    "pos": "adj.m."
-   },
-   "cousins": {
-    "en": "cousins",
-    "l": "cousin",
-    "pos": "n.m.pl."
-   },
-   "crétacé": {
-    "en": "Cretaceous",
-    "l": "Crétacé",
-    "pos": "name"
-   },
-   "dinosaure": {
-    "en": "dinosaur",
-    "l": "dinosaure",
+   "ciel": {
+    "en": "sky",
+    "l": "ciel",
     "pos": "n.m."
    },
-   "dinosaures": {
-    "en": "dinosaurs",
-    "l": "dinosaure",
-    "pos": "n.m.pl."
+   "climat": {
+    "en": "climate",
+    "l": "climat",
+    "pos": "n.m."
    },
-   "disparu": {
-    "en": "disappeared",
-    "l": "disparaître",
-    "pos": "adj.m."
-   },
-   "disparus": {
-    "en": "extinct, disappeared",
-    "l": "disparaître",
-    "pos": "adj.m.pl."
-   },
-   "découvrent": {
-    "en": "discover",
-    "l": "découvrir",
+   "confondre": {
+    "en": "to confuse",
+    "l": "confondre",
     "pos": "v."
    },
-   "extinction": {
-    "en": "extinction",
-    "l": "extinction",
+   "couleur": {
+    "en": "colour",
+    "l": "couleur",
     "pos": "n.f."
    },
-   "fossiles": {
-    "en": "fossils",
-    "l": "fossile",
-    "pos": "n.m.pl."
-   },
-   "hui": {
-    "en": "today",
-    "l": "aujourd'hui",
-    "pos": "adv."
-   },
-   "humains": {
-    "en": "humans",
-    "l": "humain",
-    "pos": "n.m.pl."
-   },
-   "longtemps": {
-    "en": "for a long time",
-    "l": "longtemps",
-    "pos": "adv."
-   },
-   "marquant": {
-    "en": "marking",
-    "l": "marquer",
+   "couvrant": {
+    "en": "covering",
+    "l": "couvrir",
     "pos": "v."
    },
-   "mexique": {
-    "en": "Mexico",
-    "l": "Mexique",
-    "pos": "name"
+   "cycle": {
+    "en": "cycle",
+    "l": "cycle",
+    "pos": "n.m."
    },
-   "mésozoïque": {
-    "en": "Mesozoic",
-    "l": "Mésozoïque",
-    "pos": "name"
-   },
-   "météorite": {
-    "en": "meteorite",
-    "l": "météorite",
-    "pos": "n.f."
-   },
-   "passionnés": {
-    "en": "enthusiasts",
-    "l": "passionné",
-    "pos": "n.m.pl."
-   },
-   "pouvaient": {
-    "en": "could",
-    "l": "pouvoir",
+   "devrait": {
+    "en": "should",
+    "l": "devoir",
     "pos": "v."
    },
-   "premiers": {
-    "en": "first",
-    "l": "premier",
-    "pos": "adj.m.pl."
+   "donne": {
+    "en": "gives",
+    "l": "donner",
+    "pos": "v."
    },
-   "quoi": {
-    "en": "what",
-    "l": "quoi",
+   "dû": {
+    "en": "due to",
+    "l": "devoir",
+    "pos": "adj."
+   },
+   "elle-même": {
+    "en": "itself",
+    "l": "elle-même",
     "pos": "pron."
    },
-   "rassemble": {
-    "en": "brings together",
-    "l": "rassembler",
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "faut": {
+    "en": "must, is necessary",
+    "l": "falloir",
     "pos": "v."
    },
-   "ressemblaient": {
-    "en": "looked like",
-    "l": "ressembler",
-    "pos": "v."
-   },
-   "rêver": {
-    "en": "to make dream",
-    "l": "rêver",
-    "pos": "v."
-   },
-   "savoir": {
-    "en": "to know, find out",
-    "l": "savoir",
-    "pos": "v."
-   },
-   "scientifiques": {
-    "en": "scientists",
-    "l": "scientifique",
-    "pos": "n.m.pl."
-   },
-   "vraisemblablement": {
-    "en": "probably",
-    "l": "vraisemblablement",
-    "pos": "adv."
-   },
-   "ère": {
-    "en": "era",
-    "l": "ère",
+   "formes": {
+    "en": "forms",
+    "l": "forme",
     "pos": "n.f."
    },
-   "énormes": {
-    "en": "enormous",
-    "l": "énorme",
-    "pos": "adj.pl."
-   },
-   "êtres": {
-    "en": "beings",
-    "l": "être",
-    "pos": "n.m.pl."
-   }
-  },
-  "vikidia-soleil": {
-   "aplatissement": {
-    "en": "flattening",
-    "l": "aplatissement",
-    "pos": "n.m."
-   },
-   "astéroïdes": {
-    "en": "asteroids",
-    "l": "astéroïde",
-    "pos": "n.m.pl."
-   },
-   "atteint": {
-    "en": "reaches",
-    "l": "atteindre",
-    "pos": "v."
-   },
-   "bleues": {
-    "en": "blue",
-    "l": "bleu",
-    "pos": "adj.f.pl."
-   },
-   "ceinture": {
-    "en": "belt",
-    "l": "ceinture",
-    "pos": "n.f."
-   },
-   "celsius": {
-    "en": "Celsius",
-    "l": "Celsius",
-    "pos": "name"
-   },
-   "classifiés": {
-    "en": "classified",
-    "l": "classifier",
-    "pos": "v."
-   },
-   "comparé": {
-    "en": "compared",
-    "l": "comparer",
-    "pos": "v."
-   },
-   "comptait": {
-    "en": "counted",
-    "l": "compter",
-    "pos": "v."
-   },
-   "constitue": {
-    "en": "makes up",
-    "l": "constituer",
-    "pos": "v."
-   },
-   "célestes": {
-    "en": "celestial",
-    "l": "céleste",
-    "pos": "adj."
-   },
-   "cérès": {
-    "en": "Ceres",
-    "l": "Cérès",
-    "pos": "name"
-   },
-   "diamètre": {
-    "en": "diameter",
-    "l": "diamètre",
-    "pos": "n.m."
-   },
-   "endroit": {
-    "en": "place, spot",
-    "l": "endroit",
-    "pos": "n.m."
-   },
-   "gazeuses": {
+   "gazeuse": {
     "en": "gaseous",
     "l": "gazeux",
-    "pos": "adj.f.pl."
-   },
-   "gravitent": {
-    "en": "orbit",
-    "l": "graviter",
-    "pos": "v."
-   },
-   "géantes": {
-    "en": "giants",
-    "l": "géant",
-    "pos": "adj.f.pl."
-   },
-   "hauméa": {
-    "en": "Haumea",
-    "l": "Hauméa",
-    "pos": "name"
-   },
-   "hydrogène": {
-    "en": "hydrogen",
-    "l": "hydrogène",
-    "pos": "n.m."
-   },
-   "hélium": {
-    "en": "helium",
-    "l": "hélium",
-    "pos": "n.m."
-   },
-   "jaune": {
-    "en": "yellow",
-    "l": "jaune",
     "pos": "adj."
    },
-   "jupiter": {
-    "en": "Jupiter",
-    "l": "Jupiter",
+   "globe": {
+    "en": "globe, world",
+    "l": "globe",
+    "pos": "n.m."
+   },
+   "grande": {
+    "en": "large, big",
+    "l": "grand",
+    "pos": "adj."
+   },
+   "humaine": {
+    "en": "human (feminine)",
+    "l": "humain",
+    "pos": "adj."
+   },
+   "importants": {
+    "en": "important",
+    "l": "important",
+    "pos": "adj."
+   },
+   "liquide": {
+    "en": "liquid",
+    "l": "liquide",
+    "pos": "adj."
+   },
+   "lui": {
+    "en": "to it, to him/her",
+    "l": "lui",
+    "pos": "pron."
+   },
+   "lumière": {
+    "en": "light",
+    "l": "lumière",
+    "pos": "n.f."
+   },
+   "mers": {
+    "en": "seas",
+    "l": "mer",
+    "pos": "n.f."
+   },
+   "non": {
+    "en": "not",
+    "l": "non",
+    "pos": "adv."
+   },
+   "notre": {
+    "en": "our",
+    "l": "notre",
+    "pos": "det."
+   },
+   "occupent": {
+    "en": "occupy, cover",
+    "l": "occuper",
+    "pos": "v."
+   },
+   "océan": {
+    "en": "ocean",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "océans": {
+    "en": "oceans",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "optique": {
+    "en": "optical",
+    "l": "optique",
+    "pos": "adj."
+   },
+   "oxygène": {
+    "en": "oxygen",
+    "l": "oxygène",
+    "pos": "n.m."
+   },
+   "petites": {
+    "en": "small (feminine plural)",
+    "l": "petit",
+    "pos": "adj."
+   },
+   "phénomène": {
+    "en": "phenomenon",
+    "l": "phénomène",
+    "pos": "n.m."
+   },
+   "plancton": {
+    "en": "plankton",
+    "l": "plancton",
+    "pos": "n.m."
+   },
+   "planète": {
+    "en": "planet",
+    "l": "planète",
+    "pos": "n.f."
+   },
+   "pluie": {
+    "en": "rain",
+    "l": "pluie",
+    "pos": "n.f."
+   },
+   "propriété": {
+    "en": "property",
+    "l": "propriété",
+    "pos": "n.f."
+   },
+   "provient": {
+    "en": "comes from",
+    "l": "provenir",
+    "pos": "v."
+   },
+   "reflet": {
+    "en": "reflection",
+    "l": "reflet",
+    "pos": "n.m."
+   },
+   "représentent": {
+    "en": "make up, represent",
+    "l": "représenter",
+    "pos": "v."
+   },
+   "respire": {
+    "en": "breathes",
+    "l": "respirer",
+    "pos": "v."
+   },
+   "rouge": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj."
+   },
+   "réfléchit": {
+    "en": "reflects",
+    "l": "réfléchir",
+    "pos": "v."
+   },
+   "salée": {
+    "en": "salty",
+    "l": "salé",
+    "pos": "adj."
+   },
+   "si": {
+    "en": "if",
+    "l": "si",
+    "pos": "conj."
+   },
+   "solide": {
+    "en": "solid",
+    "l": "solide",
+    "pos": "adj."
+   },
+   "sous": {
+    "en": "under",
+    "l": "sous",
+    "pos": "prep."
+   },
+   "surface": {
+    "en": "surface",
+    "l": "surface",
+    "pos": "n.f."
+   },
+   "toutes": {
+    "en": "all (feminine plural)",
+    "l": "tout",
+    "pos": "det."
+   },
+   "voir": {
+    "en": "to see",
+    "l": "voir",
+    "pos": "v."
+   },
+   "vue": {
+    "en": "seen (feminine)",
+    "l": "voir",
+    "pos": "v."
+   },
+   "étendue": {
+    "en": "expanse, extent",
+    "l": "étendue",
+    "pos": "n.f."
+   },
+   "évaporation": {
+    "en": "evaporation",
+    "l": "évaporation",
+    "pos": "n.f."
+   }
+  },
+  "vikidia-japon": {
+   "appartient": {
+    "en": "belongs",
+    "l": "appartenir",
+    "pos": "v."
+   },
+   "archipel": {
+    "en": "archipelago",
+    "l": "archipel",
+    "pos": "n.m."
+   },
+   "asiatique": {
+    "en": "Asian",
+    "l": "asiatique",
+    "pos": "adj."
+   },
+   "capitale": {
+    "en": "capital city",
+    "l": "capitale",
+    "pos": "n.f."
+   },
+   "chine": {
+    "en": "China",
+    "l": "Chine",
     "pos": "name"
    },
+   "commence": {
+    "en": "begins",
+    "l": "commencer",
+    "pos": "v."
+   },
+   "contraignante": {
+    "en": "restrictive",
+    "l": "contraignant",
+    "pos": "adj.f."
+   },
+   "corée": {
+    "en": "Korea",
+    "l": "Corée",
+    "pos": "name"
+   },
+   "couvre": {
+    "en": "covers",
+    "l": "couvrir",
+    "pos": "v."
+   },
+   "diminuer": {
+    "en": "to decrease",
+    "l": "diminuer",
+    "pos": "v."
+   },
+   "développés": {
+    "en": "developed",
+    "l": "développé",
+    "pos": "adj.m.pl."
+   },
+   "faible": {
+    "en": "low, weak",
+    "l": "faible",
+    "pos": "adj."
+   },
+   "g7": {
+    "en": "G7",
+    "l": "G7",
+    "pos": "name"
+   },
+   "géographique": {
+    "en": "geographical",
+    "l": "géographique",
+    "pos": "adj."
+   },
+   "immigration": {
+    "en": "immigration",
+    "l": "immigration",
+    "pos": "n.f."
+   },
+   "industriel": {
+    "en": "industrial",
+    "l": "industriel",
+    "pos": "adj."
+   },
+   "japonais": {
+    "en": "Japanese",
+    "l": "japonais",
+    "pos": "adj."
+   },
+   "japonaise": {
+    "en": "Japanese",
+    "l": "japonais",
+    "pos": "adj.f."
+   },
+   "juste": {
+    "en": "just",
+    "l": "juste",
+    "pos": "adv."
+   },
+   "km2": {
+    "en": "square kilometres",
+    "l": "km2",
+    "pos": "abbrev."
+   },
+   "large": {
+    "en": "off, away from",
+    "l": "large",
+    "pos": "prep."
+   },
+   "levant": {
+    "en": "rising",
+    "l": "lever",
+    "pos": "adj.m."
+   },
+   "montagneux": {
+    "en": "mountainous",
+    "l": "montagneux",
+    "pos": "adj."
+   },
+   "mortalité": {
+    "en": "mortality",
+    "l": "mortalité",
+    "pos": "n.f."
+   },
+   "natalité": {
+    "en": "birth rate",
+    "l": "natalité",
+    "pos": "n.f."
+   },
+   "organisation": {
+    "en": "organisation",
+    "l": "organisation",
+    "pos": "n.f."
+   },
+   "pays": {
+    "en": "country",
+    "l": "pays",
+    "pos": "n.m."
+   },
+   "politique": {
+    "en": "policy",
+    "l": "politique",
+    "pos": "n.f."
+   },
+   "population": {
+    "en": "population",
+    "l": "population",
+    "pos": "n.f."
+   },
+   "renferme": {
+    "en": "contains",
+    "l": "renfermer",
+    "pos": "v."
+   },
+   "riches": {
+    "en": "rich",
+    "l": "riche",
+    "pos": "adj.m.pl."
+   },
+   "russie": {
+    "en": "Russia",
+    "l": "Russie",
+    "pos": "name"
+   },
+   "régulièrement": {
+    "en": "regularly",
+    "l": "régulièrement",
+    "pos": "adv."
+   },
+   "secoué": {
+    "en": "shaken",
+    "l": "secouer",
+    "pos": "v."
+   },
+   "situé": {
+    "en": "located",
+    "l": "situer",
+    "pos": "v."
+   },
+   "soleil": {
+    "en": "sun",
+    "l": "soleil",
+    "pos": "n.m."
+   },
+   "séismes": {
+    "en": "earthquakes",
+    "l": "séisme",
+    "pos": "n.m.pl."
+   },
+   "taux": {
+    "en": "rate",
+    "l": "taux",
+    "pos": "n.m."
+   },
+   "tokyo": {
+    "en": "Tokyo",
+    "l": "Tokyo",
+    "pos": "name"
+   },
+   "vieille": {
+    "en": "old",
+    "l": "vieux",
+    "pos": "adj.f."
+   },
+   "xinjiang": {
+    "en": "Xinjiang",
+    "l": "Xinjiang",
+    "pos": "name"
+   },
+   "élevé": {
+    "en": "high",
+    "l": "élevé",
+    "pos": "adj.m."
+   },
+   "états": {
+    "en": "states",
+    "l": "État",
+    "pos": "n.m.pl."
+   },
+   "日本": {
+    "en": "Japan",
+    "l": "日本",
+    "pos": "name"
+   }
+  },
+  "vikidia-mars": {
+   "abondance": {
+    "en": "abundance",
+    "l": "abondance",
+    "pos": "n.f."
+   },
+   "après": {
+    "en": "after",
+    "l": "après",
+    "pos": "prep."
+   },
+   "astronomique": {
+    "en": "astronomical",
+    "l": "astronomique",
+    "pos": "adj."
+   },
+   "c": {
+    "en": "C",
+    "l": "C",
+    "pos": "n.pr."
+   },
+   "carbonique": {
+    "en": "carbonic",
+    "l": "carbonique",
+    "pos": "adj."
+   },
+   "ciel": {
+    "en": "sky",
+    "l": "ciel",
+    "pos": "n.m."
+   },
+   "co2": {
+    "en": "CO2",
+    "l": "CO2",
+    "pos": "n.m."
+   },
+   "couleur": {
+    "en": "colour",
+    "l": "couleur",
+    "pos": "n.f."
+   },
+   "donnée": {
+    "en": "given",
+    "l": "donner",
+    "pos": "v.pp.f."
+   },
+   "déimos": {
+    "en": "Deimos",
+    "l": "Déimos",
+    "pos": "n.pr."
+   },
+   "facile": {
+    "en": "easy",
+    "l": "facile",
+    "pos": "adj."
+   },
+   "galilée": {
+    "en": "Galileo",
+    "l": "Galilée",
+    "pos": "n.pr."
+   },
+   "gelé": {
+    "en": "frozen",
+    "l": "geler",
+    "pos": "v.pp."
+   },
+   "glace": {
+    "en": "ice",
+    "l": "glace",
+    "pos": "n.f."
+   },
+   "gravité": {
+    "en": "gravity",
+    "l": "gravité",
+    "pos": "n.f."
+   },
+   "iième": {
+    "en": "second",
+    "l": "deuxième",
+    "pos": "adj."
+   },
+   "j": {
+    "en": "J",
+    "l": "J",
+    "pos": "n.pr."
+   },
    "kg": {
-    "en": "kilogram",
-    "l": "kg",
-    "pos": "abbr."
+    "en": "kilograms",
+    "l": "kilogramme",
+    "pos": "n.m."
    },
    "kilomètres": {
     "en": "kilometres",
     "l": "kilomètre",
     "pos": "n.m.pl."
    },
-   "kuiper": {
-    "en": "Kuiper",
-    "l": "Kuiper",
-    "pos": "name"
-   },
-   "lentement": {
-    "en": "slowly",
-    "l": "lentement",
-    "pos": "adv."
-   },
-   "lui-même": {
-    "en": "itself",
-    "l": "lui-même",
-    "pos": "pron."
-   },
-   "majorité": {
-    "en": "majority",
-    "l": "majorité",
-    "pos": "n.f."
-   },
-   "makémaké": {
-    "en": "Makemake",
-    "l": "Makémaké",
-    "pos": "name"
-   },
-   "masse": {
-    "en": "mass",
-    "l": "masse",
-    "pos": "n.f."
-   },
-   "masses": {
-    "en": "masses",
-    "l": "masse",
+   "lunes": {
+    "en": "moons",
+    "l": "lune",
     "pos": "n.f.pl."
    },
-   "massive": {
-    "en": "massive",
-    "l": "massif",
-    "pos": "adj."
-   },
-   "modeste": {
-    "en": "modest",
-    "l": "modeste",
-    "pos": "adj."
-   },
-   "naine": {
-    "en": "dwarf",
-    "l": "naine",
+   "lunette": {
+    "en": "telescope",
+    "l": "lunette",
     "pos": "n.f."
    },
-   "naines": {
-    "en": "dwarfs",
-    "l": "naine",
-    "pos": "n.f.pl."
-   },
-   "nuage": {
-    "en": "cloud",
-    "l": "nuage",
+   "millénaire": {
+    "en": "millennium",
+    "l": "millénaire",
     "pos": "n.m."
    },
-   "négligeable": {
-    "en": "negligible",
-    "l": "négligeable",
-    "pos": "adj."
+   "naturels": {
+    "en": "natural",
+    "l": "naturel",
+    "pos": "adj.m.pl."
+   },
+   "neige": {
+    "en": "snow",
+    "l": "neige",
+    "pos": "n.f."
+   },
+   "nu": {
+    "en": "naked",
+    "l": "nu",
+    "pos": "adj.m."
    },
    "objets": {
     "en": "objects",
     "l": "objet",
     "pos": "n.m.pl."
    },
-   "oort": {
-    "en": "Oort",
-    "l": "Oort",
-    "pos": "name"
+   "observa": {
+    "en": "observed",
+    "l": "observer",
+    "pos": "v.past."
    },
-   "orbitent": {
-    "en": "orbit",
-    "l": "orbiter",
-    "pos": "v."
+   "observée": {
+    "en": "observed",
+    "l": "observer",
+    "pos": "v.pp.f."
    },
-   "planètes": {
-    "en": "planets",
-    "l": "planète",
-    "pos": "n.f.pl."
-   },
-   "plasma": {
-    "en": "plasma",
-    "l": "plasma",
+   "oxyde": {
+    "en": "oxide",
+    "l": "oxyde",
     "pos": "n.m."
    },
-   "plusieurs": {
-    "en": "several",
-    "l": "plusieurs",
-    "pos": "det."
+   "pesait": {
+    "en": "weighed",
+    "l": "peser",
+    "pos": "v.imp."
    },
-   "pluton": {
-    "en": "Pluto",
-    "l": "Pluton",
-    "pos": "name"
+   "phobos": {
+    "en": "Phobos",
+    "l": "Phobos",
+    "pos": "n.pr."
    },
-   "principale": {
-    "en": "main",
-    "l": "principal",
-    "pos": "adj.f."
+   "poids": {
+    "en": "weight",
+    "l": "poids",
+    "pos": "n.m."
    },
    "pôles": {
     "en": "poles",
     "l": "pôle",
     "pos": "n.m.pl."
    },
-   "représente": {
-    "en": "represents",
-    "l": "représenter",
-    "pos": "v."
+   "quatrième": {
+    "en": "fourth",
+    "l": "quatrième",
+    "pos": "adj."
    },
-   "reste": {
-    "en": "remains",
-    "l": "rester",
-    "pos": "v."
+   "respectivement": {
+    "en": "respectively",
+    "l": "respectivement",
+    "pos": "adv."
    },
-   "rocheuses": {
-    "en": "rocky",
-    "l": "rocheux",
-    "pos": "adj.f.pl."
+   "retrouvés": {
+    "en": "found",
+    "l": "retrouver",
+    "pos": "v.pp.m.pl."
    },
-   "rouges": {
+   "rouge": {
     "en": "red",
     "l": "rouge",
-    "pos": "adj.pl."
+    "pos": "adj."
    },
-   "similaires": {
-    "en": "similar",
-    "l": "similaire",
-    "pos": "adj.pl."
+   "rouille": {
+    "en": "rust",
+    "l": "rouille",
+    "pos": "n.f."
    },
-   "soit": {
-    "en": "that is, or",
-    "l": "soit",
-    "pos": "conj."
+   "satellites": {
+    "en": "satellites",
+    "l": "satellite",
+    "pos": "n.m.pl."
+   },
+   "seulement": {
+    "en": "only",
+    "l": "seulement",
+    "pos": "adv."
    },
    "solaire": {
     "en": "solar",
@@ -10921,73 +11698,18 @@
    },
    "soleil": {
     "en": "Sun",
-    "l": "soleil",
-    "pos": "n.m."
-   },
-   "solide": {
-    "en": "solid",
-    "l": "solide",
-    "pos": "adj."
+    "l": "Soleil",
+    "pos": "n.pr."
    },
    "système": {
     "en": "system",
     "l": "système",
     "pos": "n.m."
    },
-   "tailles": {
-    "en": "sizes",
-    "l": "taille",
-    "pos": "n.f.pl."
-   },
-   "température": {
-    "en": "temperature",
-    "l": "température",
-    "pos": "n.f."
-   },
-   "tonnes": {
-    "en": "tonnes",
-    "l": "tone",
-    "pos": "n.f.pl."
-   },
-   "tourne": {
-    "en": "turns",
-    "l": "tourner",
-    "pos": "v."
-   },
-   "type": {
-    "en": "type",
-    "l": "type",
+   "œil": {
+    "en": "eye",
+    "l": "œil",
     "pos": "n.m."
-   },
-   "varie": {
-    "en": "varies",
-    "l": "varier",
-    "pos": "v."
-   },
-   "vraie": {
-    "en": "real",
-    "l": "vrai",
-    "pos": "adj.f."
-   },
-   "équateur": {
-    "en": "equator",
-    "l": "équateur",
-    "pos": "n.m."
-   },
-   "éris": {
-    "en": "Eris",
-    "l": "Éris",
-    "pos": "name"
-   },
-   "étoile": {
-    "en": "star",
-    "l": "étoile",
-    "pos": "n.f."
-   },
-   "étoiles": {
-    "en": "stars",
-    "l": "étoile",
-    "pos": "n.f.pl."
    }
   },
   "vikidia-paris": {
@@ -11331,6 +12053,415 @@
     "pos": "name"
    }
   },
+  "vikidia-planete": {
+   "astre": {
+    "en": "star",
+    "l": "astre",
+    "pos": "n.m."
+   },
+   "astronomique": {
+    "en": "astronomical",
+    "l": "astronomique",
+    "pos": "adj."
+   },
+   "celles": {
+    "en": "those",
+    "l": "celui",
+    "pos": "pron.dem."
+   },
+   "chose": {
+    "en": "thing",
+    "l": "chose",
+    "pos": "n.f."
+   },
+   "ciel": {
+    "en": "sky",
+    "l": "ciel",
+    "pos": "n.m."
+   },
+   "confondre": {
+    "en": "to confuse",
+    "l": "confondre",
+    "pos": "v."
+   },
+   "céleste": {
+    "en": "celestial",
+    "l": "céleste",
+    "pos": "adj."
+   },
+   "différenciées": {
+    "en": "distinguished",
+    "l": "différencier",
+    "pos": "v.pp.f.pl."
+   },
+   "différentes": {
+    "en": "different",
+    "l": "différent",
+    "pos": "adj.f.pl."
+   },
+   "elles-mêmes": {
+    "en": "themselves",
+    "l": "lui-même",
+    "pos": "pron."
+   },
+   "errant": {
+    "en": "wandering",
+    "l": "errer",
+    "pos": "adj."
+   },
+   "faut": {
+    "en": "must",
+    "l": "falloir",
+    "pos": "v."
+   },
+   "gravite": {
+    "en": "orbits",
+    "l": "graviter",
+    "pos": "v."
+   },
+   "grec": {
+    "en": "Greek",
+    "l": "grec",
+    "pos": "adj."
+   },
+   "jumelles": {
+    "en": "binoculars",
+    "l": "jumelles",
+    "pos": "n.f.pl."
+   },
+   "lumineux": {
+    "en": "bright",
+    "l": "lumineux",
+    "pos": "adj."
+   },
+   "lumière": {
+    "en": "light",
+    "l": "lumière",
+    "pos": "n.f."
+   },
+   "lune": {
+    "en": "Moon",
+    "l": "Lune",
+    "pos": "n.pr."
+   },
+   "lunette": {
+    "en": "telescope",
+    "l": "lunette",
+    "pos": "n.f."
+   },
+   "naturels": {
+    "en": "natural",
+    "l": "naturel",
+    "pos": "adj.m.pl."
+   },
+   "nuit": {
+    "en": "night",
+    "l": "nuit",
+    "pos": "n.f."
+   },
+   "nécessaires": {
+    "en": "needed",
+    "l": "nécessaire",
+    "pos": "adj.pl."
+   },
+   "planètes": {
+    "en": "planets",
+    "l": "planète",
+    "pos": "n.f.pl."
+   },
+   "point": {
+    "en": "point",
+    "l": "point",
+    "pos": "n.m."
+   },
+   "rapport": {
+    "en": "relation",
+    "l": "rapport",
+    "pos": "n.m."
+   },
+   "rayons": {
+    "en": "rays",
+    "l": "rayon",
+    "pos": "n.m.pl."
+   },
+   "réfléchissent": {
+    "en": "reflect",
+    "l": "réfléchir",
+    "pos": "v."
+   },
+   "satellites": {
+    "en": "satellites",
+    "l": "satellite",
+    "pos": "n.m.pl."
+   },
+   "scintillent": {
+    "en": "twinkle",
+    "l": "scintiller",
+    "pos": "v."
+   },
+   "solaire": {
+    "en": "solar",
+    "l": "solaire",
+    "pos": "adj."
+   },
+   "soleil": {
+    "en": "Sun",
+    "l": "Soleil",
+    "pos": "n.pr."
+   },
+   "système": {
+    "en": "system",
+    "l": "système",
+    "pos": "n.m."
+   },
+   "toutes": {
+    "en": "all",
+    "l": "tout",
+    "pos": "adj.f.pl."
+   },
+   "télescope": {
+    "en": "telescope",
+    "l": "télescope",
+    "pos": "n.m."
+   },
+   "visibles": {
+    "en": "visible",
+    "l": "visible",
+    "pos": "adj.pl."
+   },
+   "voir": {
+    "en": "to see",
+    "l": "voir",
+    "pos": "v."
+   },
+   "émettent": {
+    "en": "emit",
+    "l": "émettre",
+    "pos": "v."
+   },
+   "étoile": {
+    "en": "star",
+    "l": "étoile",
+    "pos": "n.f."
+   },
+   "étoiles": {
+    "en": "stars",
+    "l": "étoile",
+    "pos": "n.f.pl."
+   }
+  },
+  "vikidia-architecture": {
+   "abord": {
+    "en": "first",
+    "l": "abord",
+    "pos": "adv."
+   },
+   "accompagnés": {
+    "en": "accompanied",
+    "l": "accompagner",
+    "pos": "v."
+   },
+   "architectes": {
+    "en": "architects",
+    "l": "architecte",
+    "pos": "n."
+   },
+   "architecture": {
+    "en": "architecture",
+    "l": "architecture",
+    "pos": "n.f."
+   },
+   "arts": {
+    "en": "arts",
+    "l": "art",
+    "pos": "n.m."
+   },
+   "bureau": {
+    "en": "office",
+    "l": "bureau",
+    "pos": "n.m."
+   },
+   "chantier": {
+    "en": "building site",
+    "l": "chantier",
+    "pos": "n.m."
+   },
+   "chargée": {
+    "en": "in charge of",
+    "l": "charger",
+    "pos": "adj."
+   },
+   "charpente": {
+    "en": "timber frame",
+    "l": "charpente",
+    "pos": "n.f."
+   },
+   "chef": {
+    "en": "manager, chief",
+    "l": "chef",
+    "pos": "n.m."
+   },
+   "client": {
+    "en": "client",
+    "l": "client",
+    "pos": "n.m."
+   },
+   "conclura": {
+    "en": "will complete",
+    "l": "conclure",
+    "pos": "v."
+   },
+   "concrétise": {
+    "en": "becomes real",
+    "l": "concrétiser",
+    "pos": "v."
+   },
+   "construction": {
+    "en": "construction",
+    "l": "construction",
+    "pos": "n.f."
+   },
+   "construira": {
+    "en": "will build",
+    "l": "construire",
+    "pos": "v."
+   },
+   "demandé": {
+    "en": "requested",
+    "l": "demander",
+    "pos": "adj."
+   },
+   "devis": {
+    "en": "estimate, quote",
+    "l": "devis",
+    "pos": "n.m."
+   },
+   "enfin": {
+    "en": "finally",
+    "l": "enfin",
+    "pos": "adv."
+   },
+   "entreprise": {
+    "en": "company",
+    "l": "entreprise",
+    "pos": "n.f."
+   },
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "faire": {
+    "en": "to make, to do",
+    "l": "faire",
+    "pos": "v."
+   },
+   "fournir": {
+    "en": "to provide",
+    "l": "fournir",
+    "pos": "v."
+   },
+   "géomètres": {
+    "en": "surveyors",
+    "l": "géomètre",
+    "pos": "n.m."
+   },
+   "habitation": {
+    "en": "home, dwelling",
+    "l": "habitation",
+    "pos": "n.f."
+   },
+   "imaginer": {
+    "en": "to imagine",
+    "l": "imaginer",
+    "pos": "v."
+   },
+   "informations": {
+    "en": "information",
+    "l": "information",
+    "pos": "n.f."
+   },
+   "lieu": {
+    "en": "place",
+    "l": "lieu",
+    "pos": "n.m."
+   },
+   "majeurs": {
+    "en": "major",
+    "l": "majeur",
+    "pos": "adj."
+   },
+   "maçonnerie": {
+    "en": "masonry",
+    "l": "maçonnerie",
+    "pos": "n.f."
+   },
+   "plans": {
+    "en": "plans",
+    "l": "plan",
+    "pos": "n.m."
+   },
+   "projet": {
+    "en": "project",
+    "l": "projet",
+    "pos": "n.m."
+   },
+   "retrouve": {
+    "en": "meets again",
+    "l": "retrouver",
+    "pos": "v."
+   },
+   "sept": {
+    "en": "seven",
+    "l": "sept",
+    "pos": "num."
+   },
+   "sociétés": {
+    "en": "companies",
+    "l": "société",
+    "pos": "n.f."
+   },
+   "terminés": {
+    "en": "finished",
+    "l": "terminer",
+    "pos": "adj."
+   },
+   "topographes": {
+    "en": "topographers",
+    "l": "topographe",
+    "pos": "n.m."
+   },
+   "transmettre": {
+    "en": "to pass on",
+    "l": "transmettre",
+    "pos": "v."
+   },
+   "travail": {
+    "en": "work",
+    "l": "travail",
+    "pos": "n.m."
+   },
+   "travaille": {
+    "en": "works",
+    "l": "travailler",
+    "pos": "v."
+   },
+   "travaux": {
+    "en": "work, construction",
+    "l": "travaux",
+    "pos": "n.m.pl."
+   },
+   "vont": {
+    "en": "go",
+    "l": "aller",
+    "pos": "v."
+   },
+   "vérifier": {
+    "en": "to check",
+    "l": "vérifier",
+    "pos": "v."
+   }
+  },
   "vikidia-climat": {
    "assez": {
     "en": "fairly, quite",
@@ -11446,323 +12577,6 @@
     "en": "study",
     "l": "étude",
     "pos": "n.f."
-   }
-  },
-  "vikidia-revolution-francaise": {
-   "absolue": {
-    "en": "absolute",
-    "l": "absolu",
-    "pos": "adj."
-   },
-   "an": {
-    "en": "year",
-    "l": "an",
-    "pos": "n.m."
-   },
-   "ayant": {
-    "en": "having",
-    "l": "avoir",
-    "pos": "v."
-   },
-   "bonaparte": {
-    "en": "Bonaparte",
-    "l": "Bonaparte",
-    "pos": "n.pr."
-   },
-   "bouleversements": {
-    "en": "upheavals",
-    "l": "bouleversement",
-    "pos": "n.m."
-   },
-   "brumaire": {
-    "en": "Brumaire",
-    "l": "brumaire",
-    "pos": "n.m."
-   },
-   "caractérisaient": {
-    "en": "characterised",
-    "l": "caractériser",
-    "pos": "v."
-   },
-   "colonies": {
-    "en": "colonies",
-    "l": "colonie",
-    "pos": "n.f."
-   },
-   "commence": {
-    "en": "begins",
-    "l": "commencer",
-    "pos": "v."
-   },
-   "conduits": {
-    "en": "led",
-    "l": "conduire",
-    "pos": "v."
-   },
-   "connue": {
-    "en": "known",
-    "l": "connaître",
-    "pos": "v."
-   },
-   "considère": {
-    "en": "considers",
-    "l": "considérer",
-    "pos": "v."
-   },
-   "coup": {
-    "en": "blow; coup",
-    "l": "coup",
-    "pos": "n.m."
-   },
-   "créer": {
-    "en": "to create",
-    "l": "créer",
-    "pos": "v."
-   },
-   "demander": {
-    "en": "to require",
-    "l": "demander",
-    "pos": "v."
-   },
-   "dizaine": {
-    "en": "ten or so",
-    "l": "dizaine",
-    "pos": "n.f."
-   },
-   "désigne": {
-    "en": "refers to",
-    "l": "désigner",
-    "pos": "v."
-   },
-   "détruit": {
-    "en": "destroys",
-    "l": "détruire",
-    "pos": "v."
-   },
-   "ensemble": {
-    "en": "whole",
-    "l": "ensemble",
-    "pos": "n.m."
-   },
-   "europe": {
-    "en": "Europe",
-    "l": "Europe",
-    "pos": "n.pr."
-   },
-   "fiscale": {
-    "en": "tax",
-    "l": "fiscal",
-    "pos": "adj."
-   },
-   "fondateur": {
-    "en": "founding",
-    "l": "fondateur",
-    "pos": "adj."
-   },
-   "française": {
-    "en": "French",
-    "l": "français",
-    "pos": "adj."
-   },
-   "généraux": {
-    "en": "general",
-    "l": "général",
-    "pos": "adj."
-   },
-   "idées": {
-    "en": "ideas",
-    "l": "idée",
-    "pos": "n.f."
-   },
-   "influencé": {
-    "en": "influenced",
-    "l": "influencer",
-    "pos": "v."
-   },
-   "injustice": {
-    "en": "injustice",
-    "l": "injustice",
-    "pos": "n.f."
-   },
-   "lumières": {
-    "en": "Enlightenment",
-    "l": "Lumières",
-    "pos": "n.f.pl."
-   },
-   "luttes": {
-    "en": "struggles",
-    "l": "lutte",
-    "pos": "n.f."
-   },
-   "mai": {
-    "en": "May",
-    "l": "mai",
-    "pos": "n.m."
-   },
-   "moderne": {
-    "en": "modern",
-    "l": "moderne",
-    "pos": "adj."
-   },
-   "monarchie": {
-    "en": "monarchy",
-    "l": "monarchie",
-    "pos": "n.f."
-   },
-   "mouvement": {
-    "en": "movement",
-    "l": "mouvement",
-    "pos": "n.m."
-   },
-   "mécontent": {
-    "en": "unhappy",
-    "l": "mécontent",
-    "pos": "adj."
-   },
-   "napoléon": {
-    "en": "Napoleon",
-    "l": "Napoléon",
-    "pos": "n.pr."
-   },
-   "nommée": {
-    "en": "called",
-    "l": "nommer",
-    "pos": "v."
-   },
-   "nouvel": {
-    "en": "new",
-    "l": "nouveau",
-    "pos": "adj."
-   },
-   "nouvelle": {
-    "en": "new",
-    "l": "nouveau",
-    "pos": "adj."
-   },
-   "novembre": {
-    "en": "November",
-    "l": "novembre",
-    "pos": "n.m."
-   },
-   "politico-sociétal": {
-    "en": "political and social",
-    "l": "politico-sociétal",
-    "pos": "adj."
-   },
-   "politique": {
-    "en": "political",
-    "l": "politique",
-    "pos": "adj."
-   },
-   "politiques": {
-    "en": "political",
-    "l": "politique",
-    "pos": "adj."
-   },
-   "population": {
-    "en": "population",
-    "l": "population",
-    "pos": "n.f."
-   },
-   "reconstruction": {
-    "en": "rebuilding",
-    "l": "reconstruction",
-    "pos": "n.f."
-   },
-   "régime": {
-    "en": "regime",
-    "l": "régime",
-    "pos": "n.m."
-   },
-   "réunion": {
-    "en": "meeting",
-    "l": "réunion",
-    "pos": "n.f."
-   },
-   "révolution": {
-    "en": "revolution",
-    "l": "révolution",
-    "pos": "n.f."
-   },
-   "sein": {
-    "en": "within",
-    "l": "sein",
-    "pos": "n.m."
-   },
-   "simplement": {
-    "en": "simply",
-    "l": "simplement",
-    "pos": "adv."
-   },
-   "sociale": {
-    "en": "social",
-    "l": "social",
-    "pos": "adj."
-   },
-   "sociales": {
-    "en": "social",
-    "l": "social",
-    "pos": "adj."
-   },
-   "sociaux": {
-    "en": "social",
-    "l": "social",
-    "pos": "adj."
-   },
-   "stabilisation": {
-    "en": "stabilisation",
-    "l": "stabilisation",
-    "pos": "n.f."
-   },
-   "subit": {
-    "en": "suffers",
-    "l": "subir",
-    "pos": "v."
-   },
-   "termine": {
-    "en": "ends",
-    "l": "terminer",
-    "pos": "v."
-   },
-   "tiers": {
-    "en": "third",
-    "l": "tiers",
-    "pos": "adj."
-   },
-   "viii": {
-    "en": "VIII",
-    "l": "VIII",
-    "pos": "n.pr."
-   },
-   "vont": {
-    "en": "will",
-    "l": "aller",
-    "pos": "v."
-   },
-   "établissement": {
-    "en": "establishment",
-    "l": "établissement",
-    "pos": "n.m."
-   },
-   "état": {
-    "en": "state",
-    "l": "état",
-    "pos": "n.m."
-   },
-   "états": {
-    "en": "states",
-    "l": "état",
-    "pos": "n.m."
-   },
-   "événement": {
-    "en": "event",
-    "l": "événement",
-    "pos": "n.m."
-   },
-   "événements": {
-    "en": "events",
-    "l": "événement",
-    "pos": "n.m."
    }
   },
   "vikidia-velo": {
@@ -12097,847 +12911,443 @@
     "pos": "v."
    }
   },
-  "vikidia-elephant": {
-   "actuellement": {
-    "en": "currently",
-    "l": "actuellement",
-    "pos": "adv."
-   },
-   "animaux": {
-    "en": "animals",
-    "l": "animal",
-    "pos": "n.m."
-   },
-   "après": {
-    "en": "after",
-    "l": "après",
-    "pos": "prep."
-   },
-   "assez": {
-    "en": "rather, quite",
-    "l": "assez",
-    "pos": "adv."
-   },
-   "barrissement": {
-    "en": "trumpeting (an elephant's cry)",
-    "l": "barrissement",
-    "pos": "n.m."
-   },
-   "cela": {
-    "en": "that, this",
-    "l": "cela",
-    "pos": "pron."
-   },
-   "chez": {
-    "en": "among, in",
-    "l": "chez",
-    "pos": "prep."
-   },
-   "cri": {
-    "en": "cry, call",
-    "l": "cri",
-    "pos": "n.m."
-   },
-   "derme": {
-    "en": "skin (root)",
-    "l": "derme",
-    "pos": "n.m."
-   },
-   "donne": {
-    "en": "gives (birth)",
-    "l": "donner",
-    "pos": "v."
-   },
-   "entend": {
-    "en": "hears",
-    "l": "entendre",
-    "pos": "v."
-   },
-   "faible": {
-    "en": "weak",
-    "l": "faible",
-    "pos": "adj."
-   },
-   "gardé": {
-    "en": "kept",
-    "l": "garder",
-    "pos": "v."
-   },
-   "grandes": {
-    "en": "large",
-    "l": "grand",
-    "pos": "adj."
-   },
-   "grec": {
-    "en": "Greek",
-    "l": "grec",
-    "pos": "adj."
-   },
-   "haut": {
-    "en": "high",
-    "l": "haut",
-    "pos": "adj."
-   },
-   "herbivores": {
-    "en": "herbivorous",
-    "l": "herbivore",
-    "pos": "adj."
-   },
-   "mesure": {
-    "en": "measures",
-    "l": "mesurer",
-    "pos": "v."
-   },
-   "mois": {
-    "en": "months",
-    "l": "mois",
-    "pos": "n.m."
-   },
-   "moyenne": {
-    "en": "average",
-    "l": "moyenne",
-    "pos": "n.f."
-   },
-   "mâle": {
-    "en": "male",
-    "l": "mâle",
-    "pos": "n.m."
-   },
-   "naissance": {
-    "en": "birth",
-    "l": "naissance",
-    "pos": "n.f."
-   },
-   "odorat": {
-    "en": "sense of smell",
-    "l": "odorat",
-    "pos": "n.m."
-   },
-   "oreilles": {
-    "en": "ears",
-    "l": "oreille",
-    "pos": "n.f."
-   },
-   "pachy": {
-    "en": "thick (Greek root)",
-    "l": "pachy",
-    "pos": "root"
-   },
-   "pachydermes": {
-    "en": "pachyderms",
-    "l": "pachyderme",
-    "pos": "n.m."
-   },
-   "peau": {
-    "en": "skin",
-    "l": "peau",
-    "pos": "n.f."
-   },
-   "pèse": {
-    "en": "weighs",
-    "l": "peser",
-    "pos": "v."
-   },
-   "signifiant": {
-    "en": "meaning",
-    "l": "signifier",
-    "pos": "v."
-   },
-   "tonnes": {
-    "en": "tonnes",
-    "l": "tonne",
-    "pos": "n.f."
-   },
-   "trompe": {
-    "en": "trunk",
-    "l": "trompe",
-    "pos": "n.f."
-   },
-   "ventre": {
-    "en": "belly",
-    "l": "ventre",
-    "pos": "n.m."
-   },
-   "vivant": {
-    "en": "living",
-    "l": "vivre",
-    "pos": "adj."
-   },
-   "vue": {
-    "en": "sight",
-    "l": "vue",
-    "pos": "n.f."
-   },
-   "yeux": {
-    "en": "eyes",
-    "l": "oeuil",
-    "pos": "n.m."
-   },
-   "éléphants": {
-    "en": "elephants",
-    "l": "éléphant",
-    "pos": "n.m."
-   },
-   "épais": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaisse": {
-    "en": "thick",
-    "l": "épais",
-    "pos": "adj."
-   },
-   "épaule": {
-    "en": "shoulder",
-    "l": "épaule",
-    "pos": "n.f."
-   }
-  },
-  "vikidia-planete": {
-   "astre": {
-    "en": "star",
-    "l": "astre",
-    "pos": "n.m."
-   },
-   "astronomique": {
-    "en": "astronomical",
-    "l": "astronomique",
-    "pos": "adj."
-   },
-   "celles": {
-    "en": "those",
-    "l": "celui",
-    "pos": "pron.dem."
-   },
-   "chose": {
-    "en": "thing",
-    "l": "chose",
-    "pos": "n.f."
-   },
-   "ciel": {
-    "en": "sky",
-    "l": "ciel",
-    "pos": "n.m."
-   },
-   "confondre": {
-    "en": "to confuse",
-    "l": "confondre",
-    "pos": "v."
-   },
-   "céleste": {
-    "en": "celestial",
-    "l": "céleste",
-    "pos": "adj."
-   },
-   "différenciées": {
-    "en": "distinguished",
-    "l": "différencier",
-    "pos": "v.pp.f.pl."
-   },
-   "différentes": {
-    "en": "different",
-    "l": "différent",
-    "pos": "adj.f.pl."
-   },
-   "elles-mêmes": {
-    "en": "themselves",
-    "l": "lui-même",
-    "pos": "pron."
-   },
-   "errant": {
-    "en": "wandering",
-    "l": "errer",
-    "pos": "adj."
-   },
-   "faut": {
-    "en": "must",
-    "l": "falloir",
-    "pos": "v."
-   },
-   "gravite": {
-    "en": "orbits",
-    "l": "graviter",
-    "pos": "v."
-   },
-   "grec": {
-    "en": "Greek",
-    "l": "grec",
-    "pos": "adj."
-   },
-   "jumelles": {
-    "en": "binoculars",
-    "l": "jumelles",
-    "pos": "n.f.pl."
-   },
-   "lumineux": {
-    "en": "bright",
-    "l": "lumineux",
-    "pos": "adj."
-   },
-   "lumière": {
-    "en": "light",
-    "l": "lumière",
-    "pos": "n.f."
-   },
-   "lune": {
-    "en": "Moon",
-    "l": "Lune",
-    "pos": "n.pr."
-   },
-   "lunette": {
-    "en": "telescope",
-    "l": "lunette",
-    "pos": "n.f."
-   },
-   "naturels": {
-    "en": "natural",
-    "l": "naturel",
-    "pos": "adj.m.pl."
-   },
-   "nuit": {
-    "en": "night",
-    "l": "nuit",
-    "pos": "n.f."
-   },
-   "nécessaires": {
-    "en": "needed",
-    "l": "nécessaire",
-    "pos": "adj.pl."
-   },
-   "planètes": {
-    "en": "planets",
-    "l": "planète",
-    "pos": "n.f.pl."
-   },
-   "point": {
-    "en": "point",
-    "l": "point",
-    "pos": "n.m."
-   },
-   "rapport": {
-    "en": "relation",
-    "l": "rapport",
-    "pos": "n.m."
-   },
-   "rayons": {
-    "en": "rays",
-    "l": "rayon",
-    "pos": "n.m.pl."
-   },
-   "réfléchissent": {
-    "en": "reflect",
-    "l": "réfléchir",
-    "pos": "v."
-   },
-   "satellites": {
-    "en": "satellites",
-    "l": "satellite",
-    "pos": "n.m.pl."
-   },
-   "scintillent": {
-    "en": "twinkle",
-    "l": "scintiller",
-    "pos": "v."
-   },
-   "solaire": {
-    "en": "solar",
-    "l": "solaire",
-    "pos": "adj."
-   },
-   "soleil": {
-    "en": "Sun",
-    "l": "Soleil",
-    "pos": "n.pr."
-   },
-   "système": {
-    "en": "system",
-    "l": "système",
-    "pos": "n.m."
-   },
-   "toutes": {
-    "en": "all",
-    "l": "tout",
-    "pos": "adj.f.pl."
-   },
-   "télescope": {
-    "en": "telescope",
-    "l": "télescope",
-    "pos": "n.m."
-   },
-   "visibles": {
-    "en": "visible",
-    "l": "visible",
-    "pos": "adj.pl."
-   },
-   "voir": {
-    "en": "to see",
-    "l": "voir",
-    "pos": "v."
-   },
-   "émettent": {
-    "en": "emit",
-    "l": "émettre",
-    "pos": "v."
-   },
-   "étoile": {
-    "en": "star",
-    "l": "étoile",
-    "pos": "n.f."
-   },
-   "étoiles": {
-    "en": "stars",
-    "l": "étoile",
-    "pos": "n.f.pl."
-   }
-  },
-  "vikidia-japon": {
-   "appartient": {
-    "en": "belongs",
-    "l": "appartenir",
-    "pos": "v."
-   },
-   "archipel": {
-    "en": "archipelago",
-    "l": "archipel",
-    "pos": "n.m."
-   },
-   "asiatique": {
-    "en": "Asian",
-    "l": "asiatique",
-    "pos": "adj."
-   },
-   "capitale": {
-    "en": "capital city",
-    "l": "capitale",
-    "pos": "n.f."
-   },
-   "chine": {
-    "en": "China",
-    "l": "Chine",
-    "pos": "name"
-   },
-   "commence": {
-    "en": "begins",
-    "l": "commencer",
-    "pos": "v."
-   },
-   "contraignante": {
-    "en": "restrictive",
-    "l": "contraignant",
+  "vikidia-hippopotame": {
+   "aplatie": {
+    "en": "flat",
+    "l": "aplatir",
     "pos": "adj.f."
    },
-   "corée": {
-    "en": "Korea",
-    "l": "Corée",
-    "pos": "name"
-   },
-   "couvre": {
-    "en": "covers",
-    "l": "couvrir",
-    "pos": "v."
-   },
-   "diminuer": {
-    "en": "to decrease",
-    "l": "diminuer",
-    "pos": "v."
-   },
-   "développés": {
-    "en": "developed",
-    "l": "développé",
-    "pos": "adj.m.pl."
-   },
-   "faible": {
-    "en": "low, weak",
-    "l": "faible",
-    "pos": "adj."
-   },
-   "g7": {
-    "en": "G7",
-    "l": "G7",
-    "pos": "name"
-   },
-   "géographique": {
-    "en": "geographical",
-    "l": "géographique",
-    "pos": "adj."
-   },
-   "immigration": {
-    "en": "immigration",
-    "l": "immigration",
+   "arme": {
+    "en": "weapon",
+    "l": "arme",
     "pos": "n.f."
    },
-   "industriel": {
-    "en": "industrial",
-    "l": "industriel",
-    "pos": "adj."
+   "arrive": {
+    "en": "manages to",
+    "l": "arriver",
+    "pos": "v."
    },
-   "japonais": {
-    "en": "Japanese",
-    "l": "japonais",
-    "pos": "adj."
+   "artiodactyles": {
+    "en": "artiodactyls",
+    "l": "artiodactyle",
+    "pos": "n.m.pl."
    },
-   "japonaise": {
-    "en": "Japanese",
-    "l": "japonais",
-    "pos": "adj.f."
+   "capacité": {
+    "en": "capacity",
+    "l": "capacité",
+    "pos": "n.f."
    },
-   "juste": {
-    "en": "just",
-    "l": "juste",
-    "pos": "adv."
+   "centimètres": {
+    "en": "centimetres",
+    "l": "centimètre",
+    "pos": "n.m.pl."
    },
-   "km2": {
-    "en": "square kilometres",
-    "l": "km2",
-    "pos": "abbrev."
+   "colonnes": {
+    "en": "columns",
+    "l": "colonne",
+    "pos": "n.f.pl."
    },
-   "large": {
-    "en": "off, away from",
-    "l": "large",
-    "pos": "prep."
+   "conservation": {
+    "en": "conservation",
+    "l": "conservation",
+    "pos": "n.f."
    },
-   "levant": {
-    "en": "rising",
-    "l": "lever",
+   "danger": {
+    "en": "danger",
+    "l": "danger",
+    "pos": "n.m."
+   },
+   "dents": {
+    "en": "teeth",
+    "l": "dent",
+    "pos": "n.f.pl."
+   },
+   "description": {
+    "en": "description",
+    "l": "description",
+    "pos": "n.f."
+   },
+   "doigts": {
+    "en": "toes",
+    "l": "doigt",
+    "pos": "n.m.pl."
+   },
+   "espèce": {
+    "en": "species",
+    "l": "espèce",
+    "pos": "n.f."
+   },
+   "familles": {
+    "en": "families",
+    "l": "famille",
+    "pos": "n.f.pl."
+   },
+   "flotter": {
+    "en": "to float",
+    "l": "flotter",
+    "pos": "v."
+   },
+   "former": {
+    "en": "to form",
+    "l": "former",
+    "pos": "v."
+   },
+   "fort": {
+    "en": "strong",
+    "l": "fort",
     "pos": "adj.m."
    },
-   "montagneux": {
-    "en": "mountainous",
-    "l": "montagneux",
-    "pos": "adj."
-   },
-   "mortalité": {
-    "en": "mortality",
-    "l": "mortalité",
-    "pos": "n.f."
-   },
-   "natalité": {
-    "en": "birth rate",
-    "l": "natalité",
-    "pos": "n.f."
-   },
-   "organisation": {
-    "en": "organisation",
-    "l": "organisation",
-    "pos": "n.f."
-   },
-   "pays": {
-    "en": "country",
-    "l": "pays",
-    "pos": "n.m."
-   },
-   "politique": {
-    "en": "policy",
-    "l": "politique",
-    "pos": "n.f."
-   },
-   "population": {
-    "en": "population",
-    "l": "population",
-    "pos": "n.f."
-   },
-   "renferme": {
-    "en": "contains",
-    "l": "renfermer",
+   "galoper": {
+    "en": "to gallop",
+    "l": "galoper",
     "pos": "v."
-   },
-   "riches": {
-    "en": "rich",
-    "l": "riche",
-    "pos": "adj.m.pl."
-   },
-   "russie": {
-    "en": "Russia",
-    "l": "Russie",
-    "pos": "name"
-   },
-   "régulièrement": {
-    "en": "regularly",
-    "l": "régulièrement",
-    "pos": "adv."
-   },
-   "secoué": {
-    "en": "shaken",
-    "l": "secouer",
-    "pos": "v."
-   },
-   "situé": {
-    "en": "located",
-    "l": "situer",
-    "pos": "v."
-   },
-   "soleil": {
-    "en": "sun",
-    "l": "soleil",
-    "pos": "n.m."
-   },
-   "séismes": {
-    "en": "earthquakes",
-    "l": "séisme",
-    "pos": "n.m.pl."
-   },
-   "taux": {
-    "en": "rate",
-    "l": "taux",
-    "pos": "n.m."
-   },
-   "tokyo": {
-    "en": "Tokyo",
-    "l": "Tokyo",
-    "pos": "name"
-   },
-   "vieille": {
-    "en": "old",
-    "l": "vieux",
-    "pos": "adj.f."
-   },
-   "xinjiang": {
-    "en": "Xinjiang",
-    "l": "Xinjiang",
-    "pos": "name"
-   },
-   "élevé": {
-    "en": "high",
-    "l": "élevé",
-    "pos": "adj.m."
-   },
-   "états": {
-    "en": "states",
-    "l": "État",
-    "pos": "n.m.pl."
-   },
-   "日本": {
-    "en": "Japan",
-    "l": "日本",
-    "pos": "name"
-   }
-  },
-  "vikidia-montagne": {
-   "adret": {
-    "en": "sunny side of a mountain",
-    "l": "adret",
-    "pos": "n.m."
-   },
-   "altitude": {
-    "en": "altitude",
-    "l": "altitude",
-    "pos": "n.f."
-   },
-   "autant": {
-    "en": "as much, so much",
-    "l": "autant",
-    "pos": "adv."
-   },
-   "composée": {
-    "en": "made up",
-    "l": "composer",
-    "pos": "v."
-   },
-   "constitue": {
-    "en": "constitutes",
-    "l": "constituer",
-    "pos": "v."
-   },
-   "créé": {
-    "en": "created",
-    "l": "créer",
-    "pos": "v."
-   },
-   "due": {
-    "en": "due, caused by",
-    "l": "devoir",
-    "pos": "adj.f."
-   },
-   "durer": {
-    "en": "to last",
-    "l": "durer",
-    "pos": "v."
-   },
-   "dénivellations": {
-    "en": "differences in height",
-    "l": "dénivellation",
-    "pos": "n.f.pl."
-   },
-   "eaux": {
-    "en": "waters, water",
-    "l": "eau",
-    "pos": "n.f.pl."
-   },
-   "effet": {
-    "en": "fact, effect",
-    "l": "effet",
-    "pos": "n.m."
-   },
-   "entrechoquent": {
-    "en": "collide",
-    "l": "s'entrechoquer",
-    "pos": "v."
-   },
-   "exposée": {
-    "en": "exposed",
-    "l": "exposer",
-    "pos": "v."
-   },
-   "face": {
-    "en": "side, face",
-    "l": "face",
-    "pos": "n.f."
-   },
-   "faces": {
-    "en": "sides, faces",
-    "l": "face",
-    "pos": "n.f.pl."
-   },
-   "force": {
-    "en": "force",
-    "l": "force",
-    "pos": "n.f."
-   },
-   "formation": {
-    "en": "formation",
-    "l": "formation",
-    "pos": "n.f."
    },
    "grande": {
     "en": "large, great",
     "l": "grand",
     "pos": "adj.f."
    },
-   "importantes": {
-    "en": "important",
-    "l": "important",
-    "pos": "adj.f.pl."
-   },
-   "inclinées": {
-    "en": "inclined, steep",
-    "l": "incliner",
-    "pos": "v."
-   },
-   "montagne": {
-    "en": "mountain",
-    "l": "montagne",
+   "h": {
+    "en": "hours",
+    "l": "heure",
     "pos": "n.f."
    },
-   "montagnes": {
-    "en": "mountains",
-    "l": "montagne",
-    "pos": "n.f.pl."
+   "hippopotame": {
+    "en": "hippopotamus",
+    "l": "hippopotame",
+    "pos": "n.m."
    },
-   "mouvements": {
-    "en": "movements",
-    "l": "mouvement",
+   "hippopotames": {
+    "en": "hippopotamuses",
+    "l": "hippopotame",
     "pos": "n.m.pl."
    },
-   "ombre": {
-    "en": "shade, shadow",
-    "l": "ombre",
+   "hippopotamus": {
+    "en": "Hippopotamus",
+    "l": "Hippopotamus",
+    "pos": "n.pr."
+   },
+   "internationale": {
+    "en": "international",
+    "l": "international",
+    "pos": "adj.f."
+   },
+   "km": {
+    "en": "kilometres",
+    "l": "kilomètre",
+    "pos": "n.m.pl."
+   },
+   "large": {
+    "en": "wide",
+    "l": "large",
+    "pos": "adj."
+   },
+   "liste": {
+    "en": "list",
+    "l": "liste",
     "pos": "n.f."
    },
-   "pentes": {
-    "en": "slopes",
-    "l": "pente",
-    "pos": "n.f.pl."
-   },
-   "plusieurs": {
-    "en": "several",
-    "l": "plusieurs",
-    "pos": "det."
-   },
-   "processus": {
-    "en": "process",
-    "l": "processus",
-    "pos": "n.m."
-   },
-   "proches": {
-    "en": "close, near",
-    "l": "proche",
-    "pos": "adj.pl."
-   },
-   "production": {
-    "en": "production",
-    "l": "production",
-    "pos": "n.f."
-   },
-   "provoquer": {
-    "en": "to cause",
-    "l": "provoquer",
+   "mesurer": {
+    "en": "to measure",
+    "l": "mesurer",
     "pos": "v."
    },
-   "précipitations": {
-    "en": "precipitation",
-    "l": "précipitation",
+   "nature": {
+    "en": "nature",
+    "l": "nature",
+    "pos": "n.f."
+   },
+   "nu": {
+    "en": "bare",
+    "l": "nu",
+    "pos": "adj.m."
+   },
+   "patte": {
+    "en": "leg, paw",
+    "l": "patte",
+    "pos": "n.f."
+   },
+   "peser": {
+    "en": "to weigh",
+    "l": "peser",
+    "pos": "v."
+   },
+   "poumons": {
+    "en": "lungs",
+    "l": "poumon",
+    "pos": "n.m.pl."
+   },
+   "presque": {
+    "en": "almost",
+    "l": "presque",
+    "pos": "adv."
+   },
+   "principalement": {
+    "en": "mainly",
+    "l": "principalement",
+    "pos": "adv."
+   },
+   "quatre": {
+    "en": "four",
+    "l": "quatre",
+    "pos": "num."
+   },
+   "redoutable": {
+    "en": "formidable",
+    "l": "redoutable",
+    "pos": "adj."
+   },
+   "repose": {
+    "en": "rests",
+    "l": "reposer",
+    "pos": "v."
+   },
+   "rouge": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj."
+   },
+   "therapsida": {
+    "en": "therapsids",
+    "l": "Therapsida",
+    "pos": "n.pr."
+   },
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tonne",
     "pos": "n.f.pl."
    },
-   "relief": {
-    "en": "landform, terrain",
-    "l": "relief",
+   "tête": {
+    "en": "head",
+    "l": "tête",
+    "pos": "n.f."
+   },
+   "union": {
+    "en": "union",
+    "l": "union",
+    "pos": "n.f."
+   },
+   "vivre": {
+    "en": "to live",
+    "l": "vivre",
+    "pos": "v."
+   },
+   "vulnérable": {
+    "en": "vulnerable",
+    "l": "vulnérable",
+    "pos": "adj."
+   }
+  },
+  "vikidia-riviere": {
+   "aride": {
+    "en": "arid",
+    "l": "aride",
+    "pos": "adj."
+   },
+   "arrivant": {
+    "en": "on reaching",
+    "l": "arriver",
+    "pos": "v.pr."
+   },
+   "assèchent": {
+    "en": "dry up",
+    "l": "assécher",
+    "pos": "v.pr."
+   },
+   "augmenter": {
+    "en": "to increase",
+    "l": "augmenter",
+    "pos": "v."
+   },
+   "celle-ci": {
+    "en": "this one",
+    "l": "celui-ci",
+    "pos": "pron.dem."
+   },
+   "chemine": {
+    "en": "travels",
+    "l": "cheminer",
+    "pos": "v."
+   },
+   "chenal": {
+    "en": "channel",
+    "l": "chenal",
     "pos": "n.m."
    },
-   "sol": {
-    "en": "ground, soil",
-    "l": "sol",
+   "confluent": {
+    "en": "confluence",
+    "l": "confluent",
     "pos": "n.m."
    },
-   "soleil": {
-    "en": "Sun, sunshine",
-    "l": "soleil",
+   "coule": {
+    "en": "flows",
+    "l": "couler",
+    "pos": "v."
+   },
+   "crue": {
+    "en": "flood",
+    "l": "crue",
+    "pos": "n.f."
+   },
+   "donner": {
+    "en": "to flow into",
+    "l": "donner",
+    "pos": "v."
+   },
+   "débit": {
+    "en": "flow rate",
+    "l": "débit",
+    "pos": "n.m."
+   },
+   "déplacés": {
+    "en": "moved",
+    "l": "déplacer",
+    "pos": "v."
+   },
+   "désigner": {
+    "en": "to designate",
+    "l": "désigner",
+    "pos": "v."
+   },
+   "embouchure": {
+    "en": "mouth",
+    "l": "embouchure",
+    "pos": "n.f."
+   },
+   "espace": {
+    "en": "space",
+    "l": "espace",
+    "pos": "n.m."
+   },
+   "fleuve": {
+    "en": "large river",
+    "l": "fleuve",
+    "pos": "n.m."
+   },
+   "fond": {
+    "en": "bottom",
+    "l": "fond",
+    "pos": "n.m."
+   },
+   "fortes": {
+    "en": "heavy",
+    "l": "fort",
+    "pos": "adj.f.pl."
+   },
+   "gravier": {
+    "en": "gravel",
+    "l": "gravier",
+    "pos": "n.m."
+   },
+   "inondation": {
+    "en": "flooding",
+    "l": "inondation",
+    "pos": "n.f."
+   },
+   "jette": {
+    "en": "flows into",
+    "l": "jeter",
+    "pos": "v.pr."
+   },
+   "lac": {
+    "en": "lake",
+    "l": "lac",
+    "pos": "n.m."
+   },
+   "largement": {
+    "en": "greatly",
+    "l": "largement",
+    "pos": "adv."
+   },
+   "lit": {
+    "en": "bed",
+    "l": "lit",
+    "pos": "n.m."
+   },
+   "monte": {
+    "en": "rises",
+    "l": "monter",
+    "pos": "v."
+   },
+   "niveau": {
+    "en": "level",
+    "l": "niveau",
+    "pos": "n.m."
+   },
+   "occupe": {
+    "en": "occupies",
+    "l": "occuper",
+    "pos": "v."
+   },
+   "occupent": {
+    "en": "occupy",
+    "l": "occuper",
+    "pos": "v."
+   },
+   "océan": {
+    "en": "ocean",
+    "l": "océan",
+    "pos": "n.m."
+   },
+   "parler": {
+    "en": "to speak",
+    "l": "parler",
+    "pos": "v."
+   },
+   "pierres": {
+    "en": "stones",
+    "l": "pierre",
+    "pos": "n.f.pl."
+   },
+   "pluies": {
+    "en": "rains",
+    "l": "pluie",
+    "pos": "n.f.pl."
+   },
+   "progressivement": {
+    "en": "gradually",
+    "l": "progressivement",
+    "pos": "adv."
+   },
+   "proprement": {
+    "en": "properly",
+    "l": "proprement",
+    "pos": "adv."
+   },
+   "sable": {
+    "en": "sand",
+    "l": "sable",
     "pos": "n.m."
    },
    "source": {
-    "en": "source, spring",
+    "en": "source",
     "l": "source",
     "pos": "n.f."
    },
-   "sources": {
-    "en": "sources, springs",
-    "l": "source",
-    "pos": "n.f.pl."
-   },
-   "terrestre": {
-    "en": "earthly, terrestrial",
-    "l": "terrestre",
-    "pos": "adj."
-   },
-   "torrents": {
-    "en": "mountain streams",
-    "l": "torrent",
-    "pos": "n.m.pl."
-   },
-   "ubac": {
-    "en": "shady side of a mountain",
-    "l": "ubac",
+   "terme": {
+    "en": "end",
+    "l": "terme",
     "pos": "n.m."
    },
-   "verticale": {
-    "en": "vertical",
-    "l": "vertical",
-    "pos": "adj.f."
+   "terres": {
+    "en": "land",
+    "l": "terre",
+    "pos": "n.f.pl."
    },
-   "écorce": {
-    "en": "crust, bark",
-    "l": "écorce",
+   "vitesse": {
+    "en": "speed",
+    "l": "vitesse",
     "pos": "n.f."
    },
-   "écoulant": {
-    "en": "flowing",
-    "l": "s'écouler",
-    "pos": "v."
-   },
-   "élevée": {
-    "en": "high, raised",
-    "l": "élever",
-    "pos": "adj.f."
-   },
-   "élévation": {
-    "en": "rise, elevation",
-    "l": "élévation",
+   "zone": {
+    "en": "area",
+    "l": "zone",
     "pos": "n.f."
    },
-   "énergie": {
-    "en": "energy",
-    "l": "énergie",
-    "pos": "n.f."
+   "également": {
+    "en": "also",
+    "l": "également",
+    "pos": "adv."
    }
   },
   "vikidia-chateau-fort": {
@@ -13167,201 +13577,341 @@
     "pos": "adj."
    }
   },
-  "vikidia-rechauffement-climatique": {
-   "actuelle": {
-    "en": "current",
-    "l": "actuel",
-    "pos": "adj.f."
-   },
-   "anormale": {
-    "en": "abnormal",
-    "l": "anormal",
-    "pos": "adj.f."
-   },
-   "atmosphère": {
-    "en": "atmosphere",
-    "l": "atmosphère",
-    "pos": "n.f."
-   },
-   "augmentation": {
-    "en": "increase",
-    "l": "augmentation",
-    "pos": "n.f."
-   },
-   "augmente": {
-    "en": "increases",
-    "l": "augmenter",
-    "pos": "v."
-   },
-   "catastrophes": {
-    "en": "disasters",
-    "l": "catastrophe",
-    "pos": "n.f.pl."
-   },
-   "causé": {
-    "en": "caused",
-    "l": "causer",
-    "pos": "v."
-   },
-   "changement": {
-    "en": "change",
-    "l": "changement",
+  "vikidia-soleil": {
+   "aplatissement": {
+    "en": "flattening",
+    "l": "aplatissement",
     "pos": "n.m."
    },
-   "climatique": {
-    "en": "climate",
-    "l": "climatique",
-    "pos": "adj."
-   },
-   "climats": {
-    "en": "climates",
-    "l": "climat",
+   "astéroïdes": {
+    "en": "asteroids",
+    "l": "astéroïde",
     "pos": "n.m.pl."
    },
-   "combustibles": {
-    "en": "fuels",
-    "l": "combustible",
-    "pos": "n.m.pl."
-   },
-   "combustion": {
-    "en": "burning, combustion",
-    "l": "combustion",
-    "pos": "n.f."
-   },
-   "deuxième": {
-    "en": "second",
-    "l": "deuxième",
-    "pos": "adj."
-   },
-   "due": {
-    "en": "due",
-    "l": "devoir",
-    "pos": "adj.f."
-   },
-   "décennies": {
-    "en": "decades",
-    "l": "décennie",
-    "pos": "n.f.pl."
-   },
-   "désigne": {
-    "en": "refers to",
-    "l": "désigner",
+   "atteint": {
+    "en": "reaches",
+    "l": "atteindre",
     "pos": "v."
    },
-   "effet": {
-    "en": "effect",
-    "l": "effet",
-    "pos": "n.m."
-   },
-   "exclusivement": {
-    "en": "exclusively",
-    "l": "exclusivement",
-    "pos": "adv."
-   },
-   "expression": {
-    "en": "expression",
-    "l": "expression",
-    "pos": "n.f."
-   },
-   "fossiles": {
-    "en": "fossil",
-    "l": "fossile",
-    "pos": "adj.pl."
-   },
-   "humains": {
-    "en": "humans",
-    "l": "humain",
-    "pos": "n.m.pl."
-   },
-   "industrielle": {
-    "en": "industrial",
-    "l": "industriel",
-    "pos": "adj.f."
-   },
-   "intensification": {
-    "en": "intensification",
-    "l": "intensification",
-    "pos": "n.f."
-   },
-   "modifie": {
-    "en": "changes",
-    "l": "modifier",
-    "pos": "v."
-   },
-   "moyenne": {
-    "en": "average",
-    "l": "moyen",
-    "pos": "adj.f."
-   },
-   "naturelles": {
-    "en": "natural",
-    "l": "naturel",
+   "bleues": {
+    "en": "blue",
+    "l": "bleu",
     "pos": "adj.f.pl."
    },
-   "produire": {
-    "en": "to produce",
-    "l": "produire",
+   "ceinture": {
+    "en": "belt",
+    "l": "ceinture",
+    "pos": "n.f."
+   },
+   "celsius": {
+    "en": "Celsius",
+    "l": "Celsius",
+    "pos": "name"
+   },
+   "classifiés": {
+    "en": "classified",
+    "l": "classifier",
     "pos": "v."
    },
-   "provoquée": {
-    "en": "caused",
-    "l": "provoquer",
+   "comparé": {
+    "en": "compared",
+    "l": "comparer",
     "pos": "v."
    },
-   "rapide": {
-    "en": "rapid, fast",
-    "l": "rapide",
+   "comptait": {
+    "en": "counted",
+    "l": "compter",
+    "pos": "v."
+   },
+   "constitue": {
+    "en": "makes up",
+    "l": "constituer",
+    "pos": "v."
+   },
+   "célestes": {
+    "en": "celestial",
+    "l": "céleste",
     "pos": "adj."
    },
-   "responsable": {
-    "en": "responsible",
-    "l": "responsable",
-    "pos": "adj."
+   "cérès": {
+    "en": "Ceres",
+    "l": "Cérès",
+    "pos": "name"
    },
-   "réchauffement": {
-    "en": "warming",
-    "l": "réchauffement",
+   "diamètre": {
+    "en": "diameter",
+    "l": "diamètre",
     "pos": "n.m."
    },
-   "révolution": {
-    "en": "revolution",
-    "l": "révolution",
-    "pos": "n.f."
+   "endroit": {
+    "en": "place, spot",
+    "l": "endroit",
+    "pos": "n.m."
    },
-   "serre": {
-    "en": "greenhouse",
-    "l": "serre",
-    "pos": "n.f."
+   "gazeuses": {
+    "en": "gaseous",
+    "l": "gazeux",
+    "pos": "adj.f.pl."
    },
-   "seulement": {
-    "en": "only",
-    "l": "seulement",
+   "gravitent": {
+    "en": "orbit",
+    "l": "graviter",
+    "pos": "v."
+   },
+   "géantes": {
+    "en": "giants",
+    "l": "géant",
+    "pos": "adj.f.pl."
+   },
+   "hauméa": {
+    "en": "Haumea",
+    "l": "Hauméa",
+    "pos": "name"
+   },
+   "hydrogène": {
+    "en": "hydrogen",
+    "l": "hydrogène",
+    "pos": "n.m."
+   },
+   "hélium": {
+    "en": "helium",
+    "l": "hélium",
+    "pos": "n.m."
+   },
+   "jaune": {
+    "en": "yellow",
+    "l": "jaune",
+    "pos": "adj."
+   },
+   "jupiter": {
+    "en": "Jupiter",
+    "l": "Jupiter",
+    "pos": "name"
+   },
+   "kg": {
+    "en": "kilogram",
+    "l": "kg",
+    "pos": "abbr."
+   },
+   "kilomètres": {
+    "en": "kilometres",
+    "l": "kilomètre",
+    "pos": "n.m.pl."
+   },
+   "kuiper": {
+    "en": "Kuiper",
+    "l": "Kuiper",
+    "pos": "name"
+   },
+   "lentement": {
+    "en": "slowly",
+    "l": "lentement",
     "pos": "adv."
+   },
+   "lui-même": {
+    "en": "itself",
+    "l": "lui-même",
+    "pos": "pron."
+   },
+   "majorité": {
+    "en": "majority",
+    "l": "majorité",
+    "pos": "n.f."
+   },
+   "makémaké": {
+    "en": "Makemake",
+    "l": "Makémaké",
+    "pos": "name"
+   },
+   "masse": {
+    "en": "mass",
+    "l": "masse",
+    "pos": "n.f."
+   },
+   "masses": {
+    "en": "masses",
+    "l": "masse",
+    "pos": "n.f.pl."
+   },
+   "massive": {
+    "en": "massive",
+    "l": "massif",
+    "pos": "adj."
+   },
+   "modeste": {
+    "en": "modest",
+    "l": "modeste",
+    "pos": "adj."
+   },
+   "naine": {
+    "en": "dwarf",
+    "l": "naine",
+    "pos": "n.f."
+   },
+   "naines": {
+    "en": "dwarfs",
+    "l": "naine",
+    "pos": "n.f.pl."
+   },
+   "nuage": {
+    "en": "cloud",
+    "l": "nuage",
+    "pos": "n.m."
+   },
+   "négligeable": {
+    "en": "negligible",
+    "l": "négligeable",
+    "pos": "adj."
+   },
+   "objets": {
+    "en": "objects",
+    "l": "objet",
+    "pos": "n.m.pl."
+   },
+   "oort": {
+    "en": "Oort",
+    "l": "Oort",
+    "pos": "name"
+   },
+   "orbitent": {
+    "en": "orbit",
+    "l": "orbiter",
+    "pos": "v."
+   },
+   "planètes": {
+    "en": "planets",
+    "l": "planète",
+    "pos": "n.f.pl."
+   },
+   "plasma": {
+    "en": "plasma",
+    "l": "plasma",
+    "pos": "n.m."
+   },
+   "plusieurs": {
+    "en": "several",
+    "l": "plusieurs",
+    "pos": "det."
+   },
+   "pluton": {
+    "en": "Pluto",
+    "l": "Pluton",
+    "pos": "name"
+   },
+   "principale": {
+    "en": "main",
+    "l": "principal",
+    "pos": "adj.f."
+   },
+   "pôles": {
+    "en": "poles",
+    "l": "pôle",
+    "pos": "n.m.pl."
+   },
+   "représente": {
+    "en": "represents",
+    "l": "représenter",
+    "pos": "v."
+   },
+   "reste": {
+    "en": "remains",
+    "l": "rester",
+    "pos": "v."
+   },
+   "rocheuses": {
+    "en": "rocky",
+    "l": "rocheux",
+    "pos": "adj.f.pl."
+   },
+   "rouges": {
+    "en": "red",
+    "l": "rouge",
+    "pos": "adj.pl."
+   },
+   "similaires": {
+    "en": "similar",
+    "l": "similaire",
+    "pos": "adj.pl."
+   },
+   "soit": {
+    "en": "that is, or",
+    "l": "soit",
+    "pos": "conj."
+   },
+   "solaire": {
+    "en": "solar",
+    "l": "solaire",
+    "pos": "adj."
+   },
+   "soleil": {
+    "en": "Sun",
+    "l": "soleil",
+    "pos": "n.m."
+   },
+   "solide": {
+    "en": "solid",
+    "l": "solide",
+    "pos": "adj."
+   },
+   "système": {
+    "en": "system",
+    "l": "système",
+    "pos": "n.m."
+   },
+   "tailles": {
+    "en": "sizes",
+    "l": "taille",
+    "pos": "n.f.pl."
    },
    "température": {
     "en": "temperature",
     "l": "température",
     "pos": "n.f."
    },
-   "usines": {
-    "en": "factories",
-    "l": "usine",
+   "tonnes": {
+    "en": "tonnes",
+    "l": "tone",
     "pos": "n.f.pl."
    },
-   "xixe": {
-    "en": "19th",
-    "l": "XIXe",
-    "pos": "ordinal"
+   "tourne": {
+    "en": "turns",
+    "l": "tourner",
+    "pos": "v."
    },
-   "énergie": {
-    "en": "energy",
-    "l": "énergie",
+   "type": {
+    "en": "type",
+    "l": "type",
+    "pos": "n.m."
+   },
+   "varie": {
+    "en": "varies",
+    "l": "varier",
+    "pos": "v."
+   },
+   "vraie": {
+    "en": "real",
+    "l": "vrai",
+    "pos": "adj.f."
+   },
+   "équateur": {
+    "en": "equator",
+    "l": "équateur",
+    "pos": "n.m."
+   },
+   "éris": {
+    "en": "Eris",
+    "l": "Éris",
+    "pos": "name"
+   },
+   "étoile": {
+    "en": "star",
+    "l": "étoile",
     "pos": "n.f."
    },
-   "êtres": {
-    "en": "beings",
-    "l": "être",
-    "pos": "n.m.pl."
+   "étoiles": {
+    "en": "stars",
+    "l": "étoile",
+    "pos": "n.f.pl."
    }
   },
   "vikidia-pompier": {
@@ -13698,348 +14248,201 @@
     "pos": "adv."
    }
   },
-  "vikidia-tortue": {
-   "amphibies": {
-    "en": "amphibious",
-    "l": "amphibie",
-    "pos": "adj.pl."
+  "vikidia-egypte-ancienne": {
+   "actuelle": {
+    "en": "current, present-day",
+    "l": "actuel",
+    "pos": "adj.f."
    },
-   "attendent": {
-    "en": "wait",
-    "l": "attendre",
-    "pos": "v."
+   "ancienne": {
+    "en": "ancient, former",
+    "l": "ancien",
+    "pos": "adj.f."
    },
-   "carapace": {
-    "en": "shell",
-    "l": "carapace",
-    "pos": "n.f."
+   "antique": {
+    "en": "ancient",
+    "l": "antique",
+    "pos": "adj."
    },
-   "centaine": {
-    "en": "hundred",
-    "l": "centaine",
-    "pos": "n.f."
+   "aujourd'": {
+    "en": "today",
+    "l": "aujourd'hui",
+    "pos": "adv."
    },
-   "courent": {
-    "en": "run",
-    "l": "courir",
-    "pos": "v."
+   "av": {
+    "en": "before",
+    "l": "avant",
+    "pos": "prep."
    },
-   "différencier": {
-    "en": "to tell apart",
-    "l": "différencier",
-    "pos": "v."
-   },
-   "effet": {
-    "en": "fact, effect",
-    "l": "effet",
-    "pos": "n.m."
-   },
-   "griffes": {
-    "en": "claws",
-    "l": "griffe",
+   "caractéristiques": {
+    "en": "characteristics",
+    "l": "caractéristique",
     "pos": "n.f.pl."
    },
-   "lentes": {
-    "en": "slow",
-    "l": "lent",
+   "civilisation": {
+    "en": "civilisation",
+    "l": "civilisation",
+    "pos": "n.f."
+   },
+   "cléopâtre": {
+    "en": "Cleopatra",
+    "l": "Cléopâtre",
+    "pos": "name"
+   },
+   "conquête": {
+    "en": "conquest",
+    "l": "conquête",
+    "pos": "n.f."
+   },
+   "culturelles": {
+    "en": "cultural",
+    "l": "culturel",
     "pos": "adj.f.pl."
    },
-   "morte": {
-    "en": "dead",
-    "l": "mort",
-    "pos": "adj.f."
-   },
-   "nageoires": {
-    "en": "flippers, fins",
-    "l": "nageoire",
-    "pos": "n.f.pl."
-   },
-   "plusieurs": {
-    "en": "several",
-    "l": "plusieurs",
-    "pos": "det."
-   },
-   "pondent": {
-    "en": "lay",
-    "l": "pondre",
-    "pos": "v."
-   },
-   "pondre": {
-    "en": "to lay",
-    "l": "pondre",
-    "pos": "v."
-   },
-   "ralentissent": {
-    "en": "slow down",
-    "l": "ralentir",
-    "pos": "v."
-   },
-   "recouvre": {
-    "en": "covers",
-    "l": "recouvrir",
-    "pos": "v."
-   },
-   "reptiles": {
-    "en": "reptiles",
-    "l": "reptile",
+   "dieux": {
+    "en": "gods",
+    "l": "dieu",
     "pos": "n.m.pl."
    },
-   "sable": {
-    "en": "sand",
-    "l": "sable",
-    "pos": "n.m."
-   },
-   "tortue": {
-    "en": "turtle",
-    "l": "tortue",
-    "pos": "n.f."
-   },
-   "tortues": {
-    "en": "turtles",
-    "l": "tortue",
-    "pos": "n.f.pl."
-   },
-   "trou": {
-    "en": "hole",
-    "l": "trou",
-    "pos": "n.m."
-   },
-   "vieille": {
-    "en": "old",
-    "l": "vieux",
-    "pos": "adj.f."
-   },
-   "œufs": {
-    "en": "eggs",
-    "l": "œuf",
-    "pos": "n.m.pl."
-   }
-  },
-  "vikidia-hippopotame": {
-   "aplatie": {
-    "en": "flat",
-    "l": "aplatir",
-    "pos": "adj.f."
-   },
-   "arme": {
-    "en": "weapon",
-    "l": "arme",
-    "pos": "n.f."
-   },
-   "arrive": {
-    "en": "manages to",
-    "l": "arriver",
+   "dirigée": {
+    "en": "ruled, led",
+    "l": "diriger",
     "pos": "v."
    },
-   "artiodactyles": {
-    "en": "artiodactyls",
-    "l": "artiodactyle",
-    "pos": "n.m.pl."
+   "dédiés": {
+    "en": "dedicated",
+    "l": "dédier",
+    "pos": "adj.m.pl."
    },
-   "capacité": {
-    "en": "capacity",
-    "l": "capacité",
-    "pos": "n.f."
-   },
-   "centimètres": {
-    "en": "centimetres",
-    "l": "centimètre",
-    "pos": "n.m.pl."
-   },
-   "colonnes": {
-    "en": "columns",
-    "l": "colonne",
-    "pos": "n.f.pl."
-   },
-   "conservation": {
-    "en": "conservation",
-    "l": "conservation",
-    "pos": "n.f."
-   },
-   "danger": {
-    "en": "danger",
-    "l": "danger",
-    "pos": "n.m."
-   },
-   "dents": {
-    "en": "teeth",
-    "l": "dent",
-    "pos": "n.f.pl."
-   },
-   "description": {
-    "en": "description",
-    "l": "description",
-    "pos": "n.f."
-   },
-   "doigts": {
-    "en": "toes",
-    "l": "doigt",
-    "pos": "n.m.pl."
-   },
-   "espèce": {
-    "en": "species",
-    "l": "espèce",
-    "pos": "n.f."
-   },
-   "familles": {
-    "en": "families",
-    "l": "famille",
-    "pos": "n.f.pl."
-   },
-   "flotter": {
-    "en": "to float",
-    "l": "flotter",
+   "développe": {
+    "en": "develops",
+    "l": "se développer",
     "pos": "v."
    },
-   "former": {
-    "en": "to form",
-    "l": "former",
-    "pos": "v."
-   },
-   "fort": {
-    "en": "strong",
-    "l": "fort",
-    "pos": "adj.m."
-   },
-   "galoper": {
-    "en": "to gallop",
-    "l": "galoper",
-    "pos": "v."
-   },
-   "grande": {
-    "en": "large, great",
-    "l": "grand",
-    "pos": "adj.f."
-   },
-   "h": {
-    "en": "hours",
-    "l": "heure",
-    "pos": "n.f."
-   },
-   "hippopotame": {
-    "en": "hippopotamus",
-    "l": "hippopotame",
-    "pos": "n.m."
-   },
-   "hippopotames": {
-    "en": "hippopotamuses",
-    "l": "hippopotame",
-    "pos": "n.m.pl."
-   },
-   "hippopotamus": {
-    "en": "Hippopotamus",
-    "l": "Hippopotamus",
-    "pos": "n.pr."
-   },
-   "internationale": {
-    "en": "international",
-    "l": "international",
-    "pos": "adj.f."
-   },
-   "km": {
-    "en": "kilometres",
-    "l": "kilomètre",
-    "pos": "n.m.pl."
-   },
-   "large": {
-    "en": "wide",
-    "l": "large",
-    "pos": "adj."
-   },
-   "liste": {
-    "en": "list",
-    "l": "liste",
-    "pos": "n.f."
-   },
-   "mesurer": {
-    "en": "to measure",
-    "l": "mesurer",
-    "pos": "v."
-   },
-   "nature": {
-    "en": "nature",
-    "l": "nature",
-    "pos": "n.f."
-   },
-   "nu": {
-    "en": "bare",
-    "l": "nu",
-    "pos": "adj.m."
-   },
-   "patte": {
-    "en": "leg, paw",
-    "l": "patte",
-    "pos": "n.f."
-   },
-   "peser": {
-    "en": "to weigh",
-    "l": "peser",
-    "pos": "v."
-   },
-   "poumons": {
-    "en": "lungs",
-    "l": "poumon",
-    "pos": "n.m.pl."
-   },
-   "presque": {
-    "en": "almost",
-    "l": "presque",
+   "hui": {
+    "en": "today",
+    "l": "aujourd'hui",
     "pos": "adv."
    },
-   "principalement": {
-    "en": "mainly",
-    "l": "principalement",
-    "pos": "adv."
+   "humanité": {
+    "en": "humanity",
+    "l": "humanité",
+    "pos": "n.f."
    },
-   "quatre": {
-    "en": "four",
-    "l": "quatre",
-    "pos": "num."
+   "ii": {
+    "en": "II",
+    "l": "II",
+    "pos": "numeral"
    },
-   "redoutable": {
-    "en": "formidable",
-    "l": "redoutable",
-    "pos": "adj."
+   "j-c": {
+    "en": "Jesus Christ",
+    "l": "Jésus-Christ",
+    "pos": "abbrev."
    },
-   "repose": {
-    "en": "rests",
-    "l": "reposer",
+   "long": {
+    "en": "along",
+    "l": "long",
+    "pos": "prep."
+   },
+   "longévité": {
+    "en": "longevity",
+    "l": "longévité",
+    "pos": "n.f."
+   },
+   "lorsque": {
+    "en": "when",
+    "l": "lorsque",
+    "pos": "conj."
+   },
+   "marqué": {
+    "en": "marked",
+    "l": "marquer",
     "pos": "v."
    },
-   "rouge": {
-    "en": "red",
-    "l": "rouge",
-    "pos": "adj."
+   "nil": {
+    "en": "Nile",
+    "l": "Nil",
+    "pos": "name"
    },
-   "therapsida": {
-    "en": "therapsids",
-    "l": "Therapsida",
-    "pos": "n.pr."
+   "pharaons": {
+    "en": "pharaohs",
+    "l": "pharaon",
+    "pos": "n.m.pl."
    },
-   "tonnes": {
-    "en": "tonnes",
-    "l": "tonne",
+   "prend": {
+    "en": "takes",
+    "l": "prendre",
+    "pos": "v."
+   },
+   "pyramides": {
+    "en": "pyramids",
+    "l": "pyramide",
     "pos": "n.f.pl."
    },
-   "tête": {
-    "en": "head",
-    "l": "tête",
-    "pos": "n.f."
+   "ramsès": {
+    "en": "Ramses",
+    "l": "Ramsès",
+    "pos": "name"
    },
-   "union": {
-    "en": "union",
-    "l": "union",
-    "pos": "n.f."
+   "reines": {
+    "en": "queens",
+    "l": "reine",
+    "pos": "n.f.pl."
    },
-   "vivre": {
-    "en": "to live",
-    "l": "vivre",
+   "religieuses": {
+    "en": "religious",
+    "l": "religieux",
+    "pos": "adj.f.pl."
+   },
+   "remplacée": {
+    "en": "replaced",
+    "l": "remplacer",
     "pos": "v."
    },
-   "vulnérable": {
-    "en": "vulnerable",
-    "l": "vulnérable",
-    "pos": "adj."
+   "rois": {
+    "en": "kings",
+    "l": "roi",
+    "pos": "n.m.pl."
+   },
+   "tels": {
+    "en": "such as",
+    "l": "tel",
+    "pos": "adj.m.pl."
+   },
+   "temples": {
+    "en": "temples",
+    "l": "temple",
+    "pos": "n.m.pl."
+   },
+   "tombeaux": {
+    "en": "tombs",
+    "l": "tombeau",
+    "pos": "n.m.pl."
+   },
+   "toutânkhamon": {
+    "en": "Tutankhamun",
+    "l": "Toutânkhamon",
+    "pos": "name"
+   },
+   "vestiges": {
+    "en": "remains, ruins",
+    "l": "vestige",
+    "pos": "n.m.pl."
+   },
+   "vii": {
+    "en": "VII",
+    "l": "VII",
+    "pos": "numeral"
+   },
+   "également": {
+    "en": "also",
+    "l": "également",
+    "pos": "adv."
+   },
+   "égypte": {
+    "en": "Egypt",
+    "l": "Égypte",
+    "pos": "name"
    }
   }
  },
